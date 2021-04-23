@@ -50,3 +50,48 @@
     display: block;
   }
 }
+
+.usa-nav{
+  box-shadow: 5px 5px 3px #888888;
+}
+
+.footer-link {
+  color: #00bde3;
+}
+
+.usa-megamenu.usa-nav__submenu::after
+{
+  background: none;
+}
+
+.usa-megamenu.usa-nav__submenu::before
+{
+  background: none;
+}
+
+.usa-header--extended .usa-logo {
+  margin: 0.5rem 0 1.5rem;
+}
+
+.usa-nav__secondary {
+  bottom: 6rem;
+}
+
+.footer-link-logo {
+  width: 32px;
+  height: 32px;
+  margin-right: 5px;
+  margin-bottom: 30px;
+}
+
+.usa-footer__secondary-link {
+  display: flex;
+}
+
+.usa-footer__secondary-link a {
+  text-decoration: none;
+}
+
+.right-link{
+  margin-top: 5px;
+}

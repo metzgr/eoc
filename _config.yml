@@ -18,7 +18,7 @@
 # Be sure to edit the values below
 ##########################################################################################
 
-title: Agency Name
+title: Evaluation.gov
 email: contact@example.gov
 description: >- # this means to ignore newlines until "baseurl:"
   Agency Name (EAC) Lorem ipsum dolor sit amet, consectetur adipiscing elit.
@@ -46,7 +46,7 @@ twitter: 18F
 # DHS     - Department of Homeland Security
 # HUD     - Department of Housing and Urban Development
 # DOJ     - Department of Justice
-# DOL     - Department of Labor
+# DOL     - Department of LaborEva
 # DOS     - Department of State
 # DOI     - Department of the Interior
 # TREAS   - Department of the Treasury
@@ -79,20 +79,60 @@ ga:
 primary_navigation:
   - name: Home
     url: /
-  - name: Blog
+  - name: The Council
     url: /blog/
-  - name: Document
-    url: /document/
-  - name: Document with sidenav
-    url: /document-with-sidenav/
-  - name: Document submenu
     children:
-      - name: Navigation link
+      - name: Evaluation Officer Council Members
+        url: "/blog#main-content"
+      - name: Interagency Council of Evaluation Policy
+        url: "/blog#main-content"
+  - name: Agencies
+    url: /document/
+    children: 
+      - name: Department of Agriculture
+        url: "#content1"      
+      - name: Department of Agriculture
+        url: "#content1"
+      - name: Department of Agriculture
+        url: "#content1"      
+      - name: Department of Agriculture
+        url: "#content1"  
+      - name: Department of Agriculture
+        url: "#content1"      
+      - name: Department of Agriculture
+        url: "#content1"
+      - name: Department of Agriculture
+        url: "#content1"      
+      - name: Department of Agriculture
+        url: "#content1"  
+      - name: Department of Agriculture
+        url: "#content1"      
+      - name: Department of Agriculture
+        url: "#content1"
+      - name: Department of Agriculture
+        url: "#content1"      
+      - name: Department of Agriculture
+        url: "#content1"  
+      - name: Department of Agriculture
+        url: "#content1"      
+      - name: Department of Agriculture
+        url: "#content1"
+      - name: Department of Agriculture
+        url: "#content1"      
+      - name: Department of Agriculture
+        url: "#content1"  
+  - name: Evidence Plans
+    children:
+      - name: Learning Agendas
         url: "#main-content"
-      - name: Navigation link
+      - name: Capacity Assessments
         url: "#main-content"
-      - name: Navigation link
+      - name: Annual Evalution Plans
         url: "#main-content"
+      - name: Evaluation Policies
+        url: "#main-content"
+  - name: Resources
+    url: "#main-content"
 
 secondary_navigation:
   - name: Secondary link
@@ -200,3 +240,4 @@ assets:
     - node_modules/uswds/dist/js
     - node_modules/uswds/dist/scss
     - node_modules/netlify-cms/dist
+    - _assets/images
