@@ -18,7 +18,7 @@
 # Be sure to edit the values below
 ##########################################################################################
 
-title: Agency Name
+title: Evaluation.gov
 email: contact@example.gov
 description: >- # this means to ignore newlines until "baseurl:"
   Agency Name (EAC) Lorem ipsum dolor sit amet, consectetur adipiscing elit.
@@ -46,7 +46,7 @@ twitter: 18F
 # DHS     - Department of Homeland Security
 # HUD     - Department of Housing and Urban Development
 # DOJ     - Department of Justice
-# DOL     - Department of Labor
+# DOL     - Department of LaborEva
 # DOS     - Department of State
 # DOI     - Department of the Interior
 # TREAS   - Department of the Treasury
@@ -79,26 +79,87 @@ ga:
 primary_navigation:
   - name: Home
     url: /
-  - name: Blog
+  - name: The Council
     url: /blog/
-  - name: Document
-    url: /document/
-  - name: Document with sidenav
-    url: /document-with-sidenav/
-  - name: Document submenu
     children:
-      - name: Navigation link
+      - name: Evaluation Officer Council Members
+        url: "/blog#main-content"
+      - name: Interagency Council of Evaluation Policy
+        url: "/blog#main-content"
+  - name: Agencies
+    url: /document/
+    ismegamenu: true
+    children: 
+      - name: Cloumn1
+        children:
+          - name: Department of Agriculture
+            url: "#content1"      
+          - name: Department of Commerce
+            url: "#content1"
+          - name: Department of Defense
+            url: "#content1"      
+          - name: Department of Education
+            url: "#content1"  
+          - name: Department of Energy
+            url: "#content1"
+          - name: Department of Health and Human Services
+            url: "#content1"      
+          - name: Department of Homeland Security
+            url: "#content1"
+      - name: Cloumn2
+        children:
+          - name: Department of Housing and Urban Development
+            url: "#content1"      
+          - name: Department of the Interior 
+            url: "#content1"
+          - name: Department of Justice
+            url: "#content1"      
+          - name: Department of Labor
+            url: "#content1"  
+          - name: Department of State
+            url: "#content1"      
+          - name: Department of Transportation
+            url: "#content1"  
+      - name: Cloumn3
+        children:
+          - name: Department of the Treasury
+            url: "#content1"      
+          - name: Department of Veterans Affairs
+            url: "#content1"
+          - name: Environmental Protection Agency
+            url: "#content1"      
+          - name: General Services Administration
+            url: "#content1"  
+          - name: National Aeronautics and Space Administration
+            url: "#content1"  
+      - name: Cloumn4
+        children:
+          - name: National Science Foundation
+            url: "#content1"      
+          - name: Office of Personnel Management
+            url: "#content1"
+          - name: Small Business Administration
+            url: "#content1"      
+          - name: Social Security Administration
+            url: "#content1"  
+          - name: United States Agency for International Development
+            url: "#content1"    
+            hasSeperator: true  
+          - name: Other Federal Agencies
+            url: "#content1"
+  - name: Evidence Plans
+    children:
+      - name: Learning Agendas
         url: "#main-content"
-      - name: Navigation link
+      - name: Capacity Assessments
         url: "#main-content"
-      - name: Navigation link
+      - name: Annual Evalution Plans
         url: "#main-content"
+      - name: Evaluation Policies
+        url: "#main-content"
+  - name: Resources
+    url: "#main-content"
 
-secondary_navigation:
-  - name: Secondary link
-    url: "#main-content"
-  - name: Another secondary link
-    url: "#main-content"
 
 # Search.gov configuration
 #
@@ -200,3 +261,4 @@ assets:
     - node_modules/uswds/dist/js
     - node_modules/uswds/dist/scss
     - node_modules/netlify-cms/dist
+    - _assets/images
