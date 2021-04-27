@@ -106,3 +106,18 @@
   padding-left: 3rem;
   padding-right: 3rem;
 }
+
+.right-link-section {
+  padding-top: 2rem;
+}
+
+.usa-footer__primary-link {
+  padding-bottom: 0.25rem;
+}
+
+@media screen and (max-width: 640px) {
+  .usa-logo img {
+    height: 45px;
+    margin-top: 15px;
+  }
+}
