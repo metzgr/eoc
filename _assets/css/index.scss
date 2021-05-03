@@ -65,16 +65,12 @@
   background: none;
 }
 
-.usa-footer__secondary-link {
-  display: flex;
-}
-
-.usa-footer__secondary-link a {
-  text-decoration: none;
-}
-
 @media screen and (max-width: 640px) {
   .usa-logo img {
     height: 45px;
   }
+}
+
+.custom-link-color {
+  color: #00769C;
 }
