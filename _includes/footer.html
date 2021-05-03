@@ -1,5 +1,5 @@
-<footer class="usa-footer usa-footer--slim">
-  <div class="usa-footer__primary-section">
+<footer class="usa-footer usa-footer--big">
+  <div class="usa-footer__primary-section bg-base-lightest">
     <div class="usa-footer__primary-container">
       <div class="tablet:grid-col-12">
         <nav class="usa-footer__nav" aria-label="Footer navigation top">
@@ -13,7 +13,7 @@
             <li class="mobile-lg:grid-col-6 desktop:grid-col-4 usa-footer__primary-content">
               <div class="usa-footer__primary-link">Contact Us:
                 <br>
-                <a class="text-accent-cool" href="mailto:evidence@omb.eop.gov">evidence@omb.eop.gov</a>
+                <a class="custom-link-color" href="mailto:evidence@omb.eop.gov">evidence@omb.eop.gov</a>
               </div>
             </li>
           </ul>
@@ -31,9 +31,9 @@
                   <h4 class="usa-footer__primary-link">RELATED SITES</h4>
                   <ul class="usa-list usa-list--unstyled">
                     <li class="usa-footer__secondary-link"><a href="https://performance.gov">Performance.gov</a></li>
-                    <li class="usa-footer__secondary-link"><a href="https://stategy.data.gov">Stategy.data.gov</a></li>
+                    <li class="usa-footer__secondary-link"><a href="https://strategy.data.gov/">Strategy.data.gov</a></li>
                     <li class="usa-footer__secondary-link"><a href="https://resources.data.gov">Resources.data.gov</a></li>
-                    <li class="usa-footer__secondary-link"><a href="javascript:void(0);">Evidence and Evaluation Community</a></li>
+                    <li class="usa-footer__secondary-link">Evidence and Evaluation Community [website pending]</li>
                   </ul>
                 </section>
               </div>
@@ -42,27 +42,35 @@
                   <h4 class="usa-footer__primary-link">RELATED COUNCILS</h4>
                   <ul class="usa-list usa-list--unstyled">
                     <li class="usa-footer__secondary-link"><a href="https://www.cdo.gov">CDO Council</a></li>
-                    <li class="usa-footer__secondary-link"><a href="javascript:void(0);">ICSP</a></li>
-                    <li class="usa-footer__secondary-link"><a href="javascript:void(0);">FCSM</a></li>
+                    <li class="usa-footer__secondary-link">ICSP [website pending]</li>
+                    <li class="usa-footer__secondary-link">FCSM [website pending]</li>
                     <li class="usa-footer__secondary-link"><a href="https://www.cio.gov">CIO Council</a></li>
                   </ul>
                 </section>
               </div>
               <div class="mobile-lg:grid-col-4 desktop:grid-col-4">
-                <section class="usa-footer__primary-content usa-footer__primary-content--collapsible">
-                  <div class="usa-footer__primary-link padding-top-3"> </div>
-                  <ul class="usa-list usa-list--unstyled">
-                    <li class="usa-footer__secondary-link">
-                      {%- assign gsa="/assets/images/logo-gsa.png"-%}
-                      <img class="height-3 width-3 margin-right-05 margin-bottom-4" alt="GSA logo" src="{{site.baseurl}}{{-gsa-}}"> 
-                      <span>General Services Administration</span>
-                    </li>
-                    <li class="usa-footer__secondary-link">
-                      {%- assign omb="/assets/images/logo-omb.png"-%}
-                      <img class="height-3 width-3 margin-right-05 margin-bottom-4" alt="Office of Management and Budget logo" src="{{site.baseurl}}{{-omb-}}">
-                      <span>Office of Management and Budget</span>
-                    </li>
-                  </ul>
+                <section class="usa-footer__primary-content usa-footer__primary-content--collapsible">                                  
+                    <div class="grid-container padding-x-0">
+                      <div class="grid-row">
+                        <div class="grid-col-auto">
+                          {%- assign gsa="/assets/images/logo-gsa.png"-%}
+                        <img class="height-6 width-6 margin-right-05 margin-bottom-4" alt="General Service Administration Logo" src="{{site.baseurl}}{{-gsa-}}"> 
+                        </div>
+                        <div class="grid-col-fill padding-top-1">
+                          <span>General Services Administration</span>
+                        </div>
+                      </div>
+                    
+                      <div class="grid-row">
+                        <div class="grid-col-auto">
+                        {%- assign omb="/assets/images/logo-omb.png"-%}
+                        <img class="height-6 width-6 margin-right-05 margin-bottom-4" alt="Office of Management and Budget Logo" src="{{site.baseurl}}{{-omb-}}">
+                        </div>
+                        <div class="grid-col-fill padding-top-1">
+                          <span>Office of Management and Budget</span>
+                        </div>
+                      </div>
+                    </div>
                 </section>
               </div>
             </div>
