@@ -7,13 +7,10 @@
 // $theme-hero-image: asset_path("whatever-the-default-is.png");
 
 @import "uswds";
-
 // Example - Override the background image in the hero component using CSS:
-//.usa-hero {
-//  background-image: asset_url("your-image.png")
-//  background-position: 50%;
-//  background-size: cover;
-//}
+.usa-hero {
+ background-image: url("/assets/images/welcome_image.jpg");
+}
 
 /*
   Add your SASS/CSS here
@@ -55,13 +52,11 @@
   box-shadow: 5px 5px 3px #888888;
 }
 
-.usa-megamenu.usa-nav__submenu::after
-{
+.usa-megamenu.usa-nav__submenu::after {
   background: none;
 }
 
-.usa-megamenu.usa-nav__submenu::before
-{
+.usa-megamenu.usa-nav__submenu::before {
   background: none;
 }
 
@@ -72,15 +67,81 @@
 }
 
 .custom-link-color {
-  color: #00769C;
+  color: #00769c;
 }
 
-.usa-footer--big .usa-footer__primary-link 
-{
+.usa-footer--big .usa-footer__primary-link {
   font-family: Source Sans Pro Web, Helvetica Neue, Helvetica, Roboto, Arial, sans-serif;
 }
 
-.margin-right-05
-{
-  margin-right: 1.25rem
+.margin-right-05 {
+  margin-right: 1.25rem;
+}
+
+.backgroundCover {
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background: url("/assets/images/vision_image.jpg");
+  background-size: cover;
+}
+
+.top .usa-button:visited {
+  color: #2a4294;
+}
+.top .usa-button:hover {
+  color: #fff;
+}
+
+.top {
+  padding: 30px 0;
+}
+
+.carousel {
+  padding: 40px;
+  border-radius: 30px;
+  color: #fff;
+  padding-bottom: 20px;
+}
+
+.carousel__track {
+  color: #ffffff;
+  text-align: left;
+}
+
+.slick-prev {
+  left: 5px;
+}
+.slick-next {
+  right: 5px;
+}
+
+.slick-dots {
+  position: inherit;
+  bottom: 15px;
+  display: block;
+  width: 100%;
+  padding: 0;
+  margin: 0;
+  list-style: none;
+}
+.bottom .slick-dots {
+  text-align: center;
+  right: 0;
+}
+.slick-dots li button:before {
+  color: #fff;
+  font-size: 15px;
+}
+
+.slick-dots li.slick-active button:before {
+  color: #fff;
+  opacity: 1;
+}
+.slick-dotted.slick-slider {
+  margin-bottom: 0;
+}
+
+.slick-dots li.slick-active button:before {
+  color: #ffffff;
 }
