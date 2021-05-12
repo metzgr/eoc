@@ -10,6 +10,7 @@
 // Example - Override the background image in the hero component using CSS:
 .usa-hero {
  background-image: url(asset_path("welcome_image.jpg"));
+ background-position-y: -105px;
 }
 
 /*
