@@ -152,3 +152,77 @@
 .slick-dots li.slick-active button:before {
   color: #ffffff;
 }
+
+
+.container__leadership .border-1px {
+  border-color: #e6e6e2;
+}
+@media screen and (max-width: 640px) {
+  .container__leadership .card__leadership {
+      margin-bottom: 2rem;
+  }
+  .container__leadership .card__leadership:last-child {
+      margin-bottom: 0;
+  }
+}
+.container__leadership .left {
+  width: 30%;
+  float: left;
+  height: 135px;
+}
+.container__leadership .left.card__image--seal {
+  height: 115px;
+}
+.container__leadership .left img {
+  width: 130px;
+  max-width: 100%;
+}
+.container__leadership .left img.card__image--seal {
+  height: 82px;
+  width: auto;
+}
+.container__leadership .right {
+  width: 70%;
+  height: 135px;
+  float: right;
+}
+.container__leadership .name {
+  font-weight: bold;
+}
+.container__leadership .title,
+.container__leadership .role,
+.container__leadership .council {
+  font-size: 13px;
+  display: block;
+}
+.container__leadership .role {
+  font-style: italic;
+}
+.container__leadership .title {
+  margin-top: 0.75rem;
+}
+.container__leadership .usa-list--unstyled {
+  text-indent: -1em;
+  padding-left: 1em;
+  height: 7.5em;
+}
+@media screen and (min-width: 640px) and (max-width: 768px) {
+  .container__leadership .usa-list--unstyled {
+      height: 10em;
+  }
+}
+.container__leadership .usa-list--unstyled > li:first-child {
+  margin-top: 0;
+}
+.container__leadership .usa-list--unstyled > li {
+  margin-top: 0.25em;
+}
+.card__members .right,
+.card__members .left {
+  height: 115px;
+}
+@media screen and (max-width: 768px) {
+  img {
+      max-width: 50%;
+  }
+}

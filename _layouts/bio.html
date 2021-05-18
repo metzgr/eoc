@@ -1,0 +1,39 @@
+---
+layout: page
+---
+<div class="grid-container" xmlns="http://www.w3.org/1999/html">
+    <section class="usa-graphic-list margin-top-6">
+        <div class="padding-left-0">
+            <div class="grid-row">
+                <div class="desktop:grid-col-3 padding-right-3">
+                    <img style="width: 150px;" src="{{ site.baseurl }}/assets/images/members/{{ page.bio-image }}" alt="{{page.bio-image-alt-text }} portrait">
+                </div>
+                <div class="desktop:grid-col-9">
+                    {% if page.role %}
+                    <h3>{{ page.role | upcase }}</h3>
+                    {% endif %}
+
+                    {% if page.name %}
+                    <h2 class="font-alt-xl margin-bottom-2">{{ page.name  }}</h2>
+                    {% endif %}
+                    {% if page.department %}
+                    <h3 class="font-sans-lg margin-top-0 margin-bottom-105">
+                            {{ page.job-title }},
+                            {{ page.department }}
+                        {% endif %}
+                    </h3>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <div class="fade_line"></div>
+
+    <section class="usa-graphic-list usa-section" style="padding-top:0">
+        <div class="desktop:grid-col-12">
+            {{ content }}
+        </div>
+
+        <br>
+    </section>
+</div>
