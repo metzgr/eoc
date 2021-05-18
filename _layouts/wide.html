@@ -1,9 +1,20 @@
 ---
-layout: default
+layout: base
 ---
 
 {% comment %}
-This template is used when you want to fill the width of the page. By default, it's only used in the homepage
+This template is for a single page that does not have a date associated with it. For example, an about page.
 {% endcomment %}
 
-{{ content }}
+<div id="main-content" class="usa-layout-docs usa-section">
+  <div class="grid-container">
+    <div class="grid-row grid-gap">
+      {% if page.sidenav == true %}
+      {% include sidenav.html %}
+      {% endif %}
+      <main>
+        {{ content }}
+      </main>
+    </div>
+  </div>
+</div>
