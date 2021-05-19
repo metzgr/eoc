@@ -84,7 +84,7 @@ primary_navigation:
     children:
       - name: Evaluation Officer Council
         url: "/evaluation-officer-council#officer"
-      - name: Council Members
+      - name: Evaluation Officers
         url: "/evaluation-officer-council#members"
       - name: Interagency Council on Evaluation Policy
         url: "/evaluation-officer-council#policy"
