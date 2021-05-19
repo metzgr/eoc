@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 <section class="grid-container padding-left-0 padding-right-1">
-<h1 class="margin-0 font-ui-2xl">About this Site</h1>
+<h1 class="margin-0">About this Site</h1>
 <h2>What is Evaluation.gov</h2>
         <p>This includes:</p>
         <ul>
