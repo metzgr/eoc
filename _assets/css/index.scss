@@ -18,6 +18,11 @@
   max-width: 40rem;
 }
 
+html {
+  font-size: 1.06rem;
+  line-height: 1.5;
+}
+
 /*
   Add your SASS/CSS here
 */
@@ -159,10 +164,10 @@
 }
 @media screen and (max-width: 640px) {
   .container__leadership .card__leadership {
-      margin-bottom: 2rem;
+    margin-bottom: 2rem;
   }
   .container__leadership .card__leadership:last-child {
-      margin-bottom: 0;
+    margin-bottom: 0;
   }
 }
 .container__leadership .left {
@@ -208,7 +213,7 @@
 }
 @media screen and (min-width: 640px) and (max-width: 768px) {
   .container__leadership .usa-list--unstyled {
-      height: 10em;
+    height: 10em;
   }
 }
 .container__leadership .usa-list--unstyled > li:first-child {
@@ -219,10 +224,18 @@
 }
 .card__members .right,
 .card__members .left {
-  height: 115px;
+  height: 135px;
+  @media screen and (max-width: 768px) {
+    height: 115px;
+  }
 }
 @media screen and (max-width: 768px) {
   img {
-      max-width: 50%;
+    max-width: 50%;
   }
+}
+
+.section-divider {
+  min-height: 100px;
+  background: linear-gradient(to bottom, #f0f0f0 15% ,#ffffff 100%);
 }
