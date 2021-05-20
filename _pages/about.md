@@ -7,6 +7,7 @@ permalink: /about/
 <section class="grid-container padding-left-0 padding-right-1">
 <h1 class="margin-0">About this Site</h1>
 <h2>What is Evaluation.gov</h2>
+<p>Evaluation.gov communicates how the Federal Government is planning for, building, and using varied forms of evidence, including evaluation, to inform effective policy-making.</p>
         <p>This includes:</p>
         <ul>
             <li>The Evaluation Officer Council and their activities;</li>
