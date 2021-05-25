@@ -1,0 +1,23 @@
+---
+layout: default
+---
+
+{% comment %}
+This is used in blog posts. The index page can be found at blog/index.html
+{% endcomment %}
+
+
+
+<div class="usa-layout-docs usa-section">
+    <div class="grid-container">
+<div class="grid-row grid-gap">
+    <div class="grid-col-3">
+        {% include sidenav-evidence-plans.html %}
+    </div>
+    <div class="grid-col-9">
+        {{ content }}
+    </div>
+</div>
+    </div>
+</div>
+
