@@ -80,12 +80,14 @@ primary_navigation:
   - name: Home
     url: /
   - name: The Council
-    url: /blog/
+    url: /evaluation-officer-council/
     children:
-      - name: Evaluation Officer Council Members
-        url: "/blog#main-content"
-      - name: Interagency Council of Evaluation Policy
-        url: "/blog#main-content"
+      - name: Evaluation Officer Council
+        url: "/evaluation-officer-council#officer"
+      - name: Evaluation Officers
+        url: "/evaluation-officer-council#members"
+      - name: Interagency Council on Evaluation Policy
+        url: "/evaluation-officer-council#policy"
   - name: Agencies
     url: /document/
     ismegamenu: true
@@ -191,6 +193,8 @@ collections:
   pages:
     output: true
     permalink: /:path/
+  members:
+    output: true
 
 permalink: pretty
 
