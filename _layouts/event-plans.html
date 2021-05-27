@@ -59,7 +59,6 @@ This is used in blog posts. The index page can be found at blog/index.html
             <div class="usa-graphic-list__row grid-row grid-gap padding-top-0">
                 {% for evaluation-policy in site.evaluation-policy %}
                 <div class="tablet:grid-col-6 container margin-bottom-4">
-
                     <div class="grid-container">
                         <div class="grid-row">
                             <div class="tablet:grid-col-4"><a href="{{ evaluation-policy.plan-link }}" target="_blank">
@@ -72,6 +71,25 @@ This is used in blog posts. The index page can be found at blog/index.html
                 </a>
                 </div>
                 {% endfor %}
+            </div>
+        </div>
+        <h1>Other Agencies</h1>
+        <div class="grid-containe padding-left-0 padding-right-0">
+            <div class="usa-graphic-list__row grid-row grid-gap padding-top-0">
+        {% for other-agencies in site.other-agencies %}
+        <div class="tablet:grid-col-6 container margin-bottom-4">
+            <div class="grid-container">
+                <div class="grid-row">
+                    <div class="tablet:grid-col-4"><a href="{{ other-agencies.plan-link }}" target="_blank">
+                        <img class="usa-media_block-img" src="{{site.baseurl}}/{{ other-agencies.agency-logo }}" alt="agency logo" width="75"></a></div>
+                    <div class="tablet:grid-col-8"><p style="font-size:125%;line-height:1;margin-bottom:.5em;margin-top:.5em;">{{ other-agencies.agency-name }}</p><a href="{{ other-agencies.plan-link }}" target="_blank">
+                        <p style="line-height:1;margin-bottom:.25em;margin-top:.5em;">Agency Evaluation Policy</p></a></div>
+
+                </div>
+            </div>
+            </a>
+        </div>
+        {% endfor %}
             </div>
         </div>
 

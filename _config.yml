@@ -199,7 +199,8 @@ collections:
     output: true
   annual-evaluation-plans:
     output: true
-
+  other-agencies:
+    output: true
 
 permalink: pretty
 
