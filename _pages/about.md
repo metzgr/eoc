@@ -50,8 +50,8 @@ permalink: /about/
         </button>
       </h3>
       <div id="b-a3" class="usa-accordion__content">
-        <p><strong><em>Links to Other Sites</em></strong><br /> 
-        Evaluation.gov includes hypertext links or pointers to information created and maintained by other Federal Government agencies and/or other public or private organizations. Evaluation.gov provides these links and pointers for your information and convenience. If you click on a link to an outside or third-party website, you will leave the Evaluation.gov website, and your activity on any third-party sites will be governed by the third parties’ privacy and security policies.</p>
+        <p><strong><em>Links to Other Sites</em></strong></p> 
+        <p>Evaluation.gov includes hypertext links or pointers to information created and maintained by other Federal Government agencies and/or other public or private organizations. Evaluation.gov provides these links and pointers for your information and convenience. If you click on a link to an outside or third-party website, you will leave the Evaluation.gov website, and your activity on any third-party sites will be governed by the third parties’ privacy and security policies.</p>
         <p>Please note, Evaluation.gov is not responsible for the content of any third-party website. The inclusion of links and pointers to third-party websites is not intended to assign importance to those sites or the information contained on those sites, and should not be considered an endorsement or a recommendation by Evaluation.gov, the Evaluation Officer Council, or the Evidence Team, of any views or materials offered by these sites. Evaluation.gov does not control or guarantee the accuracy, relevance, timeliness, or completeness of the information contained on any linked site.</p>
         <p><strong><em>Linking to Evaluation.gov</em></strong></p>
         <p>This is a public domain website, which means you may link to Evaluation.gov at no cost and without specific permission.</p>
