@@ -1,5 +1,5 @@
 ---
-layout: base2
+layout: event-plans
 permalink: /evidence-plans/summary/
 ---
 
