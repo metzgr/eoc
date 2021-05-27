@@ -5,7 +5,6 @@ permalink: /faqs/
 ---
 
 <section class="grid-container padding-left-0 padding-right-1">
-<h1 class="margin-0">Frequently Asked Questions</h1>
 <h2>Questions about the site</h2>
 <div class="usa-accordion usa-accordion--bordered">
       <!-- Use the accurate heading level to maintain the document outline -->
