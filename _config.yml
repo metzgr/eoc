@@ -153,13 +153,13 @@ primary_navigation:
     children:
       - name: Summary
         url: "/evidence-plans/summary/"
-      - name: Learning Agendas
+      - name: Learning Agenda
         url: "/evidence-plans/learning-agenda/"
       - name: Capacity Assessments
         url: "/evidence-plans/capacity-assessments/"
       - name: Annual Evaluation Plans
         url: "/evidence-plans/annual-evaluation-plan/"
-      - name: Evaluation Policies
+      - name: Evaluation Policy
         url: "/evidence-plans/evaluation-policies/"
   - name: Resources
     url: "#main-content"
