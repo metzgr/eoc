@@ -5,7 +5,7 @@ permalink: /resources/
 ---
 
 <section class="usa-graphic-list">
-  <div class="grid-container">
+  <div class="grid-container margin-0 padding-0">
     <div class="usa-graphic-list__row grid-row grid-gap">
         <h2 class="font-sans-lg text-primary-darker">A Resource about Privacy for Federal Government Agencies</h2>
         <p>[FPC.gov](https://www.fpc.gov/) is the website of the Federal Privacy Council. The Federal Privacy Council 
@@ -17,7 +17,7 @@ permalink: /resources/
 </section>
 
 <section class="usa-graphic-list margin-bottom-4">
-  <div class="grid-container">
+  <div class="grid-container margin-0 padding-0">
     <div class="usa-graphic-list__row grid-row grid-gap">
       {% include resources-buttons.html %}  
       {% include resource-data.html %}
