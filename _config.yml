@@ -201,6 +201,8 @@ collections:
     output: true
   other-agencies:
     output: true
+  resources:
+    output: true
 
 permalink: pretty
 
