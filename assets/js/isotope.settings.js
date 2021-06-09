@@ -63,7 +63,7 @@ function updateFilterCount() {
         // data-filter-group key for the current nav group
         var filterGroup = $navGroup.attr("data-filter-group");
         // If the current data-filter attribute matches the current filter,
-        if ( currentFilter == hashFilter["resource"] || currentFilter == hashFilter["role"] || currentFilter == hashFilter["status"] || currentFilter == hashFilter["year"] ) {
+        if ( currentFilter == hashFilter["resource"] || currentFilter == hashFilter["role"] || currentFilter == hashFilter["content"] || currentFilter == hashFilter["year"] ) {
             // Reset group filter as the user has unselected the button
             filters[ filterGroup ] = "*";
         } else {
