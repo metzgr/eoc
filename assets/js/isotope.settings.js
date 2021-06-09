@@ -19,11 +19,9 @@ var iso = $container.data('isotope');
 var $filterCount = $('.filter-count');
 function updateFilterCount() {
     if (iso != null ){
-        $filterCount.text( iso.filteredItems.length + ' items count' );
+        $filterCount.text( iso.filteredItems.length + ' items' );
     }
 }
-
-
 
     // Alphabetical sort
     // Sort items alphabetically based on course title
