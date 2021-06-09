@@ -54,9 +54,10 @@ function updateFilterCount() {
         // Current hash value
         var hashFilter = getHashFilter();
         // Set filters to current values (important for first run)
-        filters["subject"] = hashFilter["subject"];
+        filters["resource"] = hashFilter["resource"];
         filters["role"] = hashFilter["role"];
-        filters["status"] = hashFilter["status"];
+        filters["content"] = hashFilter["content"];
+        filters["year"] = hashFilter["year"];
         // data-filter attribute of clicked button
         var currentFilter = $(this).attr("data-filter");
         // Navigation group (subject or role) as object
@@ -64,7 +65,7 @@ function updateFilterCount() {
         // data-filter-group key for the current nav group
         var filterGroup = $navGroup.attr("data-filter-group");
         // If the current data-filter attribute matches the current filter,
-        if ( currentFilter == hashFilter["subject"] || currentFilter == hashFilter["role"] || currentFilter == hashFilter["status"] ) {
+        if ( currentFilter == hashFilter["resource"] || currentFilter == hashFilter["role"] || currentFilter == hashFilter["status"] || currentFilter == hashFilter["year"] ) {
             // Reset group filter as the user has unselected the button
             filters[ filterGroup ] = "*";
         } else {
@@ -73,7 +74,7 @@ function updateFilterCount() {
         }
         // Create new hash
         // var newHash = "subject=" + encodeURIComponent( filters["subject"] ) + "&role=" + encodeURIComponent( filters["role"] ) + "&status=" + encodeURIComponent( filters["status"] );
-        var newHash = "subject=" +  filters["subject"]  + "&role=" +  filters["role"]   + "&status=" +  filters["status"] ;
+        var newHash = "resource=" +  filters["resource"]  + "&role=" +  filters["role"]   + "&content=" +  filters["content"] + "&year=" +  filters["year"];
         // If sort value exists, add it to hash
         if ( sortValue ) {
             newHash = newHash + "&sort=" + encodeURIComponent( sortValue );
@@ -86,7 +87,7 @@ function updateFilterCount() {
         // Current hash value
         var hashFilter = getHashFilter();
         // Concatenate subject and role for Isotope filtering
-        var theFilter = hashFilter["subject"] + hashFilter["role"] + hashFilter["status"];
+        var theFilter = hashFilter["resource"] + hashFilter["role"] + hashFilter["content"] + hashFilter["year"];
 
         if ( hashFilter ) {
             // Repaint Isotope container with current filters and sorts
@@ -104,11 +105,13 @@ function updateFilterCount() {
             }
             // Toggle checked status of filter buttons
             $( ".filter-list" ).find(".checked").removeClass("checked").attr("aria-checked","false");
-            var subjectFilters = hashFilter["subject"].split(",");
+            var resourceFilters = hashFilter["resource"].split(",");
             var roleFilters = hashFilter["role"].split(",");
-            var statusFilters = hashFilter["status"].split(",");
-            var allFilters = subjectFilters.concat(roleFilters);
-            allFilters = allFilters.concat(statusFilters);
+            var contentFilters = hashFilter["content"].split(",");
+            var yearFilters = hashFilter["year"].split(",");
+            var allFilters = resourceFilters.concat(roleFilters);
+            allFilters = allFilters.concat(contentFilters);
+            allFilters = allFilters.concat(yearFilters);
             for (filter in allFilters){
                 $( ".filter-list" ).find("[data-filter='" + allFilters[filter] + "']").addClass("checked").attr("aria-checked","true");
             }
@@ -118,17 +121,19 @@ function updateFilterCount() {
 
     function getHashFilter() {
         // Get filters (matches) and sort order (sorts)
-        var subject = location.hash.match( /subject=([^&]+)/i );
+        var resource = location.hash.match( /resource=([^&]+)/i );
         var role = location.hash.match( /role=([^&]+)/i );
-        var status = location.hash.match( /status=([^&]+)/i );
+        var content = location.hash.match( /content=([^&]+)/i );
+        var year = location.hash.match( /year=([^&]+)/i );
         var sorts = location.hash.match( /sort=([^&]+)/i );
 
         // Set up a hashFilter array
         var hashFilter = {};
         // Populate array with matches and sorts using ternary logic
-        hashFilter["subject"] = subject ? subject[1] : "*";
+        hashFilter["resource"] = resource ? resource[1] : "*";
         hashFilter["role"] = role ? role[1] : "*";
-        hashFilter["status"] = status ? status[1] : "*";
+        hashFilter["content"] = content ? content[1] : "*";
+        hashFilter["year"] = year ? year[1] : "*";
         hashFilter["sorts"] = sorts ? sorts[1]: "";
 
         return hashFilter;
