@@ -34,17 +34,35 @@
   margin-bottom: 0;
   display: block;
 }
+.usa-footer__logo-img {
+  max-width: 4rem;
+}
+.txt-align-footer {
+  padding-top: 1.2rem;
+  padding-left: 0.6rem;
+}
 /* ---------------- IPAD CSS ----------------------- */
 @media (max-width: 768px) {
   .text-container {
     height: 18rem;
    }
+   .txt-align-footer {
+    padding-top: .5rem;
+    padding-left: 0.6rem;
+}
 }
 /* ---------------- MOBILE CSS ----------------------- */
 @media screen and (max-width: 640px) {
   .text-container {
     height: 11rem;
    }
+  .count {
+    margin-top: 1.06rem;
+  }
+  .txt-align-footer {
+    padding-top: 1.5rem;
+    padding-left: 0.6rem;
+  }
 }
 
 @media screen and (max-width: 1025px) {
