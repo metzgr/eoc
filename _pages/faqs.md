@@ -126,7 +126,7 @@ permalink: /faqs/
         </button>
       </h3>
       <div id="b-a10" class="usa-accordion__content">
-        <p>You can learn more about the Evidence Act on our resources page.</p>
+        <p>You can learn more about the Evidence Act on our <a href="{{site.baseurl}}/resources/">resources</a> page.</p>
       </div>
       <br />
    <h2>Questions about the evidence planning documents required by the Evidence Act</h2>
