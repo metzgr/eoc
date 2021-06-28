@@ -68,7 +68,6 @@ permalink: /about/
       </h3>
       <div id="b-a1" class="usa-accordion__content">
         <p>Most of the material on Evaluation.gov website is created by Federal employees, and you may reproduce, publish or otherwise use it without permission consistent with the Copyright Act of 1976. Please consider appropriate citation to the Evaluation.gov as the source. Copyrighted materials may also appear on this website, or may be reached through a link on this website. Copyright and other intellectual property laws may apply to your use of those materials.</p>
-        <p>Most images found on Evaluation.gov were licensed for use by GSA from a stock photography service or other copyright holder, who may prohibit republication, retransmission, reproduction, or any other use of the images.</p>
       </div>
       <!-- Use the accurate heading level to maintain the document outline -->
       <h3 class="usa-accordion__heading">
