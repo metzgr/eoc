@@ -11,11 +11,11 @@ permalink: /about/
         <ul>
             <li>The Evaluation Officer Council and their activities;</li>
             <li>Official guidance on Evidence Act implementation and Federal evaluation;</li>
-            <li>Links to the documents required by all CFO-Act agencies under the Evidence Act (i.e., Learning Agendas, Annual Evaluation Plans, and Capacity Assessments, as well as Evaluation Policies); and</li>
-            <li>Resources to support and improve evidence-building activities and their use, including leading examples of how Federal evaluation is helping to answer priority questions about mission and operational effectiveness.</li>
+            <li>Links to the documents required by all CFO-Act agencies under Title I of the Evidence Act (i.e., Learning Agendas, Annual Evaluation Plans, Capacity Assessments, and Evaluation Policies), as well as links to these documents for non CFO-Act agencies or agency sub-components as available; and</li>
+            <li>Resources to support and improve evaluation and its use, including leading examples of how Federal evaluation is helping to answer priority questions about mission and operational effectiveness.</li>
         </ul>
 <h2>About the OMB Evidence Team</h2>
-    The OMB Evidence Team at the Office of Management and Budget is committed to developing, building, producing and using evidence and evaluation as a tool to improve government-wide effectiveness. Toward this end, the Team coordinates and champions Evidence Act implementation across the Federal Government. Through support of the Evaluation Officer Council, engagement with the Federal evaluation community, and development of guidance and resources, the Evidence Team advances the Administration’s goal to better integrate evidence and rigorous evaluation in budget, management, operational, and policy decisions. The Evidence Team maintains this site with the support of GSA. <br />
+    The OMB Evidence Team at the Office of Management and Budget is committed to developing, building, producing and using evidence and evaluation as a tool to improve government-wide effectiveness. Toward this end, the Team coordinates and supports evidence building and use across the Federal Government. Through support of the Evaluation Officer Council, engagement with the Federal evaluation community, and development of guidance and resources, the Evidence Team advances the goal of better integrating evidence and rigorous evaluation in budget, management, operational, and policy decisions. <br />
 
 <div class="grid-container padding-left-0">
             <h2 class="font-sans-lg">Leadership</h2>
