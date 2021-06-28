@@ -57,7 +57,7 @@
   font-weight: bold;
   padding-left: 0.4rem;
 }
-.left img.photo {
+.photo {
   width: 80%;
   object-fit: cover;
 }
@@ -69,7 +69,22 @@
    .txt-align-footer {
     padding-top: .5rem;
     padding-left: 0.6rem;
-}
+   }
+   .left {
+    width: 30%;
+    float: left;
+    height: 65px;
+  }
+  .right {
+    background-color: #f0f0f0;
+    width: 70%;
+    float: right;
+    height: 70px;
+  }
+  .photo {
+    width: 80%;
+    object-fit: cover;
+  }
 }
 /* ---------------- MOBILE CSS ----------------------- */
 @media screen and (max-width: 640px) {
@@ -83,6 +98,21 @@
     padding-top: 1.5rem;
     padding-left: 0.6rem;
   }
+  .left {
+    width: 30%;
+    float: left;
+    height: 65px;
+  }
+  .right {
+    background-color: #f0f0f0;
+    width: 70%;
+    float: right;
+    height: 70px;
+  }
+  .photo {
+    width: 80%;
+    object-fit: cover;
+ }
 }
 
 @media screen and (max-width: 1025px) {
