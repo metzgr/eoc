@@ -6,14 +6,14 @@ permalink: /about/
 
 <section class="grid-container padding-left-0 padding-right-1">
 <h2>What is Evaluation.gov</h2>
-<p>Evaluation.gov a central location for the agency plans and policies that guide evaluation efforts across the Federal government and serves as a resource to support and build the Federal evaluation community.</p>
+<p>Evaluation.gov is a central location for the agency plans and policies that guide evaluation efforts across the Federal government and serves as a resource to support and build the Federal evaluation community.</p>
         <p>This includes:</p>
         <ul>
             <li>The Evaluation Officer Council and their activities;</li>
             <li>Official guidance on Evidence Act implementation and Federal evaluation;</li>
             <li>Links to the documents required by all CFO-Act agencies under the Evidence Act (i.e., Learning Agendas, Annual Evaluation Plans, and Capacity Assessments, as well as Evaluation Policies); and</li>
+            <li>Resources to support and improve evidence-building activities and their use, including leading examples of how Federal evaluation is helping to answer priority questions about mission and operational effectiveness.</li>
         </ul>
-        <p>Resources to support and improve evidence-building activities and their use, including leading examples of how Federal evaluation is helping to answer priority questions about mission and operational effectiveness.</p>
 <h2>About the OMB Evidence Team</h2>
     The OMB Evidence Team at the Office of Management and Budget is committed to developing, building, producing and using evidence and evaluation as a tool to improve government-wide effectiveness. Toward this end, the Team coordinates and champions Evidence Act implementation across the Federal Government. Through support of the Evaluation Officer Council, engagement with the Federal evaluation community, and development of guidance and resources, the Evidence Team advances the Administration’s goal to better integrate evidence and rigorous evaluation in budget, management, operational, and policy decisions. The Evidence Team maintains this site with the support of GSA. <br />
 
@@ -22,7 +22,7 @@ permalink: /about/
             <div class="usa-graphic-list__row grid-row grid-gap padding-top-0">
                 <div class="tablet:grid-col-6 container" style="padding:10px;">
                         <div class="left">
-                            <img class="photo" src="{{site.baseurl}}/assets/images/logo.png" alt="Diana Epstein">
+                            <img class="photo" src="{{site.baseurl}}/assets/images/EOC-sign-logo.png" alt="Diana Epstein">
                         </div>
                         <div class="right">
                             <p><span class="name">Diana Epstein</span></p>
@@ -30,7 +30,7 @@ permalink: /about/
                 </div>
                 <div class="tablet:grid-col-6 container" style="padding:10px;">
                         <div class="left">
-                            <img class="photo" src="{{site.baseurl}}/assets/images/logo.png" alt="Erika Liliedahl">
+                            <img class="photo" src="{{site.baseurl}}/assets/images/EOC-sign-logo.png" alt="Erika Liliedahl">
                         </div>
                         <div class="right">
                             <p><span class="name">Erika Liliedahl</span></p>
@@ -40,7 +40,7 @@ permalink: /about/
                 <div class="usa-graphic-list__row grid-row grid-gap padding-top-0">
                 <div class="tablet:grid-col-6 container" style="padding:10px;">
                         <div class="left">
-                            <img class="photo" src="{{site.baseurl}}/assets/images/logo.png" alt="Erica Zielewski">
+                            <img class="photo" src="{{site.baseurl}}/assets/images/EOC-sign-logo.png" alt="Erica Zielewski">
                         </div>
                         <div class="right">
                             <p><span class="name">Erica Zielewski</span></p>
@@ -48,7 +48,7 @@ permalink: /about/
                 </div>
                 <div class="tablet:grid-col-6 container" style="padding:10px;">
                         <div class="left">
-                            <img class="photo" src="{{site.baseurl}}/assets/images/logo.png" alt="Danielle Berman">
+                            <img class="photo" src="{{site.baseurl}}/assets/images/EOC-sign-logo.png" alt="Danielle Berman">
                         </div>
                         <div class="right">
                             <p><span class="name">Danielle Berman</span></p>
