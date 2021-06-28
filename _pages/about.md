@@ -22,7 +22,7 @@ permalink: /about/
             <div class="usa-graphic-list__row grid-row grid-gap padding-top-0">
                 <div class="tablet:grid-col-6 container" style="padding:10px;">
                         <div class="left">
-                            <img class="photo" src="/assets/images/logo.png" alt="Diana Epstein">
+                            <img class="photo" src="{{site.baseurl}}/assets/images/logo.png" alt="Diana Epstein">
                         </div>
                         <div class="right">
                             <p><span class="name">Diana Epstein</span></p>
@@ -30,7 +30,7 @@ permalink: /about/
                 </div>
                 <div class="tablet:grid-col-6 container" style="padding:10px;">
                         <div class="left">
-                            <img class="photo" src="/assets/images/logo.png" alt="Erika Liliedahl">
+                            <img class="photo" src="{{site.baseurl}}/assets/images/logo.png" alt="Erika Liliedahl">
                         </div>
                         <div class="right">
                             <p><span class="name">Erika Liliedahl</span></p>
@@ -40,7 +40,7 @@ permalink: /about/
                 <div class="usa-graphic-list__row grid-row grid-gap padding-top-0">
                 <div class="tablet:grid-col-6 container" style="padding:10px;">
                         <div class="left">
-                            <img class="photo" src="/assets/images/logo.png" alt="Erica Zielewski">
+                            <img class="photo" src="{{site.baseurl}}/assets/images/logo.png" alt="Erica Zielewski">
                         </div>
                         <div class="right">
                             <p><span class="name">Erica Zielewski</span></p>
@@ -48,7 +48,7 @@ permalink: /about/
                 </div>
                 <div class="tablet:grid-col-6 container" style="padding:10px;">
                         <div class="left">
-                            <img class="photo" src="/assets/images/logo.png" alt="Danielle Berman">
+                            <img class="photo" src="{{site.baseurl}}/assets/images/logo.png" alt="Danielle Berman">
                         </div>
                         <div class="right">
                             <p><span class="name">Danielle Berman</span></p>
