@@ -61,6 +61,51 @@
   width: 65%;
   object-fit: cover;
 }
+
+.white-background {
+  background: #FFFFFF 0% 0% no-repeat padding-box;
+  box-shadow: 0px 0px 80px #00000012;
+  border-radius: 16px;
+  opacity: 1;
+}
+
+.agency-evidence-plans {
+  width: 30%;
+  margin-right: 3%;
+  border-top: 0.5rem solid #0d7ea2;
+}
+
+.agency-office-logo {
+  margin: auto;
+  margin-left: 0.5rem;
+}
+
+.office-logo {
+  width:50%;
+}
+.office-links li {
+  padding-left: 1rem;
+}
+.pillcolor {
+    background: #edf5ff;
+}
+
+.agency-plans-policy {
+  background-image: url("/assets/images/newspaper_icon.svg");
+  background-repeat: no-repeat;
+  background-position: 20px 18px;
+}
+
+.agency-relevant-offices {
+  background-image: url("/assets/images/bag-icon.svg");
+  background-repeat: no-repeat;
+  background-position: 20px 12px;
+}
+
+.radius-pill {
+  border-radius: 99rem;
+}
+
 /* ---------------- IPAD CSS ----------------------- */
 @media (max-width: 768px) {
   .text-container {
@@ -113,6 +158,19 @@
     width: 80%;
     object-fit: cover;
  }
+ .agency-evidence-plans {
+    width: 100%;
+  }
+
+  .agency-plans-policy {
+    font-size: 19px;
+    background-position: 20px 13px;
+  }
+
+  .agency-relevant-offices {
+    font-size: 19px;
+    background-position: 20px 9px;
+  }
 }
 
 @media screen and (max-width: 1025px) {

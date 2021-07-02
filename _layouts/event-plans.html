@@ -32,7 +32,8 @@ This is used in blog posts. The index page can be found at blog/index.html
 
         <div class="grid-containe padding-left-0 padding-right-0">
             <div class="usa-graphic-list__row grid-row grid-gap padding-top-0">
-                {% for annual-evaluation-plans in site.annual-evaluation-plans %}
+                {% for annual-evaluation-plans in site.agencies %}
+                {% if annual-evaluation-plans.eval-plan %}
                 <div class="tablet:grid-col-6 container margin-bottom-4">
 
                     <div class="">
@@ -42,12 +43,15 @@ This is used in blog posts. The index page can be found at blog/index.html
                             </div>
                             <div class="tablet:grid-col-8">
                                 <p style="font-size:125%;line-height:1;margin-bottom:.5em;margin-top:.5em;">{{ annual-evaluation-plans.agency-name }}</p>
-                                <p style="line-height:1;margin-bottom:.25em;margin-top:.5em;"><a href="{{ annual-evaluation-plans.plan-link }}" aria-label="{{ annual-evaluation-plans.aria-label }}" target="_blank">FY22 Evaluation Plan</a></p>
+                                {% for plan in annual-evaluation-plans.eval-plan %}
+                                <p style="line-height:1;margin-bottom:.25em;margin-top:.5em;"><a href="{{ plan.link }}" aria-label="{{ annual-evaluation-plans.agency-name }} Agency Evaluation Plan" target="_blank">{{ plan.name }}</a></p>
+                                {% endfor %}
                              </div>
 
                         </div>
                     </div>
                     </div>
+                    {% endif %}
                     {% endfor %}
                 </div>
             </div>
@@ -59,21 +63,23 @@ This is used in blog posts. The index page can be found at blog/index.html
 
         <div class="grid-containe padding-left-0 padding-right-0">
             <div class="usa-graphic-list__row grid-row grid-gap padding-top-0">
-                {% for evaluation-policy in site.evaluation-policy %}
+                {% for evaluation-policy in site.agencies %}
+                {% if evaluation-policy.eval-policy %}
                 <div class="tablet:grid-col-6 container margin-bottom-4">
                     <div class="">
                         <div class="grid-row">
                             <div class="tablet:grid-col-4">
-                                <img class="usa-media_block-img" src="{{site.baseurl}}/{{ evaluation-policy.agency-logo }}" alt="{{ evaluation-policy.alt }}" width="75"></div>
+                                <img class="usa-media_block-img" src="{{site.baseurl}}/{{ evaluation-policy.agency-logo }}" alt="{{ evaluation-policy.agency-name }} logo" width="75"></div>
                             <div class="tablet:grid-col-8">
                                 <p style="font-size:125%;line-height:1;margin-bottom:.5em;margin-top:.5em;">{{ evaluation-policy.agency-name }}</p>
-                                <p style="line-height:1;margin-bottom:.25em;margin-top:.5em;">  <a href="{{ evaluation-policy.plan-link }}" aria-label="{{ evaluation-policy.aria-label }}" target="_blank">Agency Evaluation Policy</a></p>
+                                <p style="line-height:1;margin-bottom:.25em;margin-top:.5em;">  <a href="{{ evaluation-policy.eval-policy }}" aria-label="{{ evaluation-policy.agency-name }} Evaluation Plan" target="_blank">Agency Evaluation Policy</a></p>
                             </div>
 
                         </div>
                     </div>
                 </a>
                 </div>
+                {% endif %}
                 {% endfor %}
             </div>
         </div>
