@@ -1,0 +1,50 @@
+---
+layout: wide
+permalink: /agencies/other-agencies/
+---
+
+{% comment %}
+This is used in blog posts. The index page can be found at blog/index.html
+{% endcomment %}
+
+
+<section class="usa-graphic-list usa-section sml-margin bg-gradient">
+    <div class="grid-container">
+        <div class="grid-row grid-gap">
+            <div class="tablet:grid-col">
+                <div class="text-white font-ui-2xl margin-bottom-0 text-bold">Agencies</div>
+            </div>
+        </div>
+    </div>
+</section>
+<div class="grid-container grey-back padding-top-3 padding-bottom-2">
+<div class="grid-row grid-gap">
+<div>
+<h1>Other Federal Agencies</h1>
+
+<div class="grid-container">
+    <div class="usa-graphic-list__row grid-row grid-gap padding-top-0">
+        {% for annual-evaluation-plans in site.other-agencies %}
+        {% if annual-evaluation-plans.plan-link %}
+        <div class="tablet:grid-col-6 container margin-bottom-4">
+
+            <div class="">
+                <div class="grid-row">
+                    <div class="tablet:grid-col-4">
+                        <img class="usa-media_block-img" src="{{site.baseurl}}/{{ annual-evaluation-plans.agency-logo }}" alt="{{ annual-evaluation-plans.alt }}" width="75">
+                    </div>
+                    <div class="tablet:grid-col-8">
+                        <p style="font-size:125%;line-height:1;margin-bottom:.5em;margin-top:.5em;">{{ annual-evaluation-plans.agency-name }}</p>
+                        <p style="line-height:1;margin-bottom:.25em;margin-top:.5em;"><a href="{{ annual-evaluation-plans.plan-link }}" aria-label="{{ annual-evaluation-plans.aria-label }} Agency Evaluation Plan" target="_blank">Agency Plans and Reports</a></p>
+                     </div>
+
+                </div>
+            </div>
+        </div>
+        {% endif %}
+        {% endfor %}
+    </div>
+</div>
+</div>
+</div>
+</div>

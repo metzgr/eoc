@@ -95,60 +95,62 @@ primary_navigation:
       - name: Cloumn1
         children:
           - name: Department of Agriculture
-            url: "#content1"      
+            url: "/agencies/department-of-agriculture"      
           - name: Department of Commerce
-            url: "#content1"
+            url: "/agencies/department-of-commerce"
           - name: Department of Defense
-            url: "#content1"      
+            url: "/agencies/department-of-defense"      
           - name: Department of Education
-            url: "#content1"  
+            url: "/agencies/department-of-education"  
           - name: Department of Energy
-            url: "#content1"
+            url: "/agencies/department-of-energy"
           - name: Department of Health and Human Services
-            url: "#content1"      
+            url: "/agencies/health-and-human-services"      
           - name: Department of Homeland Security
-            url: "#content1"
+            url: "/agencies/department-of-homeland-security"
       - name: Cloumn2
         children:
           - name: Department of Housing and Urban Development
-            url: "#content1"      
+            url: "/agencies/housing-and-urban-development"      
           - name: Department of the Interior 
-            url: "#content1"
+            url: "/agencies/department-of-the-interior"
           - name: Department of Justice
-            url: "#content1"      
+            url: "/agencies/department-of-justice"      
           - name: Department of Labor
-            url: "#content1"  
+            url: "/agencies/department-of-labor"  
           - name: Department of State
-            url: "#content1"      
+            url: "/agencies/department-of-state"      
           - name: Department of Transportation
-            url: "#content1"  
+            url: "/agencies/department-of-transportation"  
       - name: Cloumn3
         children:
           - name: Department of the Treasury
-            url: "#content1"      
+            url: "/agencies/department-of-treasury"      
           - name: Department of Veterans Affairs
-            url: "#content1"
+            url: "/agencies/department-of-veterans-affairs"
           - name: Environmental Protection Agency
-            url: "#content1"      
+            url: "/agencies/environmental-protection-agency"      
           - name: General Services Administration
-            url: "#content1"  
+            url: "/agencies/general-services-administration"  
           - name: National Aeronautics and Space Administration
-            url: "#content1"  
+            url: "/agencies/national-aeronautics-and-space-administration"  
       - name: Cloumn4
         children:
           - name: National Science Foundation
-            url: "#content1"      
+            url: "/agencies/national-science-foundation"
+          - name: Nuclear Regulatory Commission
+            url: "/agencies/nuclear-regulatory-commission"      
           - name: Office of Personnel Management
-            url: "#content1"
+            url: "/agencies/office-of-personnel-management"
           - name: Small Business Administration
-            url: "#content1"      
+            url: "/agencies/small-business-administration"      
           - name: Social Security Administration
-            url: "#content1"  
+            url: "/agencies/social-security-administration"  
           - name: United States Agency for International Development
-            url: "#content1"    
+            url: "/agencies/agency-for-international-development"    
             hasSeperator: true  
           - name: Other Federal Agencies
-            url: "#content1"
+            url: "/agencies/other-agencies"
   - name: Evidence Plans
     children:
       - name: Summary
@@ -200,6 +202,8 @@ collections:
   evaluation-policy:
     output: true
   annual-evaluation-plans:
+    output: true
+  agencies:
     output: true
   other-agencies:
     output: true
