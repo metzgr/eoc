@@ -1,9 +1,9 @@
 ---
 agency-name: Department of Health & Human Services
 agency-link: https://www.hhs.gov/
-agency-logo: assets/images/agency-seals/health_and_human_department_seal.png
+agency-logo: /assets/images/agency-seals/health_and_human_department_seal.png
 layout: agency
-permalink: /agencies/health-and-human-services
+permalink: /agencies/health-and-human-services/
 eval-plan:
 eval-policy: https://www.ed.gov/sites/default/files/cdo/20-0177-evaluation-policy.pdf
 learning-agenda:

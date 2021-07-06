@@ -1,9 +1,9 @@
 ---
 agency-name: Social Security Administration
 agency-link: https://www.ssa.gov/
-agency-logo: assets/images/agency-seals/social_security_administration_seal.png
+agency-logo: /assets/images/agency-seals/social_security_administration_seal.png
 layout: agency
-permalink: /agencies/social-security-administration
+permalink: /agencies/social-security-administration/
 eval-plan:
 eval-policy: https://www.ssa.gov/data/data_governance_board/Evidence%20Act%20Evaluation%20Policy%20-%20September%202020.pdf
 learning-agenda:

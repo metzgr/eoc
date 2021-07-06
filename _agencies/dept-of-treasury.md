@@ -1,9 +1,9 @@
 ---
 agency-name: U.S. Department of Treasury
 agency-link: https://home.treasury.gov/
-agency-logo: assets/images/agency-seals/treasury_department_seal.png
+agency-logo: /assets/images/agency-seals/treasury_department_seal.png
 layout: agency
-permalink: /agencies/department-of-treasury
+permalink: /agencies/department-of-treasury/
 eval-plan:
 eval-policy:
 learning-agenda:
