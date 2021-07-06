@@ -3,8 +3,15 @@
 // Losely based on: http://isotope.metafizzy.co/filtering.html#url-hash
 
 jQuery(document).ready(function ($) {
+    var link = window.location.href;
+
+
+    if(link.indexOf("/resources/") != -1){
+        var $container = $(".resources");
+    }else if(link.indexOf("/news/") != -1){
+        var $container = $(".news");
+    }
     
-    var $container = $(".resources");
     // Filter isotope
     $container.isotope({
         // options

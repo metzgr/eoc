@@ -1,7 +1,11 @@
 //custom scss files
 @import "../../_sass/_resources";
+@import "../../_sass/_news";
 
 /*-------------------------------------*/
+.eoc-logo-size {
+  width: 60%;
+}
 .bg-gradient {
   background: linear-gradient(52deg, #162e51 25%, #28a0cb 100%);
   color: #fff;
@@ -60,6 +64,15 @@
 .photo {
   width: 65%;
   object-fit: cover;
+}
+.sml-margin {
+  padding-bottom: 2rem;
+  padding-top: 2rem;
+}
+.circle-card {
+  height: 10rem;
+  width: 10rem;
+  border-radius: 50%;
 }
 /* ---------------- IPAD CSS ----------------------- */
 @media (max-width: 768px) {
