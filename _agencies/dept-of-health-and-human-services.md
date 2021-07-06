@@ -1,7 +1,7 @@
 ---
 agency-name: Department of Health & Human Services
 agency-link: https://www.hhs.gov/
-agency-logo: /assets/images/agency-seals/health_and_human_department_seal.png
+agency-logo: assets/images/agency-seals/health_and_human_department_seal.png
 layout: agency
 permalink: /agencies/health-and-human-services/
 eval-plan:

@@ -1,7 +1,7 @@
 ---
 agency-name: Social Security Administration
 agency-link: https://www.ssa.gov/
-agency-logo: /assets/images/agency-seals/social_security_administration_seal.png
+agency-logo: assets/images/agency-seals/social_security_administration_seal.png
 layout: agency
 permalink: /agencies/social-security-administration/
 eval-plan:

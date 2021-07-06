@@ -1,7 +1,7 @@
 ---
 agency-name: Department of Education
 agency-link: https://www.ed.gov/
-agency-logo: /assets/images/agency-seals/education_department_seal.png
+agency-logo: assets/images/agency-seals/education_department_seal.png
 layout: agency
 permalink: /agencies/department-of-education/
 eval-plan:
@@ -10,5 +10,5 @@ learning-agenda:
 capacity-assesment:
 agency-offices:
     - name: Institute of Education Sciences
-      logo: /assets/images/IES_logo.png
+      logo: assets/images/IES_logo.png
 ---

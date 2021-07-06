@@ -1,7 +1,7 @@
 ---
 agency-name: Small Business Administration
 agency-link: https://www.sba.gov/
-agency-logo: /assets/images/agency-seals/small_business_administration_seal.png
+agency-logo: assets/images/agency-seals/small_business_administration_seal.png
 layout: agency
 permalink: /agencies/small-business-administration/
 eval-plan:
