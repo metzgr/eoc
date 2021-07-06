@@ -39,6 +39,8 @@ This is used for Agency pages.
               <div>
                 {% if page.learning-agenda %}
                 <center><p class="card-tag" style="margin-top:1rem;margin-bottom:30px;font-size:.7em;"><a style="text-decoration:none;background-color:#ffffff;color:#212121;padding:10px;box-shadow: inset 0 0 0 2px #2e8367;border-radius:25px;"  href="{{ page.learning-agenda }}">Will be released Feb 2022 &#10095;</a></p></center>
+                {% else %}
+                <center><p class="card-tag" style="margin-top:1rem;margin-bottom:30px;font-size:.7em;"><a style="text-decoration:none;background-color:#ffffff;color:#212121;padding:10px;box-shadow: inset 0 0 0 2px #2e8367;border-radius:25px;"  href="#">Will be released Feb 2022 &#10095;</a></p></center>
                 {% endif %}
               </div>
             </div>
@@ -50,6 +52,8 @@ This is used for Agency pages.
               <div>
                 {% if page.capacity-assesment %}
                 <center><p class="card-tag" style="margin-top:1rem;margin-bottom:30px;font-size:.7em;"><a style="text-decoration:none;background-color:#ffffff;color:#212121;padding:10px;box-shadow: inset 0 0 0 2px #2e8367;border-radius:25px;"  href="{{ page.capacity-assesment }}">Will be released Feb 2022 &#10095;</a></p></center>
+                {% else %}
+                <center><p class="card-tag" style="margin-top:1rem;margin-bottom:30px;font-size:.7em;"><a style="text-decoration:none;background-color:#ffffff;color:#212121;padding:10px;box-shadow: inset 0 0 0 2px #2e8367;border-radius:25px;"  href="#">Will be released Feb 2022 &#10095;</a></p></center>
                 {% endif %}
               </div>
             </div>
@@ -59,9 +63,12 @@ This is used for Agency pages.
                   <center><img src="{{ site.baseurl }}/assets/images/annual-evaluation-plan-circle-icon@2x.png" alt="icon" width="120"></center>
               </div>
               <div>
-                {% for bio in page.eval-plan %}
+                {% if page.eval-plan %}
+                {% assign evaluation_plans = page.eval-plan | sort_natural: "name" | reverse %}
+                {% for bio in evaluation_plans limit:3 %}
                 <center><p class="card-tag" style="margin-top:1rem;margin-bottom:30px;font-size:.7em;"><a style="text-decoration:none;background-color:#ffffff;color:#212121;padding:10px;box-shadow: inset 0 0 0 2px #2e8367;border-radius:25px;"  href="{{ bio.link }}">{{ bio.name }} &#10095;</a></p></center>
                 {% endfor %}
+                {% endif %}
               </div>
             </div> 
         </div>

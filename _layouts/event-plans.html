@@ -43,7 +43,8 @@ This is used in blog posts. The index page can be found at blog/index.html
                             </div>
                             <div class="tablet:grid-col-8">
                                 <p style="font-size:125%;line-height:1;margin-bottom:.5em;margin-top:.5em;">{{ annual-evaluation-plans.agency-name }}</p>
-                                {% for plan in annual-evaluation-plans.eval-plan %}
+                                {% assign evaluation_plans = annual-evaluation-plans.eval-plan | sort_natural: "name" | reverse  %}
+                                {% for plan in evaluation_plans limit:3 %}
                                 <p style="line-height:1;margin-bottom:.25em;margin-top:.5em;"><a href="{{ plan.link }}" aria-label="{{ annual-evaluation-plans.agency-name }} Agency Evaluation Plan" target="_blank">{{ plan.name }}</a></p>
                                 {% endfor %}
                              </div>
