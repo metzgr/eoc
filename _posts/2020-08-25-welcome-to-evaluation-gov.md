@@ -3,8 +3,9 @@ title: Welcome to Evaluation.gov
 layout: post
 date: August 25, 2020
 author: Diana, EOC Council Chair
-excerpt: Welcome to Evaluation.gov, the home for Federal program evaluation and the Evaluation Officer Council. We are excited to launch this site as a resource to support and build the Federal evaluation community,... <a href="/2021-08-25-welcome-to-evaluation-gov/" aria-label="Welcome to Evaluation.gov">Continue Reading</a>
-tags: tag1 tag2 tag3
+excerpt: Welcome to Evaluation.gov, the home for Federal program evaluation and the Evaluation Officer Council. We are excited to launch this site as a resource to support and build the Federal evaluation community,... <a href="../2021-08-25-welcome-to-evaluation-gov/" aria-label="Welcome to Evaluation.gov">Continue Reading</a>
+tags: federal-program
+filters: federal-program
 permalink: /2021-08-25-welcome-to-evaluation-gov/
 image: welcome-post-DE.jpg
 img-alt: 

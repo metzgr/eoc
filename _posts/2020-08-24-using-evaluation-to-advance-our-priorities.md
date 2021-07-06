@@ -3,8 +3,9 @@ title: Using Evaluation to Advance Our Priorities
 layout: post
 date: August 24, 2020
 author: Danny Yagan
-excerpt: As this Administration works to address complex and urgent challenges facing our country, evaluation is necessary for answering key questions about what works and how we can improve, and is critical... <a href="/2020-08-24-using-evaluation-to-advance-our-priorities/" aria-label="Using Evaluation to Advance Our Priorities">Continue Reading</a>
-tags: tag1 tag2 tag3
+excerpt: As this Administration works to address complex and urgent challenges facing our country, evaluation is necessary for answering key questions about what works and how we can improve, and is critical... <a href="../2020-08-24-using-evaluation-to-advance-our-priorities/" aria-label="Using Evaluation to Advance Our Priorities">Continue Reading</a>
+tags: presidential-memorandum
+filters: presidential-memorandum
 permalink: /2020-08-24-using-evaluation-to-advance-our-priorities/
 image: Danny-post.jpg
 img-alt: 

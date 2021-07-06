@@ -21,14 +21,14 @@ This is used in blog posts. The index page can be found at blog/index.html
   </div>
 </div>
 
-  <div class="grid-container padding-y-3">
+  <div class="grid-container">
     {% assign tags = page.tags %}
+    {{ content }}
     <span class="text-bold">Tags:</span>
     <ul class="tags">
       {% for tag in tags %}
-      <li><a href="{{ site.baseurl }}/tags/{{ tag }}" class="tag">{{ tag }}</a></li>
+      <li class="tag" aria-label="Filter Tag" role="listitem">{{ tag }}</li>
       {% endfor %}
     </ul>
-    {{ content }}
     <p><a class="padding-top-2" href="{{ site.baseurl }}/news/" style="text-decoration:none;">❮ &nbsp; Back to News </a></p>
   </div>
