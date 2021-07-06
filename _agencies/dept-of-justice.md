@@ -1,9 +1,9 @@
 ---
 agency-name: Department of Justice
 agency-link: https://www.justice.gov/
-agency-logo: assets/images/agency-seals/justice_department_seal.png
+agency-logo: /assets/images/agency-seals/justice_department_seal.png
 layout: agency
-permalink: /agencies/department-of-justice
+permalink: /agencies/department-of-justice/
 eval-plan:
 eval-policy:
 learning-agenda:

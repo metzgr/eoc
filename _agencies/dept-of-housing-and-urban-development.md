@@ -1,9 +1,9 @@
 ---
 agency-name: U.S. Department of Housing and Urban Development
 agency-link: https://www.hud.gov/
-agency-logo: assets/images/agency-seals/hud_seal.png
+agency-logo: /assets/images/agency-seals/hud_seal.png
 layout: agency
-permalink: /agencies/housing-and-urban-development
+permalink: /agencies/housing-and-urban-development/
 eval-plan: 
 eval-policy: https://www.huduser.gov/portal/sites/default/files/pdf/Federal-Register-2016-29215.pdf
 learning-agenda:

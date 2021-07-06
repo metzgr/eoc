@@ -1,9 +1,9 @@
 ---
 agency-name: Department of Veterans Affairs
 agency-link: https://www.va.gov/
-agency-logo: assets/images/agency-seals/veterans_affairs_department_seal.png
+agency-logo: /assets/images/agency-seals/veterans_affairs_department_seal.png
 layout: agency
-permalink: /agencies/department-of-veterans-affairs
+permalink: /agencies/department-of-veterans-affairs/
 eval-plan:
 eval-policy:
 learning-agenda:

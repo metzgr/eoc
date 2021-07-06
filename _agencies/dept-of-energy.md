@@ -1,9 +1,9 @@
 ---
 agency-name: U.S. Department of Energy
 agency-link: https://www.energy.gov/
-agency-logo: assets/images/agency-seals/energy_department_seal.png
+agency-logo: /assets/images/agency-seals/energy_department_seal.png
 layout: agency
-permalink: /agencies/department-of-energy
+permalink: /agencies/department-of-energy/
 eval-plan:
 eval-policy:
 learning-agenda:
