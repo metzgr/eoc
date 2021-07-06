@@ -1,0 +1,27 @@
+---
+layout: defaultwithbanner
+---
+
+  <div class="usa-grid">
+    <div class="tablet:grid-col-12 margin-top-7">
+    {% for post in site.tags[page.tag] %}
+
+      <a class="text-no-underline" href="{{ post.url | prepend: site.baseurl }}"><h2>{{ post.title }}</h2></a>
+      <h5>By: {{ post.author }} | {{ post.date | date_to_string }}</h5>
+      <p>{{ post.content | strip_html | truncatewords:50 }}</p>
+
+      {% if post.tags.size > 0 %}
+        <h5>Tags:
+        {% assign tags = post.tags %}
+        <ul class="tags">
+          {% for tag in tags %}
+          <li class="tag"><a href="{{ site.baseurl }}/tags/{{ tag }}">{{ tag }}</a></li>
+        {% endfor %}
+      </ul>
+      {% endif %}
+
+      <hr class="margin-y-3">
+
+    {% endfor %}
+  </div>
+</div>

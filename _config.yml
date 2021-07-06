@@ -165,6 +165,8 @@ primary_navigation:
         url: "/evidence-plans/evaluation-policies/"
   - name: Resources
     url: /resources/
+  - name: News
+    url: /news/
 
 
 # Search.gov configuration

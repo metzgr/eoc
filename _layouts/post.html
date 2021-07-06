@@ -6,18 +6,29 @@ layout: default
 This is used in blog posts. The index page can be found at blog/index.html
 {% endcomment %}
 
-<div class="usa-layout-docs usa-section">
+<div class="usa-graphic-list usa-section bg-gradient padding-y-1">
   <div class="grid-container">
     <div class="grid-row grid-gap">
-      <div class="usa-layout-docs__main desktop:grid-col-9 usa-prose">
-        <h1 class="title">{{page.title}}</h1>
-        <div class="text-base margin-bottom-2">
-          <div class="margin-top-neg-105">
-            By <span class="text-bold">{{ page.author }}</span> · {{ page.date | date: '%B %d, %Y' }}
-          </div>
-        </div>
-        {{ content }}
+      <div class="tablet:grid">
+
+       <p><a class="text-white margin-bottom-2" href="{{ site.baseurl }}/news/" style="text-decoration:none;">❮ &nbsp; Back to News </a></p>
+       <h1 class="text-accent-cool font-sans-lg margin-bottom-1 text-medium card-tag-news"> {{ page.date | date: '%B %d, %Y' }} </h1>
+       <h2 class="text-white font-serif-xl margin-top-0 margin-bottom-0 text-bold"> {{ page.title}} </h2>
+       <p class="text-white font-serif-md padding-bottom-0">By {{ page.author }}</p>
+
       </div>
     </div>
   </div>
 </div>
+
+  <div class="grid-container padding-y-3">
+    {% assign tags = page.tags %}
+    <span class="text-bold">Tags:</span>
+    <ul class="tags">
+      {% for tag in tags %}
+      <li><a href="{{ site.baseurl }}/tags/{{ tag }}" class="tag">{{ tag }}</a></li>
+      {% endfor %}
+    </ul>
+    {{ content }}
+    <p><a class="padding-top-2" href="{{ site.baseurl }}/news/" style="text-decoration:none;">❮ &nbsp; Back to News </a></p>
+  </div>

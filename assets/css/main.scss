@@ -1,7 +1,11 @@
 //custom scss files
 @import "../../_sass/_resources";
+@import "../../_sass/_news";
 
 /*-------------------------------------*/
+.eoc-logo-size {
+  width: 60%;
+}
 .bg-gradient {
   background: linear-gradient(52deg, #162e51 25%, #28a0cb 100%);
   color: #fff;
@@ -62,6 +66,17 @@
   object-fit: cover;
 }
 
+.sml-margin {
+  padding-bottom: 2rem;
+  padding-top: 2rem;
+}
+.circle-card {
+  height: 10rem;
+  width: 10rem;
+  border-radius: 50%;
+}
+
+
 .white-background {
   background: #FFFFFF 0% 0% no-repeat padding-box;
   box-shadow: 0px 0px 80px #00000012;
@@ -105,6 +120,7 @@
 .radius-pill {
   border-radius: 99rem;
 }
+
 
 /* ---------------- IPAD CSS ----------------------- */
 @media (max-width: 768px) {
