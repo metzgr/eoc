@@ -80,13 +80,13 @@ This is used for Agency pages.
             {% if member-found.name %}
             <div class="grid-row">
                 <p class="desktop:grid-col-3 tablet:grid-col-3"><strong>Evaluation Officer</strong></p>
-                <p class="desktop:grid-col-9 tablet:grid-col-3">{{ member-found.name }}, {{ member-found.job-title }}</p>
+                <p class="desktop:grid-col-9 tablet:grid-col-9">{{ member-found.name }}, {{ member-found.job-title }}</p>
                 {% endif %}
             </div>
             {% if page.eval-policy %}
             <div class="grid-row">
-                <p class="desktop:grid-col-9 tablet:grid-col-3"><strong>Evaluation Policy</strong></p>
-                <p class="desktop:grid-col-9 tablet:grid-col-3"><a href="{{  page.eval-policy }}">Evaluation Policy for {{ page.agency-name }}</a></p>
+                <p class="desktop:grid-col-3 tablet:grid-col-3"><strong>Evaluation Policy</strong></p>
+                <p class="desktop:grid-col-9 tablet:grid-col-9"><a href="{{  page.eval-policy }}">Evaluation Policy for {{ page.agency-name }}</a></p>
             </div>
             {% endif %}
             </div>
@@ -110,9 +110,10 @@ This is used for Agency pages.
                     {% if office.eval-plan-link %}
                     <li><a href="{{ office.eval-plan-link }}">{{ office.eval-plan }}</a></li>
                     {% endif %}
-                    <li>Link 3</li>
+                    <!--<li>Link 3</li>-->
                     </ul>
                 </div>
+                {% if office.logo %}
                 {% if office.link %}
                 <div class="desktop:grid-col-6 tablet:grid-col-6">
                 <a href="{{ office.link }}" class="agency-office-logo"><img class="office-logo" src="{{ site.baseurl }}/{{ office.logo }}" alt="agency seal" align="center"></a>
@@ -121,6 +122,7 @@ This is used for Agency pages.
                 <div class="desktop:grid-col-6 tablet:grid-col-6">
                 <img class="agency-office-logo office-logo" src="{{ site.baseurl }}/{{ office.logo }}" alt="agency seal" align="center">
             </div>
+                {% endif %}
                 {% endif %}
             </div>
             {% endfor %}

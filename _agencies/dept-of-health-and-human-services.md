@@ -5,13 +5,9 @@ agency-logo: assets/images/agency-seals/health_and_human_department_seal.png
 layout: agency
 permalink: /agencies/health-and-human-services
 eval-plan:
-    - name: Fiscal year 2022
-      link: https://www.nrc.gov/about-nrc/plans-performance/evidence-building-and-evaluation/annual-evaluation-plan.html
-    - name: Fiscal year 2021
-      link: https://www.nrc.gov/about-nrc/plans-performance/evidence-building-and-evaluation/annual-evaluation-plan
 eval-policy: https://www.ed.gov/sites/default/files/cdo/20-0177-evaluation-policy.pdf
-learning-agenda: https://www.ed.gov/sites/default/files/cdo/20-0177-evaluation-policy.pdf
-capacity-assesment: https://www.ed.gov/sites/default/files/cdo/20-0177-evaluation-policy.pdf
+learning-agenda:
+capacity-assesment:
 agency-offices:
     - name: Office of Planning, Research and Evaluation (ACF)
       link: https://www.acf.hhs.gov/opre
@@ -21,9 +17,7 @@ agency-offices:
       eval-plan-link: https://www.acf.hhs.gov/opre/research-evaluation-agenda
     - name: Center for Policy and Evaluation (ACL)
       link: https://acl.gov/about-acl/center-policy-and-evaluation
-      logo: assets/images/ACL_logo.png
       eval-policy: https://acl.gov/sites/default/files/programs/2018-07/ACL%20evaluation%20policy%20FINAL%207-2-2018_0.docx
     - name: CDC Program Performance and Evaluation Office
-      logo: assets/images/CDC_PPE_logo.jpg
     - name: NIH Office of Evaluation, Performance, and Reporting
 ---

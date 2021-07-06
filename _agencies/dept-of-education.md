@@ -10,4 +10,5 @@ learning-agenda:
 capacity-assesment:
 agency-offices:
     - name: Institute of Education Sciences
+      logo: assets/images/IES_logo.png
 ---

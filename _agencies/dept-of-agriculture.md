@@ -10,7 +10,5 @@ learning-agenda:
 capacity-assesment:
 agency-offices:
     - name: Office of Policy Support (FNS)
-      logo: assets/images/fns-logo.png
     - name: National Institute of Food and Agriculture, Research & Evaluation
-      logo: assets/images/fns-logo.png
 ---
