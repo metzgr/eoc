@@ -1,7 +1,7 @@
 ---
 agency-name: Department of State
 agency-link: https://www.state.gov/
-agency-logo: /assets/images/agency-seals/state_department_seal.png
+agency-logo: assets/images/agency-seals/state_department_seal.png
 layout: agency
 permalink: /agencies/department-of-state/
 eval-plan:

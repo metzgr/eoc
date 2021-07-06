@@ -1,7 +1,7 @@
 ---
 agency-name: U.S. Agency for International Development
 agency-link: https://www.usaid.gov/
-agency-logo: /assets/images/agency-seals/usaid_seal.png
+agency-logo: assets/images/agency-seals/usaid_seal.png
 layout: agency
 permalink: /agencies/agency-for-international-development/
 eval-plan:
