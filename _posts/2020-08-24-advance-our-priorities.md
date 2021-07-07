@@ -4,7 +4,7 @@ layout: post
 date: August 24, 2020
 author: Danny Yagan
 excerpt: As this Administration works to address complex and urgent challenges facing our country, evaluation is necessary for answering key questions about what works and how we can improve, and is critical... <a href="../2020-08-24-advance-our-priorities/">Continue Reading</a>
-tags: Presidential Memorandum
+tags: presidential-memorandum
 filters: presidential-memorandum
 permalink: /2020-08-24-advance-our-priorities/
 image: Danny-post.jpg
