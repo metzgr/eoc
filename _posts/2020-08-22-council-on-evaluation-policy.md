@@ -5,7 +5,7 @@ date: August 22, 2020
 author: First last name, EOC Officer
 excerpt: The Foundations for Evidence-Based Policymaking Act of 2018 (Evidence Act) was a culmination of years of efforts to set evaluation on par with statistics and data as necessary for ensuring... <a href="../../../2020-08-22-council-on-evaluation-policy/" aria-label="Why an Interagency Council on Evaluation Policy">Continue Reading</a>
 tags:  policymaking 
-filters:  Policymaking 
+filters:  policymaking 
 permalink: /2020-08-22-council-on-evaluation-policy/
 image: ICEP-post-JH.jpg
 img-alt: 
