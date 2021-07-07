@@ -155,7 +155,7 @@ function updateFilterCount() {
 				}
 			//News Page
 		}else if(link.indexOf("/news/") != -1){
-			      var theFilter = hashFilter["content"];
+			      var theFilter = hashFilter["content"] ;
 
 			if ( hashFilter ) {
 				// Repaint Isotope container with current filters and sorts
@@ -173,8 +173,7 @@ function updateFilterCount() {
 				}
 				// Toggle checked status of filter buttons
 				$( ".filter-list" ).find(".checked").removeClass("checked").attr("aria-checked","false");
-				var contentFilters = hashFilter["content"].split(",");
-				allFilters = allFilters.concat(contentFilters);
+				var allFilters = hashFilter["content"].split(",");
 				for (filter in allFilters){
 					$( ".filter-list" ).find("[data-filter='" + allFilters[filter] + "']").addClass("checked").attr("aria-checked","true");
 				}

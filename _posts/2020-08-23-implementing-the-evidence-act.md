@@ -3,10 +3,10 @@ title: An Insider’s View on Implementing the Evidence Act
 layout: post
 date: August 23, 2020
 author: Matt Soldner, EOC Officer
-excerpt: As the Evaluation Officer for the Department of Education (ED) and member of the Evaluation Officer Council, I have been privileged to help make the vision of the Evidence Act a reality. Along the way,... <a href="../2020-08-23-an-insiders-view-on-implementing-the-evidence-act/" aria-label="An Insider’s View on Implementing the Evidence Act">Continue Reading</a>
-tags: evidence-act
+excerpt: As the Evaluation Officer for the Department of Education (ED) and member of the Evaluation Officer Council, I have been privileged to help make the vision of the Evidence Act a reality. Along the way,... <a href="../2020-08-23-implementing-the-evidence-act/">Continue Reading</a>
+tags: Evidence Act
 filters: evidence-act
-permalink: /2020-08-23-an-insiders-view-on-implementing-the-evidence-act/
+permalink: /2020-08-23-implementing-the-evidence-act/
 image: EO-post.jpg
 img-alt: 
 ---
