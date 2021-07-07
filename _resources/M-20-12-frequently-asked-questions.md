@@ -2,7 +2,7 @@
 title: M-20-12 Frequently Asked Questions
 year: 
 description: 
-external_url: t
+doc-link: assets/resources/M-20-12-FAQS.pdf
 content_tags: 
 type: pdf
 filters: quick-reference omb
