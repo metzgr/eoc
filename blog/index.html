@@ -27,30 +27,26 @@ pagination:
 
             <!--***********buttons for News Filter page*********************************************-->
           <div class="usa-media-block tablet:grid-col-3 padding-top-4">
-              <a class="usa-button usa-button--accent-cool margin-bottom-2" href="/site/gsa/eoc/news/#subject=*&amp;role=*&amp;status=*">Reset Filter</a>
+              <a class="usa-button usa-button--accent-cool margin-bottom-2" href="{{ site.baseurl }}/news/#subject=*&role=*&status=*">Reset Filter</a>
               <nav id="filter" class="filters" aria-label="filter menu">
                   
                   <h2 class="filter-title font-sans-sm">Filter by Tags</h2>
                   <ul class="filter-list" data-filter-group="content">
-                      <li><a aria-label="Filter by Type: Tag 1" role="link" href="javascript:void(0)" data-filter=".tag.1">Tag 1</a></li>
-                      <li><a aria-label="Filter by Type: Tag 2" role="link" href="javascript:void(0)" data-filter=".tag.2">Tag 2</a></li>
-                      <li><a aria-label="Filter by Type: Tag 3" role="link" href="javascript:void(0)" data-filter=".tag.3">Tag 3</a></li>
+                      <li><a aria-label="Filter by Type: Evidence Act" role="link" href="javascript:void(0)" data-filter=".evidence-act">Evidence Act</a></li>
+                      <li><a aria-label="Filter by Type: Policymaking " role="link" href="javascript:void(0)" data-filter=".policymaking">Policymaking</a></li>
+                      <li><a aria-label="Filter by Type: Presidential Memorandum" role="link" href="javascript:void(0)" data-filter=".presidential-memorandum">Presidential Memorandum</a></li>
+                      <li><a aria-label="Filter by Type: Federal Program" role="link" href="javascript:void(0)" data-filter=".federal-program">Federal Program</a></li>
                 </ul>
               </nav>
           </div>
 
-        <div class="desktop:grid-col-8 usa-prose padding-right-4">
+        <div class="desktop:grid-col-8 usa-prose padding-right-4 padding-top-4">
           <!-- This loops through the paginated posts -->
+          <div class="news">
           {% for post in paginator.posts %}
-          <div
-            class="padding-bottom-5 margin-top-4 usa-prose border-bottom-05 border-base-lightest"
-          >
+          <div class="padding-bottom-5 usa-prose border-bottom-05 border-base-lightest policy {{ post.filters }}">
             <h3 class="title">
-              <a
-                class="usa-link text-no-underline"
-                href="{{ site.baseurl }}{{ post.url }}"
-                >{{post.title}}</a
-              >
+              <a class="usa-link text-no-underline" href="{{ site.baseurl }}{{ post.url }}">{{post.title}}</a>
             </h3>
             <div class="text-base margin-bottom-2">
               <div class="margin-top-neg-105">
@@ -75,7 +71,7 @@ pagination:
               {% assign tags = post.tags %}
               <ul class="tags" aria-label="filter" role="list">
                 {% for tag in tags %}
-                <li class="tag" aria-label="Filter Tag" role="listitem"><a href="{{ site.baseurl }}/tags/{{ tag }}" >{{ tag }}</a></li>
+                <li class="tag" aria-label="Filter Tag" role="listitem">{{ tag }}</li>
               {% endfor %}
             </ul>
               {% endif %}
@@ -94,7 +90,7 @@ pagination:
         </div>
       </div>-->
       {% endfor %}
-
+      </div>
       <!-- Pagination links -->
       <div class="grid-row padding-top-2">
         <div
