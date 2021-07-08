@@ -11,8 +11,8 @@ pagination:
 <div id="blog" class="usa-graphic-list usa-section sml-margin bg-gradient">
   <div class="grid-container">
     <div class="grid-row grid-gap">
-      <div class="priority-tag-line"><h1 class="margin-0 font-ui-2xl">News</h1>
-        <span class="text-white font-serif-lg margin-top-0 margin-bottom-0 text-bold">This is a description of the page.</span>
+      <div class="priority-tag-line">
+        <h1 class="margin-0 font-ui-2xl">News</h1>
       </div>
     </div>
   </div>
@@ -32,10 +32,11 @@ pagination:
                   
                   <h2 class="filter-title font-sans-sm">Filter by Tags</h2>
                   <ul class="filter-list" data-filter-group="content">
+                      <li><a aria-label="Filter by Type: Evaluation" role="link" href="javascript:void(0)" data-filter=".evaluation">Evaluation</a></li>
                       <li><a aria-label="Filter by Type: Evidence Act" role="link" href="javascript:void(0)" data-filter=".evidence-act">Evidence Act</a></li>
-                      <li><a aria-label="Filter by Type: Policymaking " role="link" href="javascript:void(0)" data-filter=".policymaking">Policymaking</a></li>
-                      <li><a aria-label="Filter by Type: Presidential Memorandum" role="link" href="javascript:void(0)" data-filter=".presidential-memorandum">Presidential Memorandum</a></li>
-                      <li><a aria-label="Filter by Type: Federal Program" role="link" href="javascript:void(0)" data-filter=".federal-program">Federal Program</a></li>
+                      <li><a aria-label="Filter by Type: Policy" role="link" href="javascript:void(0)" data-filter=".policy">Policy</a></li>
+                      <li><a aria-label="Filter by Type: ICEP" role="link" href="javascript:void(0)" data-filter=".icep">ICEP</a></li>
+                      <li><a aria-label="Filter by Type: Evaluation Officer Council" role="link" href="javascript:void(0)" data-filter=".evaluation-officer-council">Evaluation Officer Council</a></li>
                 </ul>
               </nav>
           </div>
@@ -68,7 +69,7 @@ pagination:
               {% endcomment %}
               <div class="tag-spacing">
             {% if post.tags.size > 0 %}
-              <b>Tag{% if post.tags.size > 1 %}s{% endif %}:</b>
+              <!--<b>Tag{% if post.tags.size > 1 %}s{% endif %}:</b>-->
               {% assign tags = post.tags %}
               <ul class="tags" aria-label="filter" role="list">
                 {% for tag in tags %}
