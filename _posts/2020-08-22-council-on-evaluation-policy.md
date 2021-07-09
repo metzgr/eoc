@@ -2,10 +2,10 @@
 title: Another Council?  Why an Interagency Council on Evaluation Policy
 layout: post
 date: August 22, 2020
-author: First last name, EOC Officer
+author: Jeffrey Hemmeter, Acting Deputy Associate Commissioner for the Office of Research, Demonstration, and Employment Support, Office of Retirement and Disability Policy, SSA
 excerpt: The Foundations for Evidence-Based Policymaking Act of 2018 (Evidence Act) was a culmination of years of efforts to set evaluation on par with statistics and data as necessary for ensuring federal policies are... <a href="../2020-08-22-council-on-evaluation-policy/" aria-label="Why an Interagency Council on Evaluation Policy">Continue Reading</a>
-tags: evaluation-officer-council
-filters: evaluation-officer-council
+tags: icep
+filters: icep
 permalink: /2020-08-22-council-on-evaluation-policy/
 image: ICEP-post-JH.jpg
 img-alt: 
