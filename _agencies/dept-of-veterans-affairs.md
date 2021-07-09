@@ -12,5 +12,5 @@ agency-offices:
     - name: Quality Enhancement Research Initiative
       link: https://www.queri.research.va.gov/
     - name: Office of Research and Development
-      link: https://research.va.gov
+      link: https://www.research.va.gov
 ---

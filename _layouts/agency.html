@@ -32,7 +32,7 @@ This is used for Agency pages.
             <!--<section class="usa-section">-->
         <div class="usa-grid usa-graphic_list-row margin-top-4">
           <div class="usa-width-one-whole usa-media_block">
-            <h2 style="padding-bottom:1rem;"><span class="padding-y-1 padding-right-3 padding-left-6 agency-plans-policy">Agency Evidence Plans</span></h2>
+            <h2 style="padding-bottom:1rem;">Agency Evidence Plans</h2>
               </div>
             </div>
           <div class="grid-container">
@@ -40,7 +40,7 @@ This is used for Agency pages.
             <div class="desktop:grid-col-4 tablet:grid-col-4 container agency-evidence-plans">
               <h3 class="agency-link-title"><center>Learning Agenda</center></h3>
               <div class="agency-link-banner margin-bottom-2">
-                  <center><img src="{{ site.baseurl }}/assets/images/learning-agenda-circle-icon@2x.png" alt="icon" width="120"></center>
+                  <center><img src="{{ site.baseurl }}/assets/images/learning-agenda-circle-icon@2x.png" alt="Learning Agenda Image" width="120"></center>
               </div>
               <div>
                 {% if page.learning-agenda %}
@@ -53,7 +53,7 @@ This is used for Agency pages.
             <div class="desktop:grid-col-4 tablet:grid-col-4 container agency-evidence-plans">
               <h3 class="agency-link-title"><center>Capacity Assesment</center></h3>
               <div class="agency-link-banner margin-bottom-2">
-                  <center><img src="{{ site.baseurl }}/assets/images/capacity-assessment-circle-icon@2x.png" alt="icon" width="120"></center>
+                  <center><img src="{{ site.baseurl }}/assets/images/capacity-assessment-circle-icon@2x.png" alt="Capacity Assesment Image" width="120"></center>
               </div>
               <div>
                 {% if page.capacity-assesment %}
@@ -66,7 +66,7 @@ This is used for Agency pages.
             <div class="desktop:grid-col-4 tablet:grid-col-4 container agency-evidence-plans">
               <h3 class="agency-link-title"><center>Annual Evaluation Plan</center></h3>
               <div class="agency-link-banner margin-bottom-2">
-                  <center><img src="{{ site.baseurl }}/assets/images/annual-evaluation-plan-circle-icon@2x.png" alt="icon" width="120"></center>
+                  <center><img src="{{ site.baseurl }}/assets/images/annual-evaluation-plan-circle-icon@2x.png" alt="Annual Evaluation Plan Image" width="120"></center>
               </div>
               <div>
                 {% if page.eval-plan %}
@@ -90,7 +90,7 @@ This is used for Agency pages.
     {% endfor %}
     {% if member-found.name or  page.eval-policy %}
         <div style="border-top:0.5rem solid #0d7ea2;" class="usa-graphic-list__row container">
-            <h2><span class="padding-y-1 padding-right-3 padding-left-6 agency-plans-policy">Agency Evaluation Information</span></h2>
+            <h2>Agency Evaluation Information</h2>
             <div class="white-background margin-bottom-3 padding-4">
             {% if member-found.name %}
             <div class="grid-row">
@@ -109,7 +109,7 @@ This is used for Agency pages.
         {% endif %}
         {% if page.agency-offices %}
         <div style="border-top:0.5rem solid #0d7ea2;" class="usa-grid usa-graphic_list-row container">
-            <h2><span class="padding-y-1 padding-right-3 padding-left-6 agency-relevant-offices">Relevant Offices</span></h2>
+            <h2>Relevant Offices</h2>
             {% for office in page.agency-offices %}
             <div class="white-background margin-bottom-3 padding-4 grid-row">
                 <div class="desktop:grid-col-6 tablet:grid-col-6">
