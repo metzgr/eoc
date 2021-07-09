@@ -4,7 +4,7 @@ title: Evaluation officer council
 permalink: /evaluation-officer-council/
 ---
 
-<div id="main-content" class="usa-layout-docs">
+<div class="usa-layout-docs">
   <section class="usa-graphic-list usa-section sml-margin bg-gradient">
     <div class="grid-container">
       <div class="grid-row grid-gap">
@@ -16,7 +16,6 @@ permalink: /evaluation-officer-council/
   </section>
   <div class="grid-container">
     <div class="grid-row grid-gap">
-    <main>
         <div>
             <h2 id="officer">Evaluation Officer Council</h2>
             <p>
@@ -33,7 +32,6 @@ permalink: /evaluation-officer-council/
             The mission of ICEP is to enhance the value and contributions of Federal evaluations to improve government operations and delivery of government services, by identifying and exploring opportunities, including but not limited to, responding to calls from the Federal evaluation community, including OMB and the Evaluation Officers Council, through Responding to consultation requests for technical assistance and/or resources to support agencies in meeting their mandates under the Evidence Act; Papers and tools addressing methodological issues that affect Federal program evaluation; and Professional development opportunities for the Federal evaluation community. ICEP membership is limited to Federal staff who are technical experts in one or more aspects of evaluation, and serve time-limited terms. ICEP is led by a steering committee. </p>
             <p> If you are interested in learning more, please contact <a href="mailto:evidence@omb.eop.gov">evidence@omb.eop.gov</a> </p>
         </div>
-        </main>
     </div>
   </div>
 </div>
