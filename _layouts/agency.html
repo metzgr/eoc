@@ -20,13 +20,19 @@ This is used for Agency pages.
 <div class="grid-row grid-gap">
     <main style="width: 64rem;">
     <div>
-        <h1 class="title margin-top-neg-1">{{page.agency-name}}
-            <a href="{{ page.agency-link }}"><img src="{{ site.baseurl }}/{{ page.agency-logo }}" alt="agency seal" align="center" width="87"></a>
+        <div class="usa-graphic-list__row container">
+            <div class="grid-row">
+        <a href="{{ page.agency-link }}" class="desktop:grid-col-1 tablet:grid-col-1 margin-right-2" aria-label="{{ page.agency-name }} seal (opens in a new window)" target="_blank"><img src="{{ site.baseurl }}/{{ page.agency-logo }}" alt="agency seal" align="center" width="87" style="max-width:100%;"></a>
+        <h1 class="title margin-top-auto desktop:grid-col-10 tablet:grid-col-10">
+            
+            {{page.agency-name}}
         </h1>
-        <!--<section class="usa-section">-->
-        <div class="usa-grid usa-graphic_list-row">
+    </div>
+        </div>
+            <!--<section class="usa-section">-->
+        <div class="usa-grid usa-graphic_list-row margin-top-4">
           <div class="usa-width-one-whole usa-media_block">
-            <h2 style="padding-bottom:1rem;"><span class="radius-pill pillcolor padding-y-1 padding-right-3 padding-left-6 agency-plans-policy">Agency Evidence Plans</span></h2>
+            <h2 style="padding-bottom:1rem;"><span class="padding-y-1 padding-right-3 padding-left-6 agency-plans-policy">Agency Evidence Plans</span></h2>
               </div>
             </div>
           <div class="grid-container">
@@ -38,7 +44,7 @@ This is used for Agency pages.
               </div>
               <div>
                 {% if page.learning-agenda %}
-                <center><p class="card-tag" style="margin-top:1rem;margin-bottom:30px;font-size:.7em;"><a style="text-decoration:none;background-color:#ffffff;color:#212121;padding:10px;box-shadow: inset 0 0 0 2px #2e8367;border-radius:25px;"  href="{{ page.learning-agenda }}">Will be released Feb 2022 &#10095;</a></p></center>
+                <center><p class="card-tag" style="margin-top:1rem;margin-bottom:30px;font-size:.7em;"><a style="text-decoration:none;background-color:#ffffff;color:#212121;padding:10px;box-shadow: inset 0 0 0 2px #2e8367;border-radius:25px;"  href="{{ page.learning-agenda }}" aria-label="{{ page.agency-name }} Learning Agenda (opens in a new window)" target="_blank">Will be released Feb 2022 &#10095;</a></p></center>
                 {% else %}
                 <center><p class="card-tag" style="margin-top:1rem;margin-bottom:30px;font-size:.7em;"><a style="text-decoration:none;background-color:#ffffff;color:#212121;padding:10px;box-shadow: inset 0 0 0 2px #2e8367;border-radius:25px;"  href="#">Will be released Feb 2022 &#10095;</a></p></center>
                 {% endif %}
@@ -51,7 +57,7 @@ This is used for Agency pages.
               </div>
               <div>
                 {% if page.capacity-assesment %}
-                <center><p class="card-tag" style="margin-top:1rem;margin-bottom:30px;font-size:.7em;"><a style="text-decoration:none;background-color:#ffffff;color:#212121;padding:10px;box-shadow: inset 0 0 0 2px #2e8367;border-radius:25px;"  href="{{ page.capacity-assesment }}">Will be released Feb 2022 &#10095;</a></p></center>
+                <center><p class="card-tag" style="margin-top:1rem;margin-bottom:30px;font-size:.7em;"><a style="text-decoration:none;background-color:#ffffff;color:#212121;padding:10px;box-shadow: inset 0 0 0 2px #2e8367;border-radius:25px;"  href="{{ page.capacity-assesment }}" aria-label="{{ page.agency-name }} Capacity Assesment (opens in a new window)" target="_blank">Will be released Feb 2022 &#10095;</a></p></center>
                 {% else %}
                 <center><p class="card-tag" style="margin-top:1rem;margin-bottom:30px;font-size:.7em;"><a style="text-decoration:none;background-color:#ffffff;color:#212121;padding:10px;box-shadow: inset 0 0 0 2px #2e8367;border-radius:25px;"  href="#">Will be released Feb 2022 &#10095;</a></p></center>
                 {% endif %}
@@ -66,8 +72,10 @@ This is used for Agency pages.
                 {% if page.eval-plan %}
                 {% assign evaluation_plans = page.eval-plan | sort_natural: "name" | reverse %}
                 {% for bio in evaluation_plans limit:3 %}
-                <center><p class="card-tag" style="margin-top:1rem;margin-bottom:30px;font-size:.7em;"><a style="text-decoration:none;background-color:#ffffff;color:#212121;padding:10px;box-shadow: inset 0 0 0 2px #2e8367;border-radius:25px;"  href="{{ bio.link }}">{{ bio.name }} &#10095;</a></p></center>
+                <center><p class="card-tag" style="margin-top:1rem;margin-bottom:30px;font-size:.7em;"><a style="text-decoration:none;background-color:#ffffff;color:#212121;padding:10px;box-shadow: inset 0 0 0 2px #2e8367;border-radius:25px;"  href="{{ bio.link }}" aria-label="{{ page.agency-name }} Evaluation Plan (opens in a new window)" target="_blank">{{ bio.name }} &#10095;</a></p></center>
                 {% endfor %}
+                {% else %}
+                <center><p class="card-tag" style="margin-top:1rem;margin-bottom:30px;font-size:.7em;"><a style="text-decoration:none;background-color:#ffffff;color:#212121;padding:10px;box-shadow: inset 0 0 0 2px #2e8367;border-radius:25px;"  href="#">Will be released Feb 2022 &#10095;</a></p></center>
                 {% endif %}
               </div>
             </div> 
@@ -82,7 +90,7 @@ This is used for Agency pages.
     {% endfor %}
     {% if member-found.name or  page.eval-policy %}
         <div style="border-top:0.5rem solid #0d7ea2;" class="usa-graphic-list__row container">
-            <h2><span class="radius-pill pillcolor padding-y-1 padding-right-3 padding-left-6 agency-plans-policy">Agency Evaluation Information</span></h2>
+            <h2><span class="padding-y-1 padding-right-3 padding-left-6 agency-plans-policy">Agency Evaluation Information</span></h2>
             <div class="white-background margin-bottom-3 padding-4">
             {% if member-found.name %}
             <div class="grid-row">
@@ -93,7 +101,7 @@ This is used for Agency pages.
             {% if page.eval-policy %}
             <div class="grid-row">
                 <p class="desktop:grid-col-3 tablet:grid-col-3"><strong>Evaluation Policy</strong></p>
-                <p class="desktop:grid-col-9 tablet:grid-col-9"><a href="{{  page.eval-policy }}">Evaluation Policy for {{ page.agency-name }}</a></p>
+                <p class="desktop:grid-col-9 tablet:grid-col-9"><a href="{{  page.eval-policy }}" aria-label="{{ page.agency-name }} Evaluation Policy (opens in a new window)" target="_blank">Evaluation Policy for {{ page.agency-name }}</a></p>
             </div>
             {% endif %}
             </div>
@@ -101,21 +109,21 @@ This is used for Agency pages.
         {% endif %}
         {% if page.agency-offices %}
         <div style="border-top:0.5rem solid #0d7ea2;" class="usa-grid usa-graphic_list-row container">
-            <h2><span class="radius-pill pillcolor padding-y-1 padding-right-3 padding-left-6 agency-relevant-offices">Relevant Offices</span></h2>
+            <h2><span class="padding-y-1 padding-right-3 padding-left-6 agency-relevant-offices">Relevant Offices</span></h2>
             {% for office in page.agency-offices %}
             <div class="white-background margin-bottom-3 padding-4 grid-row">
                 <div class="desktop:grid-col-6 tablet:grid-col-6">
                     {% if office.link %}
-                    <p style="font-weight: bold; font-size: 18px;"><a href="{{ office.link }}">{{ office.name | upcase }}</a></p>
+                    <p style="font-weight: bold; font-size: 18px;"><a href="{{ office.link }}" aria-label="{{ office.name }} link (opens in a new window)" target="_blank">{{ office.name | upcase }}</a></p>
                     {% else %}
                     <p style="font-weight: bold; font-size: 18px;">{{ office.name | upcase }}</p>
                     {% endif %}
                     <ul class="office-links padding-0" style="border-left: 6px solid #DBF6ED; list-style:none;">
                     {% if office.eval-policy %}
-                    <li><a href="{{ office.eval-policy }}">Evaluation Policy</a></li>
+                    <li><a href="{{ office.eval-policy }}" aria-label="{{ office.name }} Evaluation Policy (opens in a new window)" target="_blank">Evaluation Policy</a></li>
                     {% endif %}
                     {% if office.eval-plan-link %}
-                    <li><a href="{{ office.eval-plan-link }}">{{ office.eval-plan }}</a></li>
+                    <li><a href="{{ office.eval-plan-link }}" aria-label="{{ office.name }} Evaluation Plan (opens in a new window)" target="_blank">{{ office.eval-plan }}</a></li>
                     {% endif %}
                     <!--<li>Link 3</li>-->
                     </ul>
@@ -123,7 +131,7 @@ This is used for Agency pages.
                 {% if office.logo %}
                 {% if office.link %}
                 <div class="desktop:grid-col-6 tablet:grid-col-6">
-                <a href="{{ office.link }}" class="agency-office-logo"><img class="office-logo" src="{{ site.baseurl }}/{{ office.logo }}" alt="agency seal" align="center"></a>
+                <a href="{{ office.link }}" aria-label="{{ office.name }} link (opens in a new window)" target="_blank" class="agency-office-logo"><img class="office-logo" src="{{ site.baseurl }}/{{ office.logo }}" alt="agency seal" align="center"></a>
                 </div>
                 {% else %}
                 <div class="desktop:grid-col-6 tablet:grid-col-6">
