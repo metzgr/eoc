@@ -32,7 +32,8 @@ This is used in blog posts. The index page can be found at blog/index.html
 
         <div class="grid-containe padding-left-0 padding-right-0">
             <div class="usa-graphic-list__row grid-row grid-gap padding-top-0">
-                {% for annual-evaluation-plans in site.agencies %}
+                {% assign sorted_agencies = site.agencies| sort_natural: "agency-name" %}
+                {% for annual-evaluation-plans in sorted_agencies %}
                 {% if annual-evaluation-plans.eval-plan %}
                 <div class="tablet:grid-col-6 container margin-bottom-4">
 
@@ -64,7 +65,8 @@ This is used in blog posts. The index page can be found at blog/index.html
 
         <div class="grid-containe padding-left-0 padding-right-0">
             <div class="usa-graphic-list__row grid-row grid-gap padding-top-0">
-                {% for evaluation-policy in site.agencies %}
+                {% assign sorted_agencies = site.agencies| sort_natural: "agency-name" %}
+                {% for evaluation-policy in sorted_agencies %}
                 {% if evaluation-policy.eval-policy %}
                 <div class="tablet:grid-col-6 container margin-bottom-4">
                     <div class="">
