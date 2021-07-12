@@ -12,16 +12,12 @@
   background-image: url(../assets/images/hero-img.png);
   background-position: center;
   background-size: cover;
-  width: 60rem;
 } 
 .usa-hero-content {
     max-width: 40rem;
     background: rgba(255, 255, 255, 0.8);
 }
-.grid-row.grid-gap {
-  margin-left: -2rem;
-  margin-right: -1rem;
-}
+
 .bg-gradient {
   background: linear-gradient(52deg, #162e51 25%, #28a0cb 100%);
   color: #fff;
