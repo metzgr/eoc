@@ -6,6 +6,18 @@
 .eoc-logo-size {
   width: 60%;
 }
+.usa-hero {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-image: url(../assets/images/hero-img.png);
+  background-position: center;
+  background-size: cover;
+} 
+.usa-hero-content {
+    max-width: 40rem;
+    background: rgba(255, 255, 255, 0.8);
+}
+
 .bg-gradient {
   background: linear-gradient(52deg, #162e51 25%, #28a0cb 100%);
   color: #fff;
