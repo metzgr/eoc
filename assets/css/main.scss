@@ -17,7 +17,16 @@
     max-width: 40rem;
     background: rgba(255, 255, 255, 0.8);
 }
-
+.slick-dots {
+  position: inherit;
+  bottom: 15px;
+  display: block;
+  width: 100%;
+  padding: 0;
+  margin: 0;
+  list-style: none;
+  margin-top: -45px;
+}
 .bg-gradient {
   background: linear-gradient(52deg, #162e51 25%, #28a0cb 100%);
   color: #fff;
@@ -63,7 +72,6 @@
   height: 65px;
 }
 .right {
-  background-color: #f0f0f0;
   width: 85%;
   float: right;
   height: 70px;
@@ -136,7 +144,6 @@
     height: 65px;
   }
   .right {
-    background-color: #f0f0f0;
     width: 70%;
     float: right;
     height: 70px;
@@ -164,7 +171,6 @@
     height: 65px;
   }
   .right {
-    background-color: #f0f0f0;
     width: 70%;
     float: right;
     height: 70px;
