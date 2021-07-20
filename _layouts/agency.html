@@ -51,7 +51,7 @@ This is used for Agency pages.
               </div>
             </div>
             <div class="desktop:grid-col-4 tablet:grid-col-4 container agency-evidence-plans">
-              <h3 class="agency-link-title"><center>Capacity Assesment</center></h3>
+              <h3 class="agency-link-title"><center>Capacity Assessment</center></h3>
               <div class="agency-link-banner margin-bottom-2">
                   <center><img src="{{ site.baseurl }}/assets/images/capacity-assessment-circle-icon@2x.png" alt="Capacity Assesment Image" width="120"></center>
               </div>
@@ -89,9 +89,9 @@ This is used for Agency pages.
     {% endif %}
     {% endfor %}
     {% if member-found.name or  page.eval-policy %}
-        <div style="border-top:0.5rem solid #0d7ea2;" class="usa-graphic-list__row container">
-            <h2>Agency Evaluation Information</h2>
-            <div class="white-background margin-bottom-3 padding-4">
+        <div class="usa-graphic-list__row container shadow-5 white-background agency-border-top margin-top-3">
+            <div class="white-background margin-bottom-3 padding-2">
+                <h2 class="margin-0">Agency Evaluation Information</h2>
             {% if member-found.name %}
             <div class="grid-row">
                 <p class="desktop:grid-col-3 tablet:grid-col-3"><strong>Evaluation Officer</strong></p>
@@ -108,17 +108,17 @@ This is used for Agency pages.
         </div>
         {% endif %}
         {% if page.agency-offices %}
-        <div style="border-top:0.5rem solid #0d7ea2;" class="usa-grid usa-graphic_list-row container">
-            <h2>Relevant Offices</h2>
+        <div class="usa-grid usa-graphic_list-row container agency-border-top shadow-5 white-background padding-2 margin-top-5">
+            <h2 class="margin-0">Relevant Offices</h2>
             {% for office in page.agency-offices %}
-            <div class="white-background margin-bottom-3 padding-4 grid-row">
+            <div class="margin-bottom-3 grid-row">
                 <div class="desktop:grid-col-6 tablet:grid-col-6">
                     {% if office.link %}
-                    <p style="font-weight: bold; font-size: 18px;"><a href="{{ office.link }}" aria-label="{{ office.name }} link (opens in a new window)" target="_blank">{{ office.name | upcase }}</a></p>
+                    <p style="font-weight: bold; font-size: 18px;"><a href="{{ office.link }}" aria-label="{{ office.name }} link (opens in a new window)" target="_blank">{{ office.name }}</a></p>
                     {% else %}
-                    <p style="font-weight: bold; font-size: 18px;">{{ office.name | upcase }}</p>
+                    <p style="font-weight: bold; font-size: 18px;">{{ office.name }}</p>
                     {% endif %}
-                    <ul class="office-links padding-0" style="border-left: 6px solid #DBF6ED; list-style:none;">
+                    <ul class="office-links padding-0" style="border-left: 4px solid #0d7ea2; list-style:none;">
                     {% if office.eval-policy %}
                     <li><a href="{{ office.eval-policy }}" aria-label="{{ office.name }} Evaluation Policy (opens in a new window)" target="_blank">Evaluation Policy</a></li>
                     {% endif %}

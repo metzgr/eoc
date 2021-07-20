@@ -10,6 +10,7 @@ learning-agenda:
 capacity-assesment:
 agency-offices:
     - name: Center for Research Partnerships and Program Evaluation
+      link: https://bja.ojp.gov/program/crppe/overview
     - name: National Institute of Justice
       link: https://nij.ojp.gov/
       logo: assets/images/nij_logo.png

@@ -1,5 +1,5 @@
 ---
-agency-name: U.S. Department of Housing and Urban Development
+agency-name: Department of Housing and Urban Development
 agency-link: https://www.hud.gov/
 agency-logo: assets/images/agency-seals/hud_seal.png
 layout: agency
