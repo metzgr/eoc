@@ -1,5 +1,5 @@
 ---
-agency-name: U.S. Department of Labor
+agency-name: Department of Labor
 agency-link: https://www.dol.gov/
 agency-logo: assets/images/agency-seals/labor_department_seal.png
 layout: agency
@@ -10,4 +10,5 @@ learning-agenda:
 capacity-assesment:
 agency-offices:
     - name: Chief Evaluation Office
+      link: https://www.dol.gov/agencies/oasp/evaluation
 ---

@@ -10,4 +10,6 @@ learning-agenda:
 capacity-assesment:
 agency-offices:
     - name: US Agency for International Development Evaluation and Learning Lab
+      link: https://usaidlearninglab.org/
+      logo: assets/images/usaidlearninglab-logo.png
 ---

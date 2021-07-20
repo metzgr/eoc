@@ -9,7 +9,7 @@
 .usa-hero {
   padding-top: 0px;
   padding-bottom: 0px;
-  background-image: url(../assets/images/hero-img-4.png);
+  background-image: url(../assets/images/hero-img-5.png);
   background-position: center;
   background-size: cover;
   padding-top: 30px;
@@ -18,6 +18,14 @@
 .usa-hero-content {
     max-width: 40rem;
     background: rgba(255, 255, 255, 0.8);
+    border-radius: 0.8rem;
+}
+.backgroundCover {
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background: url(../assets/images/vision_image-1.png);
+  background-size: cover;
 }
 .slick-dots {
   position: inherit;
@@ -29,6 +37,19 @@
   list-style: none;
   margin-top: -45px;
 }
+.btn-primary, .search-btn {
+  background-color: #0d7ea2;
+}
+.search-btn:hover {
+  background-color: #07648d;
+}
+.btn-primary:hover {
+  background-color: #07648d;
+}
+.usa-footer__return-to-top a {
+  color: #005ea2;
+  text-decoration: underline;
+}
 .bg-gradient {
   background: linear-gradient(52deg, #162e51 25%, #28a0cb 100%);
   color: #fff;
@@ -36,7 +57,6 @@
 .usa-footer__primary-link {
   cursor: pointer;
 }
-
 .card-tag {
   font-size: .9rem;
   margin-top: .2em;
@@ -97,39 +117,54 @@
   width: 10rem;
   border-radius: 50%;
 }
-
-
-.white-background {
-  background: #FFFFFF 0% 0% no-repeat padding-box;
-  box-shadow: 0px 0px 80px #00000012;
-  border-radius: 16px;
-  opacity: 1;
+.agency-border-top {
+  border-top:0.5rem solid #0d7ea2;
 }
 
+.eval-pol-agcy-title {
+  font-size: 1.06rem;
+  font-weight: 600;
+  margin-bottom: -0.75rem;
+  line-height: 1.25rem;
+ }
+ .eval-pol-agcy-link {
+  font-size: 1rem;
+  margin-bottom: -.6rem;
+  line-height: 1.4rem;
+ }
+.white-background {
+  background: #ffffff 0% 0% no-repeat padding-box;
+  /*box-shadow: 0px 0px 80px #00000012;*/
+  border-radius: 0px 0px 16px 16px;
+  opacity: 1;
+}
 .agency-evidence-plans {
   width: 30%;
   margin-right: 3%;
   border-top: 0.5rem solid #0d7ea2;
 }
-
 .agency-office-logo {
   margin: auto;
   margin-left: 0.5rem;
 }
-
 .office-logo {
   margin-top: 18px;
 }
 .office-links li {
   padding-left: 1rem;
 }
-
 .agency-link-title {
   height: 55px;
   margin-bottom: 0.5rem;
 }
 .eoc-link {
   color: #71767a;
+}
+.agency-seal {
+  width: 75%;
+}
+.agency-txt-logo {
+  max-width: 100%;
 }
 /* ---------------- IPAD CSS ----------------------- */
 @media (max-width: 768px) {
@@ -153,6 +188,12 @@
   .photo {
     width: 80%;
     object-fit: cover;
+  }
+  .agency-seal {
+    max-width: 75%;
+  }
+  .agency-txt-logo {
+    max-width: 100%;
   }
 }
 /* ---------------- MOBILE CSS ----------------------- */
@@ -183,6 +224,12 @@
  }
  .agency-evidence-plans {
     width: 100%;
+  }
+  .agency-seal {
+    max-width: 50%;
+  }
+  .agency-txt-logo {
+    max-width: 60%;
   }
 }
 

@@ -24,18 +24,21 @@ This is used in blog posts. The index page can be found at blog/index.html
 
 <div class="grid-container">
     <div class="usa-graphic-list__row grid-row grid-gap padding-top-0">
-        {% for annual-evaluation-plans in site.other-agencies %}
-        {% if annual-evaluation-plans.plan-link %}
+        {% for annual-evaluation-plan in site.other-agencies %}
+        {% if annual-evaluation-plan.plan-link %}
         <div class="tablet:grid-col-6 container margin-bottom-4">
 
             <div class="">
                 <div class="grid-row">
                     <div class="tablet:grid-col-4">
-                        <img class="usa-media_block-img" src="{{site.baseurl}}/{{ annual-evaluation-plans.agency-logo }}" alt="{{ annual-evaluation-plans.alt }}" width="75">
+                        <img class="usa-media_block-img agency-seal" src="{{site.baseurl}}/{{ annual-evaluation-plan.agency-logo }}" alt="{{ annual-evaluation-plan.alt }}">
                     </div>
-                    <div class="tablet:grid-col-8">
-                        <p style="font-size:125%;line-height:1;margin-bottom:.5em;margin-top:.5em;">{{ annual-evaluation-plans.agency-name }}</p>
-                        <p style="line-height:1;margin-bottom:.25em;margin-top:.5em;"><a href="{{ annual-evaluation-plans.plan-link }}" aria-label="{{ annual-evaluation-plans.aria-label }} Agency Evaluation Plan" target="_blank">Agency Plans and Reports</a></p>
+                    <div class="tablet:grid-col-8 margin-top-neg-2">
+                        <p class="eval-pol-agcy-title">{{ annual-evaluation-plan.agency-name }}</p>
+                        <p class="eval-pol-agcy-link"><a href="{{ annual-evaluation-plan.plan-link }}" aria-label="{{ annual-evaluation-plan.aria-label }} Agency Evaluation Plan" target="_blank">Evaluation Policy</a></p>
+                        {% for agency-office in annual-evaluation-plan.agency-offices %}
+                        <p class="eval-pol-agcy-link"><a href="{{ agency-office.link }}">{{ agency-office.name }}</a></p>
+                        {% endfor %}
                      </div>
 
                 </div>
