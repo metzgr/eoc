@@ -7,18 +7,16 @@
   width: 60%;
 }
 .usa-hero {
-  padding-top: 0px;
-  padding-bottom: 0px;
-  background-image: url(../assets/images/hero-img-5.png);
-  background-position: center;
-  background-size: cover;
   padding-top: 30px;
   padding-bottom: 30px;
+  background-image: url(../assets/images/hero-img-13.png);
+  background-position: center;
+  background-size: cover;
 } 
 .usa-hero-content {
-    max-width: 40rem;
+    max-width: 30rem;
     background: rgba(255, 255, 255, 0.8);
-    border-radius: 0.8rem;
+    border-radius: 0.7rem;
 }
 .backgroundCover {
   -webkit-background-size: cover;
@@ -107,7 +105,13 @@
   width: 65%;
   object-fit: cover;
 }
-
+.bg-white {
+  background-color: #ffffff;
+}
+.bg-white:hover {
+  background-color: #ffffff;
+  color: #005ea2;
+}
 .sml-margin {
   padding-bottom: 3rem;
   padding-top: 3rem;
@@ -135,8 +139,12 @@
 .white-background {
   background: #ffffff 0% 0% no-repeat padding-box;
   /*box-shadow: 0px 0px 80px #00000012;*/
-  border-radius: 0px 0px 16px 16px;
+  border-radius: 0px 0px 10px 10px;
   opacity: 1;
+}
+.rel-hr-border {
+  border-top: 1px solid #e6e6e6;
+  margin-top: 25px;
 }
 .agency-evidence-plans {
   width: 30%;
@@ -148,7 +156,8 @@
   margin-left: 0.5rem;
 }
 .office-logo {
-  margin-top: 18px;
+  margin-top: 0.8rem;
+  max-width: 90%;
 }
 .office-links li {
   padding-left: 1rem;
@@ -194,6 +203,10 @@
   }
   .agency-txt-logo {
     max-width: 100%;
+  }
+  .office-logo {
+    margin-top: 0.8rem;
+    max-width: 90%;
   }
 }
 /* ---------------- MOBILE CSS ----------------------- */
