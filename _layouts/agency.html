@@ -17,8 +17,7 @@ This is used for Agency pages.
     </div>
 </section>
     <div class="grid-container grey-back padding-top-3 padding-bottom-2">
-<div class="grid-row grid-gap">
-    <div style="width: 64rem;">
+<div>
     <div>
         <div class="usa-graphic-list__row container">
             <div class="grid-row">
@@ -32,10 +31,10 @@ This is used for Agency pages.
             <!--<section class="usa-section">-->
         <div class="usa-grid usa-graphic_list-row margin-top-4">
           <div class="usa-width-one-whole usa-media_block">
-            <h2 style="padding-bottom:1rem;">Agency Evidence Plans</h2>
+            <h2 style="margin-left:20px;">Agency Evidence Plans</h2>
               </div>
             </div>
-          <div class="grid-container">
+          <div class="grid-container" style="margin-right: -25px;">
           <div class="usa-graphic-list__row grid-row grid-gap">
             <div class="desktop:grid-col-4 tablet:grid-col-4 container agency-evidence-plans">
               <h3 class="agency-link-title"><center>Learning Agenda</center></h3>
@@ -90,7 +89,7 @@ This is used for Agency pages.
     {% endfor %}
     {% if member-found.name or  page.eval-policy %}
         <div class="usa-graphic-list__row container shadow-5 white-background agency-border-top margin-top-3">
-            <div class="white-background margin-bottom-3 padding-2">
+            <div class="white-background padding-top-2 padding-bottom-3 padding-x-4">
                 <h2 class="margin-0">Agency Evaluation Information</h2>
             {% if member-found.name %}
             <div class="grid-row">
@@ -100,30 +99,30 @@ This is used for Agency pages.
             </div>
             {% if page.eval-policy %}
             <div class="grid-row">
-                <p class="desktop:grid-col-3 tablet:grid-col-3"><strong>Evaluation Policy</strong></p>
-                <p class="desktop:grid-col-9 tablet:grid-col-9"><a href="{{  page.eval-policy }}" aria-label="{{ page.agency-name }} Evaluation Policy (opens in a new window)" target="_blank">Evaluation Policy for {{ page.agency-name }}</a></p>
+                <div class="desktop:grid-col-3 tablet:grid-col-3"><strong>Evaluation Policy</strong></div>
+                <div class="desktop:grid-col-9 tablet:grid-col-9"><a href="{{  page.eval-policy }}" aria-label="{{ page.agency-name }} Evaluation Policy (opens in a new window)" target="_blank">Evaluation Policy for {{ page.agency-name }}</a></div>
             </div>
             {% endif %}
             </div>
         </div>
         {% endif %}
         {% if page.agency-offices %}
-        <div class="usa-grid usa-graphic_list-row container agency-border-top shadow-5 white-background padding-2 margin-top-5">
+        <div class="usa-grid usa-graphic_list-row container agency-border-top shadow-5 white-background padding-y-2 padding-x-4 margin-top-5">
             <h2 class="margin-0">Relevant Offices</h2>
             {% for office in page.agency-offices %}
-            <div class="margin-bottom-3 grid-row">
+            <div class="grid-row">
                 <div class="desktop:grid-col-6 tablet:grid-col-6">
                     {% if office.link %}
-                    <p style="font-weight: bold; font-size: 18px;"><a href="{{ office.link }}" aria-label="{{ office.name }} link (opens in a new window)" target="_blank">{{ office.name }}</a></p>
+                    <p style="font-weight: bold; font-size: 18px;"><a style="text-decoration: none;" href="{{ office.link }}" aria-label="{{ office.name }} link (opens in a new window)" target="_blank">{{ office.name }}</a></p>
                     {% else %}
                     <p style="font-weight: bold; font-size: 18px;">{{ office.name }}</p>
                     {% endif %}
-                    <ul class="office-links padding-0" style="border-left: 4px solid #0d7ea2; list-style:none;">
+                    <ul class="">
                     {% if office.eval-policy %}
-                    <li><a href="{{ office.eval-policy }}" aria-label="{{ office.name }} Evaluation Policy (opens in a new window)" target="_blank">Evaluation Policy</a></li>
+                    <li><a style="text-decoration: none;" href="{{ office.eval-policy }}" aria-label="{{ office.name }} Evaluation Policy (opens in a new window)" target="_blank">Evaluation Policy</a></li>
                     {% endif %}
                     {% if office.eval-plan-link %}
-                    <li><a href="{{ office.eval-plan-link }}" aria-label="{{ office.name }} Evaluation Plan (opens in a new window)" target="_blank">{{ office.eval-plan }}</a></li>
+                    <li><a style="text-decoration: none;" href="{{ office.eval-plan-link }}" aria-label="{{ office.name }} Evaluation Plan (opens in a new window)" target="_blank">{{ office.eval-plan }}</a></li>
                     {% endif %}
                     <!--<li>Link 3</li>-->
                     </ul>
@@ -140,17 +139,12 @@ This is used for Agency pages.
                 {% endif %}
                 {% endif %}
             </div>
+            <hr class="rel-hr-border">
             {% endfor %}
             
         </div>
         {% endif %}
         <!--</section>-->
-
-        
-           
-
-    </div>
-</div>
 </div>
 
 
