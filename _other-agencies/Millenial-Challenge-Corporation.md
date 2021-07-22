@@ -5,7 +5,7 @@ plan-link: https://login.max.gov/cas/login?service=https%3A%2F%2Fcommunity.max.g
 alt: Millennium Challenge Corporation agency logo
 aria-label: Millennium Challenge Corporation Agency Evaluation Plan
 agency-offices:
-    - name: Office 1
+    - name: Evaluation Office
       link: https://www.mcc.gov/our-impact
 ---
 
