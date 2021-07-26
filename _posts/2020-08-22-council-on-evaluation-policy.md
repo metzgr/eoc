@@ -8,10 +8,10 @@ tags: icep
 filters: icep
 permalink: /2020-08-22-council-on-evaluation-policy/
 image: ICEP-post-JH.jpg
-img-alt: 
+img-alt: People in a meeting to signify the Interagency Council on Evaluation Policy
 ---
 
-<img src="{{site.baseurl}}/assets/images/blog/ICEP-post-JH.jpg" alt="" style="float:left; width:35%; height:35%; margin-right:1rem; margin-top:0.4rem">
+<img src="{{site.baseurl}}/assets/images/blog/ICEP-post-JH.jpg" alt="People in a meeting to signify the Interagency Council on Evaluation Policy" style="float:left; width:35%; height:35%; margin-right:1rem; margin-top:0.4rem">
 The Foundations for Evidence-Based Policymaking Act of 2018 (Evidence Act) was a culmination of years of efforts to set evaluation on par with statistics and data as necessary for ensuring federal policies are built on strong evidence.  While many agencies have been conducting evaluations (“an assessment using systematic data collection and analysis of one or more programs, policies, and organizations intended to assess their effectiveness and efficiency”) for years, others have only nascent evaluation cultures.  The Evaluation Officer Council will help align agency policies and priorities with respect to evaluation; but the federal staff supporting those efforts also need a strong community to share best practices, develop resources, and provide other support to capacity- and evidence-building activities.  The Interagency Council on Evaluation Policy (ICEP) aims to provide that community and respond to the needs of the Evaluation Officer Council and the federal evaluation community.
 
 ICEP is composed of federal employees who are technical experts in one or more aspects of evaluation.  Members represent themselves as recognized experts in evaluation—not their agencies—and come from small, medium, and large organizations including Chief Financial Officers (CFO) Act and non-CFO Act agencies representing a wide range policy areas.  A steering committee, co-chaired by a representative from the Office of Management and Budget’s Evidence Team (currently Diana Epstein) and one agency representative (currently myself), leads ICEP.  The steering committee determines which activities ICEP will take on in a given one to two-year cycle and all ICEP members are expected to participate in at least one of them. 
