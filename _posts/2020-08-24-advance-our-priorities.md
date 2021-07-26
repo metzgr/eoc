@@ -8,10 +8,10 @@ tags: policy evaluation
 filters: policy-filter evaluation
 permalink: /2020-08-24-advance-our-priorities/
 image: Danny-post.jpg
-img-alt: 
+img-alt: Looking glass to signify a focus on priorities
 ---
 
-<img src="{{site.baseurl}}/assets/images/blog/Danny-post.jpg" alt="" style="float:left; width:20%; height:10%; margin-right:1rem; margin-top:0.4rem">
+<img src="{{site.baseurl}}/assets/images/blog/Danny-post.jpg" alt="Looking glass to signify a focus on priorities" style="float:left; width:20%; height:10%; margin-right:1rem; margin-top:0.4rem">
 As this Administration works to address complex and urgent challenges facing our country, evaluation is necessary for answering key questions about what works and how we can improve, and is critical to finding effective solutions. The Administration has outlined four clear priority areas - climate change, racial equity, economic recovery, and COVID-19. As significant new investments are made to address these priorities through the American Rescue Plan and other initiatives, it is critical that the strategies pursued are informed by existing evidence. Yet we know that more evidence is needed to determine what works and for whom in order to achieve these policy goals, underscoring the need for agencies to conduct evaluations to understand the degree to which these investments are having their intended impacts. Evaluation can also identify areas for improvement in current Federal programs that are aligned with and support these priorities.
 
 With the passage of the Evidence Act and the recent Presidential Memorandum on Restoring Trust in Government Through Scientific Integrity and Evidence-Based Policymaking, agencies are being explicitly called on to expand how they build and use evidence, and to increase program evaluation activities. To establish strong leadership across the Federal Government to lead this charge, the Evidence Act required the designation of agency Evaluation Officers, Statistical Officials, and Chief Data Officers. We rely on Evaluation Officers to bring results and insights from evaluation to the decision-making table. One way they do this is by leading the development of Learning Agendas and Annual Evaluation Plans that lay out specific strategies for how agencies will build evidence to answer priority questions. Through this strategic process, agencies will be better positioned to identify and carry out the evidence-building work that is most urgently needed.

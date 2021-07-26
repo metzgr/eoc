@@ -8,10 +8,10 @@ tags: evaluation-officer-council
 filters: evaluation-officer-council
 permalink: /2020-08-23-implementing-the-evidence-act/
 image: EO-post.jpg
-img-alt: 
+img-alt: Four hands linked to signify the work of the Evaluation Officers
 ---
 
-<img src="{{site.baseurl}}/assets/images/blog/EO-post.jpg" alt="" style="float:left; width:20%; height:10%; margin-right:1rem; margin-top:0.4rem">
+<img src="{{site.baseurl}}/assets/images/blog/EO-post.jpg" alt="Four hands linked to signify the work of the Evaluation Officers" style="float:left; width:20%; height:10%; margin-right:1rem; margin-top:0.4rem">
 As the Evaluation Officer for the Department of Education (ED) and member of the Evaluation Officer Council, I have been privileged to help make the vision of the Evidence Act a reality. Along the way, I have been struck by the energy, enthusiasm, and expertise of my colleagues across government and deeply grateful for the support from our colleagues at the Office of Management and Budget (OMB). This isn’t to say there aren’t areas of growth—there most certainly are! But I am more convinced today than ever before that the federal evaluation community is well-positioned to make evidence-based policymaking a reality across government and, as a result, a real difference in the lives of those we serve.
 
 *The Important Role of the Evaluation Officer Council*. As many readers will already know, the Evidence Act creates three new roles: Evaluation Officers (EOs), Statistical Officials, and Chief Data Officers. How it arrays and organizes those roles across government, though, varies. Although every federal agency is required to appoint a Chief Data Officer, for example, only CFO Act agencies are required to appoint a Statistical Official and EO. (Though I should note many non-CFO Act agencies have appointed all three positions.) More variation is seen in how roles organize themselves to complete their work. For whatever reason, the Evidence Act organizes Chief Data Officers and Statistical Officials into formal councils but does not do the same for EOs. Evaluators are not ones to be left out, though, and thanks to OMB we don’t have to be: with their support, the Evaluation Officer Council was codified in guidance (OMB M-19-23) and kicked off in the fall of 2019. And thank goodness for it.

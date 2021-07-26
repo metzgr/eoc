@@ -1,7 +1,7 @@
 ---
 layout: event-plans
 permalink: /evidence-plans/capacity-assessments/
-title: Capacity Assessments
+title: Capacity Assessments for Statistics, Research, Evaluation, and Other Analysis
 ---
 
 As required by the Evidence Act, agencies must conduct and provide an assessment of the coverage, quality, methods, effectiveness, and independence of the statistics, evaluation, research, and analysis efforts of the agency. The Capacity Assessment is intended to help agencies to assess their ability and infrastructure to carry out evidence building activities like foundational fact finding, performance measurement, policy analysis, and program evaluation, especially to meet the evidence-building needs outlined in the Learning Agenda.
