@@ -11,7 +11,7 @@ eval-policy:
 learning-agenda:
 capacity-assesment:
 agency-offices:
-    - name: Office of Policy Support (Food and Nutrition Services)
+    - name: Office of Policy Support (Food and Nutrition Service)
       link: https://www.fns.usda.gov/research-analysis
       eval-plan: Study & Evaluation Plans
       eval-plan-link: https://www.fns.usda.gov/ops/study-evaluation-plans
