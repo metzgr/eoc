@@ -83,26 +83,26 @@ permalink: /about/
       <!-- Use the accurate heading level to maintain the document outline -->
       <h3 class="usa-accordion__heading">
         <button class="usa-accordion__button" aria-expanded="false" aria-controls="b-a3">
-          Linking Policy
+          Materials on this Website
         </button>
       </h3>
       <div id="b-a3" class="usa-accordion__content">
-        <p><strong><em>Links to Other Sites</em></strong></p> 
-        <p>Evaluation.gov includes hypertext links or pointers to information created and maintained by other Federal Government agencies and/or other public or private organizations. Evaluation.gov provides these links and pointers for your information and convenience. If you click on a link to an outside or third-party website, you will leave the Evaluation.gov website, and your activity on any third-party sites will be governed by the third parties’ privacy and security policies.</p>
-        <p>Please note, Evaluation.gov is not responsible for the content of any third-party website. The inclusion of links and pointers to third-party websites is not intended to assign importance to those sites or the information contained on those sites, and should not be considered an endorsement or a recommendation by Evaluation.gov, the Evaluation Officer Council, or the Evidence Team, of any views or materials offered by these sites. Evaluation.gov does not control or guarantee the accuracy, relevance, timeliness, or completeness of the information contained on any linked site.</p>
-        <p><strong><em>Linking to Evaluation.gov</em></strong></p>
-        <p>This is a public domain website, which means you may link to Evaluation.gov at no cost and without specific permission.</p>
-        <p>If you choose to link to this site, we suggest including a description: Evaluation.gov communicates how the Federal Government is building and using varied forms of evidence, including evaluation, to inform effective policy-making.  This website includes a compilation of laws, guidance, standards, and policies related to the Evidence Act, links to materials that reflect the Government-wide implementation of Title I of the Evidence Act, and resources for Federal Government agencies conducting or seeking to conduct evaluations of their programs, policies, or operations.</p>
+        <p>The materials on this website were compiled by the Evidence Team at the Office of Management and Budget and include publicly-available information about the Evaluation Officer Council and some of its ongoing initiatives. This website also provides a partial inventory of laws, guidance, and Federal agency documents that reflect their implementation of the Evidence Act, specifically Title I. Additionally, this website collates and shares resources to support and improve evaluation activities and their use, including leading examples of how Federal evaluation is helping to answer priority questions about agency mission and operational effectiveness.</p>
+        <p>This website does not provide a complete inventory of all the statutory and policy requirements associated with Evidence Act implementation across the Federal Government. Not all requirements or resources on this website apply to all agencies. The information contained on this website may not reflect current legal developments or agency-specific requirements and may not be accurate or complete</p>
       </div>
       <!-- Use the accurate heading level to maintain the document outline -->
       <h3 class="usa-accordion__heading">
         <button class="usa-accordion__button" aria-expanded="false" aria-controls="b-a4">
-          Materials on this Website
+          Linking Policy
         </button>
       </h3>
       <div id="b-a4" class="usa-accordion__content">
-        <p>The materials on this website were compiled by the Evidence Team at the Office of Management and Budget and include publicly-available information about the Evaluation Officer Council and some of its ongoing initiatives. This website also provides a partial inventory of laws, guidance, and Federal agency documents that reflect their implementation of the Evidence Act, specifically Title I. Additionally, this website collates and shares resources to support and improve evidence-building activities and their use, including leading examples of how Federal evaluation is helping to answer priority questions about mission and operational effectiveness.</p>
-        <p>This website does not provide a complete inventory of all the statutory and policy requirements associated with Evidence Act implementation across the Federal Government. Not all requirements or resources on this website apply to all agencies. The information contained on this website may not reflect current legal developments or agency-specific requirements and may not be accurate or complete.</p>
+        <p><strong><em>Links to Other Sites</em></strong></p> 
+        <p>Evaluation.gov includes hypertext links or pointers to information created and maintained by other Federal Government agencies and/or other public or private organizations. Evaluation.gov provides these links and pointers for your information and convenience. If you click on a link to an outside or third-party website, you will leave the Evaluation.gov website, and your activity on any third-party sites will be governed by the third parties’ privacy and security policies.</p>
+        <p>Please note, Evaluation.gov is not responsible for the content of any third-party website. The inclusion of links and pointers to third-party websites is not intended to assign importance to those sites or the information contained on those sites, and should not be considered an endorsement or a recommendation by Evaluation.gov, the Evaluation Officer Council, or the OMB Evidence Team, of any views or materials offered by these sites. Evaluation.gov does not control or guarantee the accuracy, relevance, timeliness, or completeness of the information contained on any linked site.</p>
+        <p><strong><em>Linking to Evaluation.gov</em></strong></p>
+        <p>This is a public domain website, which means you may link to Evaluation.gov at no cost and without specific permission.</p>
+        <p>If you choose to link to this site, we suggest including a description: Evaluation.gov communicates how the Federal Government is building and using varied forms of evidence, including evaluation, to inform effective policy-making.  This website includes a compilation of laws, guidance, standards, and policies related to the Evidence Act, links to materials that reflect the Government-wide implementation of Title I of the Evidence Act, and resources for Federal Government agencies conducting or seeking to conduct evaluations of their programs, policies, or operations.</p>
       </div>
       <!-- Use the accurate heading level to maintain the document outline -->
       <h3 class="usa-accordion__heading">
@@ -112,11 +112,11 @@ permalink: /about/
       </h3>
       <div id="b-a5" class="usa-accordion__content">
         <p>We are committed to making all of our Internet documents accessible to everyone. In order to meet the requirements of the <a href="https://www.section508.gov/manage/laws-and-policies">1998 Amendment to Section 508 of the Rehabilitation Act of 1973</a>, we continually review our site with the goal of reducing accessibility problems for people with disabilities.</p>
-        <p>The documents on our site are in many formats. Many are in ASCII or HTML format, accessible to people who use screen reading software and to those with other vision or mobility impairments. Generally, we use Hypertext Markup Language (HTML) to create pages and documents that are accessible to that segment of our customer base. In creating HTML documents, we follow Section 508 standards; for example, we include alternate text to describe graphics. Currently, our website contains documents in Adobe Acrobat PDF file format. Most PDF files will be accessible to those who use assistive technology such as screen readers. Some legacy or software created PDF files may not be accessible. If you are experiencing difficulty reading any PDF files please email <a href="mailto:eocstaff@gsa.gov">eocstaff@gsa.gov</a> and we will be happy to send you an alternate version.</p>
+        <p>The documents on our site are in many formats. Many are in ASCII or HTML format, accessible to people who use screen reading software and to those with other vision or mobility impairments. Generally, we use Hypertext Markup Language (HTML) to create pages and documents that are accessible to that segment of our customer base. In creating HTML documents, we follow Section 508 standards; for example, we include alternate text to describe graphics. Currently, our website contains documents in Adobe Acrobat PDF file format. Most PDF files will be accessible to those who use assistive technology such as screen readers. Some legacy or software created PDF files may not be accessible. If you are experiencing difficulty reading any PDF files please contact <a href="mailto:eocstaff@gsa.gov">eocstaff@gsa.gov</a> and we will be happy to send you an alternate version.</p>
         <p><strong><em>Adobe Reader</em></strong></p>
         <p>Use <a href="https://acrobat.adobe.com/us/en/acrobat.html#50enu">Adobe Acrobat</a> to read Portable Document Format (PDF) files.</p>
         <p><strong><em>What to do if you have trouble</em></strong></p>
-        <p>If you have a question about our accessibility policy or if you have a problem viewing any material on Evaluation.gov due to a broken link or a link that goes to the wrong page, please email <a href="mailto:eocstaff@gsa.gov">eocstaff@gsa.gov</a>.</p>
+        <p>If you have a question about our accessibility policy or if you have a problem viewing any material on Evaluation.gov due to a broken link or a link that goes to the wrong page, please contact <a href="mailto:eocstaff@gsa.gov">eocstaff@gsa.gov</a>.</p>
       </div>
       <!-- Use the accurate heading level to maintain the document outline -->
       <h3 class="usa-accordion__heading">
