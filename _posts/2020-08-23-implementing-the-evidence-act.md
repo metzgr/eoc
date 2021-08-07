@@ -4,8 +4,8 @@ layout: post
 date: August 23, 2020
 author: Matt Soldner, Evaluation Officer, ED
 excerpt: As the Evaluation Officer for the Department of Education (ED) and member of the Evaluation Officer Council, I have been privileged to help make the vision of the Evidence Act a reality. Along the way,... <a href="../2020-08-23-implementing-the-evidence-act/" aria-label="Implementing the Evidence Act">Continue Reading</a>
-tags: evaluation-officer-council
-filters: evaluation-officer-council
+tags: evaluation-officer-council evaluation evidence-act
+filters: evaluation-officer-council evaluation evidence-act
 permalink: /2020-08-23-implementing-the-evidence-act/
 image: EO-post.jpg
 img-alt: Four hands linked to signify the work of the Evaluation Officers
