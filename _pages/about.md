@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 <section class="grid-container padding-left-0 padding-right-1">
-<h2>What is Evaluation.gov</h2>
+<h2>What is Evaluation.gov?</h2>
 <p>Evaluation.gov is a central location for the agency plans and policies that guide evaluation efforts across the Federal government and serves as a resource to support and build the Federal evaluation community.</p>
         <p>This includes:</p>
         <ul>

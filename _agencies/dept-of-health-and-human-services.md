@@ -5,7 +5,7 @@ agency-logo: assets/images/agency-seals/health_and_human_department_seal.png
 layout: agency
 permalink: /agencies/health-and-human-services/
 eval-plan:
-    - name: Fiscal year 2022
+    - name: Fiscal Year 2022
       link: https://aspe.hhs.gov/system/files/pdf/265541/final-fy-2022-evaluation-plan.pdf
 eval-policy: https://aspe.hhs.gov/pdf-report/hhs-evaluation-policy
 learning-agenda:

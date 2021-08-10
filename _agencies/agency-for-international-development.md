@@ -5,7 +5,7 @@ agency-logo: assets/images/agency-seals/usaid_seal.png
 layout: agency
 permalink: /agencies/agency-for-international-development/
 eval-plan:
-    - name: Fiscal year 2022
+    - name: Fiscal Year 2022
       link: https://pdf.usaid.gov/pdf_docs/PA00XBT7.pdf
 eval-policy: https://www.usaid.gov/sites/default/files/documents/1870/USAIDEvaluationPolicy.pdf
 learning-agenda:

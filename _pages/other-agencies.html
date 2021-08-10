@@ -37,7 +37,7 @@ This is used in blog posts. The index page can be found at blog/index.html
                         <p class="eval-pol-agcy-title">{{ annual-evaluation-plan.agency-name }}</p>
                         <p class="eval-pol-agcy-link"><a href="{{ annual-evaluation-plan.plan-link }}" aria-label="{{ annual-evaluation-plan.aria-label }} Agency Evaluation Plan" target="_blank">Evaluation Policy</a></p>
                         {% for agency-office in annual-evaluation-plan.agency-offices %}
-                        <p class="eval-pol-agcy-link"><a href="{{ agency-office.link }}">{{ agency-office.name }}</a></p>
+                        <p class="eval-pol-agcy-link"><a href="{{ agency-office.link }}" aria-label="{{ office.name }} link (opens in a new window)" target="_blank">{{ agency-office.name }}</a></p>
                         {% endfor %}
                      </div>
 

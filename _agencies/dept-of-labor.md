@@ -5,7 +5,9 @@ agency-logo: assets/images/agency-seals/labor_department_seal.png
 layout: agency
 permalink: /agencies/department-of-labor/
 eval-plan:
-eval-policy: https://www.dol.gov/agencies/oasp/evaluation/EvaluationPolicy
+    - name: Historic Evidence Plans
+      link: https://www.dol.gov/evidence/building-plans-and-assessments
+eval-policy: https://www.dol.gov/evidence/evaluation-policy
 learning-agenda:
 capacity-assesment:
 agency-offices:
