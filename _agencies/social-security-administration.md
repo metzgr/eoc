@@ -5,7 +5,7 @@ agency-logo: assets/images/agency-seals/social_security_administration_seal.png
 layout: agency
 permalink: /agencies/social-security-administration/
 eval-plan:
-    - name: Fiscal year 2022
+    - name: Fiscal Year 2022
       link: https://www.ssa.gov/data/policy/FY2022_Evaluation_Plan.pdf
 eval-policy: https://www.ssa.gov/data/data_governance_board/Evidence%20Act%20Evaluation%20Policy%20-%20September%202020.pdf
 learning-agenda:

@@ -5,7 +5,7 @@ agency-logo: assets/images/agency-seals/energy_department_seal.png
 layout: agency
 permalink: /agencies/department-of-energy/
 eval-plan:
-    - name: Fiscal year 2022
+    - name: Fiscal Year 2022
       link: https://www.energy.gov/sites/default/files/2021-05/doe-evaluation-evidence-building-activities-fy22.pdf
 eval-policy:
 learning-agenda:

@@ -5,7 +5,7 @@ agency-logo: assets/images/agency-seals/Seal_of_the_United_States_Nuclear_Regula
 layout: agency
 permalink: /agencies/nuclear-regulatory-commission/
 eval-plan:
-    - name: Fiscal year 2022
+    - name: Fiscal Year 2022
       link: https://www.nrc.gov/about-nrc/plans-performance/evidence-building-and-evaluation/annual-evaluation-plan.html
 name: NRC's Evidence-Building and Evaluation Policy Statement      
 eval-policy: https://www.govinfo.gov/content/pkg/FR-2021-06-03/pdf/2021-11637.pdf
