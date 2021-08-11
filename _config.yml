@@ -177,7 +177,7 @@ primary_navigation:
 searchgov: eoc_gov
 
   # You should not change this.
-  endpoint: https://search.usa.gov
+  endpoint: 'https://search.usa.gov'
 
   # replace this with your search.gov account
   affiliate: federalist-uswds-example
