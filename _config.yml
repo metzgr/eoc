@@ -174,7 +174,7 @@ primary_navigation:
 # 1. Create an account with Search.gov https://search.usa.gov/signup
 # 2. Add a new site.
 # 3. Add your site/affiliate name here.
-searchgov: eoc_gov
+searchgov:eoc_gov
 
   # You should not change this.
   endpoint: https://search.usa.gov
