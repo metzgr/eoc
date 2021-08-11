@@ -66,7 +66,7 @@ twitter: 18F
 #
 #################################################################
 dap:
-   agency: GSA
+  # agency: your-agency
 
   # Optional
   # subagency: your-subagency
@@ -174,7 +174,7 @@ primary_navigation:
 # 1. Create an account with Search.gov https://search.usa.gov/signup
 # 2. Add a new site.
 # 3. Add your site/affiliate name here.
-searchgov:eoc_gov
+searchgov:
 
   # You should not change this.
   endpoint: https://search.usa.gov
@@ -186,7 +186,7 @@ searchgov:eoc_gov
   access_key: xX1gtb2RcnLbIYkHAcB6IaTRr4ZfN-p16ofcyUebeko=
 
   # this renders the results within the page instead of sending to user to search.gov
-  inline: false
+  inline: true
 
 ##########################################################################################
 # The values below here are more advanced and should only be
