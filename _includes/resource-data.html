@@ -1,7 +1,7 @@
 <!--********Generates resource catalog items. Individual cards live in the in the _resources folder**************-->
 
 <div class="usa-media-block tablet:grid-col-9">
-    <p class="filter-count card-tag margin-top-0 text-gray-50 text-thin count"></p>
+    <p class="filter-count itm-tag margin-top-0 text-gray-50 text-thin count"></p>
     <div class="resources">
                {% assign resources = site.resources | sort: 'year' | reverse %}
                 {% for resource in resources %}
@@ -42,13 +42,8 @@
                                                 {% endif %}
                                          
                                                 {% if resource.external_url %}
-                                                <p class="title-resources"><a class="text-ink text-no-underline" href="http://{{ resource.external_url }}">{{ resource.title }}</a></p>
-                                                {% endif %}
-                                                {% if resource.permalink %}
-                                                <p class="title-resources"><a class="text-ink text-no-underline" href="{{ site.baseurl }}{{ resource.permalink }}">{{ resource.title }}</a></p>
-                                                {% endif %}
-                                                {% if resource.doc-link %}
-                                                <p class="title-resources"><a class="text-ink text-no-underline" href="{{ site.baseurl }}/{{ resource.doc-link }}">{{ resource.title }}</a></p>
+                                                <a class="anchor-fill text-ink text-no-underline" href="http://{{ resource.external_url }}">
+                                                <p class="title-resources">{{ resource.title }}</p>
                                                 {% endif %}
                                                 {% if resource.type contains 'link' %}
                                                 <p class="link-type">Link</p>
@@ -57,6 +52,15 @@
                                                 <p class="link-type">PDF</p>
                                                 {% endif %}
                                                 <p class="link-type">{{ resource.year }}</p>
+                                                </a>
+
+                                                {% if resource.permalink %}
+                                                <p class="title-resources"><a class="text-ink text-no-underline" href="{{ site.baseurl }}{{ resource.permalink }}">{{ resource.title }}</a></p>
+                                                {% endif %}
+                                                {% if resource.doc-link %}
+                                                <p class="title-resources"><a class="text-ink text-no-underline" href="{{ site.baseurl }}/{{ resource.doc-link }}">{{ resource.title }}</a></p>
+                                                {% endif %}
+                                                
                                                 <!--for 508 accessibility-->
                                             </div>
                                         </div>
