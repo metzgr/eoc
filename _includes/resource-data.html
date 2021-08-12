@@ -32,7 +32,7 @@
                                                 <span class="card-tag">Guidance</span>
                                                 {% endif %}
                                                 {% if resource.filters contains 'budget-discussions' %}
-                                                <span class="card-tag">Budget Discussions</span>
+                                                <span class="card-tag">Budget Discussion</span>
                                                 {% endif %}
                                                 {% if resource.filters contains 'evidence-clearinghouse' %}
                                                 <span class="card-tag">Evidence Clearinghouse</span>
@@ -56,6 +56,7 @@
                                                 {% if resource.type contains 'pdf' %}
                                                 <p class="link-type">PDF</p>
                                                 {% endif %}
+                                                <p class="link-type">{{ resource.year }}</p>
                                                 <!--for 508 accessibility-->
                                             </div>
                                         </div>

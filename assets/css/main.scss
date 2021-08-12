@@ -86,7 +86,7 @@
     pointer-events: none;
    }
  .text-container {
-  height: 12rem;
+  height: 14rem;
  }
  .shadow-1 {
    padding: 15px;
@@ -197,6 +197,9 @@
 }
 .agency-txt-logo {
   max-width: 100%;
+}
+.usa-tooltip__body {
+  background-color: #5c5c5c;
 }
 /* ---------------- IPAD CSS ----------------------- */
 @media (max-width: 768px) {
