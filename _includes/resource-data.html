@@ -42,7 +42,7 @@
                                                 {% endif %}
                                          
                                                 {% if resource.external_url %}
-                                                <a class="anchor-fill text-ink text-no-underline" href="http://{{ resource.external_url }}">
+                                                <a class="anchor-fill text-ink text-no-underline" href="http://{{ resource.external_url }}" aria-label="{{ resource.aria-label }} link (opens in a new window)" target="_blank">
                                                 <p class="title-resources">{{ resource.title }}</p>
                                                 {% if resource.type contains 'link' %}
                                                 <p class="link-type">Link</p>
@@ -58,7 +58,7 @@
                                                 <p class="title-resources"><a class="text-ink text-no-underline" href="{{ site.baseurl }}{{ resource.permalink }}">{{ resource.title }}</a></p>
                                                 {% endif %}
                                                 {% if resource.doc-link %}
-                                                <a class="anchor-fill text-ink text-no-underline" href="{{ site.baseurl }}/{{ resource.doc-link }}">
+                                                <a class="anchor-fill text-ink text-no-underline" href="{{ site.baseurl }}/{{ resource.doc-link }}" aria-label="{{ resource.aria-label }} link (opens in a new window)" target="_blank">
                                                 <p class="title-resources">{{ resource.title }}</p>
                                                 {% if resource.type contains 'link' %}
                                                 <p class="link-type">Link</p>

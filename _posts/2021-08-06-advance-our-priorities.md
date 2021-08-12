@@ -4,7 +4,7 @@ layout: post
 date: August 6, 2021
 author: Danny Yagan, Associate Director for Economic Policy, OMB
 excerpt: As this Administration works to address complex and urgent challenges facing our country, evaluation is necessary for answering key questions about what works and how we can improve, and is critical... <a href="../2020-08-24-advance-our-priorities/" aria-label="Evaluation to Advance Our Priorities">Continue Reading</a>
-tags: policy evaluation
+tags: Policy Evaluation
 filters: policy-filter evaluation
 permalink: /2020-08-24-advance-our-priorities/
 image: Danny-post.jpg
