@@ -4,7 +4,7 @@ layout: post
 date: August 10, 2021
 author: Diana Epstein, Evidence Team Lead, OMB
 excerpt: Welcome to Evaluation.gov, the home for Federal program evaluation and the Evaluation Officer Council. We are excited to launch this site as a resource to support and build the Federal evaluation community,... <a href="../2021-08-25-evaluation-gov/" aria-label="Evaluation.gov">Continue Reading</a>
-tags: evaluation evidence-act
+tags: Evaluation Evidence Act
 filters: evaluation evidence-act
 permalink: /2021-08-25-evaluation-gov/
 image: welcome-post-DE.jpg
