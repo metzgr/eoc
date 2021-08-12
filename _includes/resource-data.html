@@ -44,7 +44,6 @@
                                                 {% if resource.external_url %}
                                                 <a class="anchor-fill text-ink text-no-underline" href="http://{{ resource.external_url }}">
                                                 <p class="title-resources">{{ resource.title }}</p>
-                                                {% endif %}
                                                 {% if resource.type contains 'link' %}
                                                 <p class="link-type">Link</p>
                                                 {% endif %}
@@ -53,14 +52,24 @@
                                                 {% endif %}
                                                 <p class="link-type">{{ resource.year }}</p>
                                                 </a>
+                                                {% endif %}
 
                                                 {% if resource.permalink %}
                                                 <p class="title-resources"><a class="text-ink text-no-underline" href="{{ site.baseurl }}{{ resource.permalink }}">{{ resource.title }}</a></p>
                                                 {% endif %}
                                                 {% if resource.doc-link %}
-                                                <p class="title-resources"><a class="text-ink text-no-underline" href="{{ site.baseurl }}/{{ resource.doc-link }}">{{ resource.title }}</a></p>
+                                                <a class="anchor-fill text-ink text-no-underline" href="{{ site.baseurl }}/{{ resource.doc-link }}">
+                                                <p class="title-resources">{{ resource.title }}</p>
+                                                {% if resource.type contains 'link' %}
+                                                <p class="link-type">Link</p>
                                                 {% endif %}
-                                                
+                                                {% if resource.type contains 'pdf' %}
+                                                <p class="link-type">PDF</p>
+                                                {% endif %}
+                                                <p class="link-type">{{ resource.year }}</p>
+                                                </a>
+                                                {% endif %}
+                                                                      
                                                 <!--for 508 accessibility-->
                                             </div>
                                         </div>
