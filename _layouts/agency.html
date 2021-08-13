@@ -94,7 +94,9 @@ This is used for Agency pages.
             {% if member-found.name %}
             <div class="grid-row">
                 <p class="desktop:grid-col-3 tablet:grid-col-3"><strong>Evaluation Officer</strong></p>
-                <p class="desktop:grid-col-9 tablet:grid-col-9">{{ member-found.name }}, {{ member-found.job-title }}</p>
+                <p class="desktop:grid-col-9 tablet:grid-col-9">{{ member-found.name }}{% if member-found.job-title %}, {{ member-found.job-title }}
+                {% endif %}
+                </p>
                 {% endif %}
             </div>
             {% if page.eval-policy %}
