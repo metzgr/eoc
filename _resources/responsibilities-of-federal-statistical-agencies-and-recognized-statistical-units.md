@@ -1,5 +1,5 @@
 ---
-title: Statistical Policy Directive No. 1&#58; Fundamental Responsibilities of Federal Statistical Agencies and Recognized Statistical Units
+title: Statistical Policy Directive No. 1&#58; Fundamental Responsibilities of Federal Statistical Agencies and Recognized Statistical Units 2014
 year: 2014
 description: 
 external_url: www.bls.gov/bls/statistical-policy-directive-1.pdf

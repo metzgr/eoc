@@ -94,7 +94,7 @@
     pointer-events: none;
    }
  .text-container {
-  height: 14rem;
+  height: 10rem;
  }
  .shadow-1 {
    padding: 15px;
@@ -243,13 +243,13 @@
     max-width: 90%;
   }
   .text-container {
-    height: 18rem;
+    height: 15rem;
    }
 }
 /* ---------------- MOBILE CSS ----------------------- */
 @media screen and (max-width: 640px) {
   .text-container {
-    height: 12rem;
+    height: 8rem;
    }
   .count {
     margin-top: 1.06rem;

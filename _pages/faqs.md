@@ -87,7 +87,7 @@ permalink: /faqs/
       <!-- Use the accurate heading level to maintain the document outline -->
       <h3 class="usa-accordion__heading">
         <button class="usa-accordion__button" aria-expanded="false" aria-controls="b-a9">
-          Which agencies are required to develop and implement the Title I Evidence Act deliverables?
+          Which agencies are required to develop and implement the Title I Evidence Act deliverables? (i.e., what are the CFO Act agencies?)
         </button>
       </h3>
       <div id="b-a9" class="usa-accordion__content">
@@ -171,7 +171,7 @@ permalink: /faqs/
       <!-- Use the accurate heading level to maintain the document outline -->
       <h3 class="usa-accordion__heading">
         <button class="usa-accordion__button" aria-expanded="false" aria-controls="b-a16">
-          What different types of evidence should agencies use in evidence building and decision making?
+          What are the different types of evidence that agencies should use in evidence building and decision making?
         </button>
       </h3>
       <div id="b-a16" class="usa-accordion__content">
