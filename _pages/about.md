@@ -6,12 +6,12 @@ permalink: /about/
 
 <section class="grid-container padding-left-0 padding-right-1">
 <h2>What is Evaluation.gov?</h2>
-<p>Evaluation.gov is a central location for the agency plans and policies that guide evaluation efforts across the Federal government and serves as a resource to support and build the Federal evaluation community.</p>
-        <p>This includes:</p>
+<p>Evaluation.gov is the home for Federal program evaluation and the Evaluation Officer Council. Evaluation.gov brings together the plans and activities that drive evaluation efforts across the Federal Government.</p>
+        <p>On this site you can:</p>
         <ul>
             <li>The Evaluation Officer Council and their activities;</li>
-            <li>Official guidance on Evidence Act implementation and Federal evaluation;</li>
-            <li>Links to the documents required by all CFO-Act agencies under Title I of the Evidence Act (i.e., Learning Agendas, Annual Evaluation Plans, Capacity Assessments, and Evaluation Policies), as well as links to these documents for non CFO-Act agencies or agency sub-components as available; and</li>
+            <li>Find official guidance on Evidence Act implementation and Federal evaluation;</li>
+            <li>Agency plans for building evidence (Learning Agendas) and conducting evaluations (Annual Evaluation Plans), as well as agency assessments of their capacity to generate needed evidence for policymaking, and the policies that govern evaluation activities; and</li>
             <li>Resources to support and improve evaluation and its use, including leading examples of how Federal evaluation is helping to answer priority questions about mission and operational effectiveness.</li>
         </ul>
 <h2>About the OMB Evidence Team</h2>
@@ -118,14 +118,5 @@ permalink: /about/
         <p><strong><em>What to do if you have trouble</em></strong></p>
         <p>If you have a question about our accessibility policy or if you have a problem viewing any material on Evaluation.gov due to a broken link or a link that goes to the wrong page, please contact <a href="mailto:eocstaff@gsa.gov">eocstaff@gsa.gov</a>.</p>
       </div>
-      <!-- Use the accurate heading level to maintain the document outline -->
-      <h3 class="usa-accordion__heading">
-        <button class="usa-accordion__button" aria-expanded="false" aria-controls="b-a6">
-          Privacy Policy
-        </button>
-      </h3>
-      <div id="b-a6" class="usa-accordion__content">
-        <p></p>
-      </div> 
 </div>
 </section>

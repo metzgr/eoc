@@ -4,6 +4,11 @@ permalink: /evidence-plans/summary/
 title: Summary
 ---
 
-The Foundations for Evidence-Based Policymaking Act of 2018 ("Evidence Act"), signed into law on January 14, 2019, emphasizes collaboration and coordination to advance data and evidence-building functions in the Federal Government by statutorily mandating Federal evidence-building activities, open government data, and confidential information protection and statistical efficiency. Title I of the Evidence Act requires the 24 CFO-Act agencies to designate Evaluation Officers, develop evidence-building plans (Learning Agendas), Annual Evaluation Plans, and agency evaluation policies, and conduct capacity assessments, to further evidence-building activities. This page serves as a central home for these plans and supporting activities.
-
-<p>CFO Act agencies are expected to publish these documents in February 2022. Evaluation.gov will be updated to provide active links to these agency documents as they become available.</p>
+<p><a href="https://www.congress.gov/115/plaws/publ435/PLAW-115publ435.pdf">The Foundations for Evidence-Based Policymaking Act of 2018</a> ("Evidence Act"), signed into law on January 14, 2019, emphasizes collaboration and coordination to advance data and evidence-building functions in the Federal Government by statutorily mandating Federal evidence-building activities, open government data, and confidential information protection and statistical efficiency.</p> 
+Title I of the Evidence Act requires the 24 CFO-Act agencies to:
+<ul>
+ <li>designate Evaluation Officers,</li>
+ <li>develop evidence-building plans (Learning Agendas), Annual Evaluation Plans, and agency evaluation policies, and</li>
+ <li> conduct capacity assessments, to further evidence-building activities. This page serves as a central home for these plans and supporting activities.</li>
+ </ul>
+<p>This page serves as a central home for these plans and supporting activities</p>
