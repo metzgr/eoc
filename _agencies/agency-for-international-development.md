@@ -11,7 +11,7 @@ eval-policy: https://www.usaid.gov/sites/default/files/documents/1870/USAIDEvalu
 learning-agenda:
 capacity-assesment:
 agency-offices:
-    - name: US Agency for International Development Evaluation and Learning Lab
-      link: https://usaidlearninglab.org/
+    - name: Bureau for Policy, Planning and Learning
+      link: https://www.usaid.gov/who-we-are/organization/bureaus/bureau-policy-planning-and-learning
       logo: assets/images/usaidlearninglab-logo.png
 ---

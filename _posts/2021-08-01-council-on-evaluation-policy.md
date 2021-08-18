@@ -4,8 +4,8 @@ layout: post
 date: August 1, 2021
 author: Jeffrey Hemmeter, Acting Deputy Associate Commissioner for the Office of Research, Demonstration, and Employment Support, SSA
 excerpt: The Foundations for Evidence-Based Policymaking Act of 2018 (Evidence Act) was a culmination of years of efforts to set evaluation on par with statistics and data as necessary for ensuring federal policies are... <a href="../2020-08-22-council-on-evaluation-policy/" aria-label="Why an Interagency Council on Evaluation Policy">Continue Reading</a>
-tags: ICEP
-filters: icep
+tags: ICEP Evaluation
+filters: icep evaluation
 permalink: /2020-08-22-council-on-evaluation-policy/
 image: ICEP-post-JH.jpg
 img-alt: People in a meeting to signify the Interagency Council on Evaluation Policy
