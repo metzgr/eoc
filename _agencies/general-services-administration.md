@@ -5,7 +5,7 @@ agency-logo: assets/images/agency-seals/gsa_seal.png
 layout: agency
 permalink: /agencies/general-services-administration/
 eval-plan:
-eval-policy: https://oes.gsa.gov/assets/files/evaluationpolicy.pdf
+eval-policy: https://www.gsa.gov/directive/gsa-evaluation-policy
 learning-agenda:
 capacity-assesment:
 agency-offices:

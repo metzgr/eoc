@@ -4,5 +4,5 @@ bio-image-alt-text: National Aeronautics and Space Administration
 layout: bio
 name: J.Craig McArthur
 department: National Aeronautics and Space Administration
-job-title: Director, Strategic Investment Division
+job-title: Director, Strategic Investments Division
 ---
