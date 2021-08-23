@@ -9,9 +9,9 @@ permalink: /about/
 <p>Evaluation.gov is the home for Federal program evaluation and the Evaluation Officer Council. Evaluation.gov brings together the plans and activities that drive evaluation efforts across the Federal Government.</p>
         <p>On this site you can:</p>
         <ul>
-            <li>The Evaluation Officer Council and their activities;</li>
+            <li>Learn about the Evaluation Officer Council and their activities;</li>
             <li>Find official guidance on Evidence Act implementation and Federal evaluation;</li>
-            <li>Agency plans for building evidence (Learning Agendas) and conducting evaluations (Annual Evaluation Plans), as well as agency assessments of their capacity to generate needed evidence for policymaking, and the policies that govern evaluation activities; and</li>
+            <li>Access agency plans for building evidence (Learning Agendas) and conducting evaluations (Annual Evaluation Plans), as well as agency assessments of their capacity to generate needed evidence for policymaking, and the policies that govern evaluation activities; and</li>
             <li>Resources to support and improve evaluation and its use, including leading examples of how Federal evaluation is helping to answer priority questions about mission and operational effectiveness.</li>
         </ul>
 <h2>About the OMB Evidence Team</h2>
@@ -88,7 +88,7 @@ permalink: /about/
       </h3>
       <div id="b-a3" class="usa-accordion__content">
         <p>The materials on this website were compiled by the Evidence Team at the Office of Management and Budget and include publicly-available information about the Evaluation Officer Council and some of its ongoing initiatives. This website also provides a partial inventory of laws, guidance, and Federal agency documents that reflect their implementation of the Evidence Act, specifically Title I. Additionally, this website collates and shares resources to support and improve evaluation activities and their use, including leading examples of how Federal evaluation is helping to answer priority questions about agency mission and operational effectiveness.</p>
-        <p>This website does not provide a complete inventory of all the statutory and policy requirements associated with Evidence Act implementation across the Federal Government. Not all requirements or resources on this website apply to all agencies. The information contained on this website may not reflect current legal developments or agency-specific requirements and may not be accurate or complete</p>
+        <p>This website does not provide a complete inventory of all the statutory and policy requirements associated with Evidence Act implementation across the Federal Government. Not all requirements or resources on this website apply to all agencies. The information contained on this website may not reflect current legal developments or agency-specific requirements and may not be accurate or complete.</p>
       </div>
       <!-- Use the accurate heading level to maintain the document outline -->
       <h3 class="usa-accordion__heading">
