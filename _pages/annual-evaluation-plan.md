@@ -4,7 +4,7 @@ permalink: /evidence-plans/annual-evaluation-plan/
 title: Annual Evaluation Plans
 ---
 
-Annual Evaluation Plans describe the ”significant” evaluations an agency plans to conduct in the fiscal year indicated by the plan. Each agency defines how to determine significant evaluations, but most reflect factors such as
+Annual Evaluation Plans describe the ”significant” evaluations an agency plans to conduct in the fiscal year indicated by the plan. Each agency defines how to determine significant evaluations, but most reflect factors such as:
 <ul>
 <li>the importance of a program or funding stream to the agency mission;</li>
 <li>the size of the program in terms of funding or people served; and</li>
