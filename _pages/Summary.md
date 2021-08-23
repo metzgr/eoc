@@ -9,6 +9,6 @@ Title I of the Evidence Act requires the 24 CFO-Act agencies to:
 <ul>
  <li>designate Evaluation Officers,</li>
  <li>develop evidence-building plans (Learning Agendas), Annual Evaluation Plans, and agency evaluation policies, and</li>
- <li> conduct capacity assessments, to further evidence-building activities. This page serves as a central home for these plans and supporting activities.</li>
+ <li> conduct capacity assessments, to further evidence-building activities.</li>
  </ul>
 <p>This page serves as a central home for these plans and supporting activities</p>
