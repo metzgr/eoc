@@ -18,8 +18,7 @@ permalink: /evaluation-officer-council/
     <div class="grid-row grid-gap">
         <div>
             <h2 id="officer">Evaluation Officer Council</h2>
-            <p>
-            The Evaluation Officer Council is comprised of the Evaluation Officers designated by the 24 CFO Act agencies. It serves as a forum to:</p>
+            <p>The Evaluation Officer Council is comprised of the Evaluation Officers designated by the 24 CFO Act agencies (those identified in the Chief Financial Officers (CFO) Act of 1990). It serves as a forum to:</p>
             <ul>
             <li>exchange information;</li>
             <li>consult with and advise OMB on issues that affect evaluation functions including evaluator competencies, program evaluation practices, and evaluation capacity building;</li>

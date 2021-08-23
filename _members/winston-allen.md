@@ -4,5 +4,5 @@ bio-image-alt-text: U.S. Agency for International Development
 layout: bio
 name: Winston J Allen, PhD
 department: U.S. Agency for International Development
-job-title: Director of Program Monitoring and Evaluation
+job-title: Agency Evaluation Officer
 ---
