@@ -110,16 +110,16 @@ This is used for Agency pages.
         {% endif %}
         {% if page.agency-offices %}
         <div class="usa-grid usa-graphic_list-row container agency-border-top shadow-5 white-background padding-y-2 padding-x-4 margin-top-5">
-            <h2 class="margin-0">Relevant Offices</h2>
+            <h2 class="margin-0 margin-bottom-1">Relevant Offices</h2>
             {% for office in page.agency-offices %}
             <div class="grid-row">
                 <div class="desktop:grid-col-6 tablet:grid-col-6">
                     {% if office.link %}
-                    <p style="font-weight: bold; font-size: 18px;"><a style="text-decoration: none;" href="{{ office.link }}" aria-label="{{ office.name }} link (opens in a new window)" target="_blank">{{ office.name }}</a></p>
+                    <p style="font-weight: bold; font-size: 18px; margin-top: 5px;"><a style="text-decoration: none;" href="{{ office.link }}" aria-label="{{ office.name }} link (opens in a new window)" target="_blank">{{ office.name }}</a></p>
                     {% else %}
-                    <p style="font-weight: bold; font-size: 18px;">{{ office.name }}</p>
+                    <p style="font-weight: bold; font-size: 18px; margin-top: 5px;">{{ office.name }}</p>
                     {% endif %}
-                    <ul class="">
+                    <ul class="rel-offices">
                     {% if office.eval-policy %}
                     <li><a style="text-decoration: none;" href="{{ office.eval-policy }}" aria-label="{{ office.name }} Evaluation Policy (opens in a new window)" target="_blank">Evaluation Policy</a></li>
                     {% endif %}
