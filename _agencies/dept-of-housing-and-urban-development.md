@@ -5,7 +5,7 @@ agency-logo: assets/images/agency-seals/hud_seal.png
 layout: agency
 permalink: /agencies/housing-and-urban-development/
 eval-plan: 
-eval-policy: https://www.huduser.gov/portal/sites/default/files/pdf/Federal-Register-2016-29215.pdf
+eval-policy: https://www.govinfo.gov/content/pkg/FR-2021-08-13/pdf/2021-17339.pdf
 learning-agenda:
 capacity-assesment:
 agency-offices:

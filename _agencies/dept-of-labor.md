@@ -5,7 +5,7 @@ agency-logo: assets/images/agency-seals/labor_department_seal.png
 layout: agency
 permalink: /agencies/department-of-labor/
 eval-plan:
-    - name: Historic Evidence Plans
+    - name: Prior Year Evidence Plans
       link: https://www.dol.gov/evidence/building-plans-and-assessments
 eval-policy: https://www.dol.gov/evidence/evaluation-policy
 learning-agenda:
