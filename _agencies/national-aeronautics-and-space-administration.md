@@ -9,6 +9,6 @@ eval-policy: https://nodis3.gsfc.nasa.gov/displayDir.cfm?t=NPD&c=1210&s=7
 learning-agenda:
 capacity-assesment:
 agency-offices:
-    - name: Office of Evaluation
-      link: https://www.nasa.gov/offices/ooe/organization.html
+    - name:
+      link:
 ---
