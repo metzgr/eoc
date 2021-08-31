@@ -217,6 +217,9 @@
 .usa-tooltip__body {
   background-color: #5c5c5c;
 }
+.search-bx {
+  margin-top: -55px;
+}
 /* ---------------- IPAD CSS ----------------------- */
 @media (max-width: 768px) {
   .text-container {
@@ -253,6 +256,9 @@
   .text-container {
     height: 15rem;
    }
+  .search-bx {
+    margin-top: 0px;
+  } 
 }
 /* ---------------- MOBILE CSS ----------------------- */
 @media screen and (max-width: 640px) {
@@ -288,6 +294,9 @@
   }
   .agency-txt-logo {
     max-width: 60%;
+  }
+  .search-bx {
+    margin-top: 0px;
   }
 }
 
