@@ -19,12 +19,10 @@
 ##########################################################################################
 
 title: Evaluation.gov
-email: contact@example.gov
-description: >- # this means to ignore newlines until "baseurl:"
-  Agency Name (EAC) Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-  Aenean et sapien a leo auctor scelerisque quis nec magna. Sed dictum ante a risus vehicula facilisis.
+email: evidence@omb.eop.gov
+description: Welcome to Evaluation.gov, the home for Federal program evaluation and the Evaluation Officer Council. Evaluation.gov brings together the plans and activities that drive evaluation efforts across the Federal Government.
 baseurl: "" # the subpath of your site, e.g. /blog
-# url: "https://example.gov" # the base hostname & protocol for your site, e.g. https://example.com. 
+url: "https://www.evaluation.gov" # the base hostname & protocol for your site, e.g. https://example.com. 
   # Required to support the jekyll-sitemap plugin below.
   # Uncomment the url line when ready to push to production. If using different branches for multiple
   # custom domains, edit this url parameter in the relevant branch to match the relevant custom domain.
@@ -185,10 +183,10 @@ searchgov:
   affiliate: eoc_gov
 
   # replace with your access key
-  access_key: xX1gtb2RcnLbIYkHAcB6IaTRr4ZfN-p16ofcyUebeko=
+  access_key: hZsauERyb7tVCH1HE2jFgc5zXwzSysXDvKv1UyiIRIE=
 
   # this renders the results within the page instead of sending to user to search.gov
-  inline: true
+  inline: false
 
 ##########################################################################################
 # The values below here are more advanced and should only be
