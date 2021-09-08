@@ -7,7 +7,7 @@ excerpt: As this Administration works to address complex and urgent challenges f
 tags: Policy Evaluation
 filters: policy-filter evaluation
 permalink: /2020-08-24-advance-our-priorities/
-image: Danny-post.jpg
+image: danny-post-1.png
 img-alt: Looking glass to signify a focus on priorities
 ---
 

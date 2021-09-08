@@ -7,7 +7,7 @@ excerpt: As the Evaluation Officer for the Department of Education (ED) and memb
 tags: Evaluation-Officer-Council Evaluation Evidence-Act
 filters: evaluation-officer-council evaluation evidence-act
 permalink: /2020-08-23-implementing-the-evidence-act/
-image: EO-post.jpg
+image: EO-post-1.png
 img-alt: Four hands linked to signify the work of the Evaluation Officers
 ---
 

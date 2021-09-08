@@ -12,44 +12,20 @@ eight.
       </div>
     </div>
     <div class="usa-graphic-list__row grid-row grid-gap">
-      <div class="usa-media-block tablet:grid-col">
-        <img class="usa-media-block__img" src="{{site.baseurl}}/assets/images/highlight-images/welcome-post-DE-circle.png" alt="Yellow tiles on blue background that spell “welcome”">
+      {% for post in site.posts %}
+      <div class="usa-media-block tablet:grid-col-6">
+        <img class="usa-media-block__img circle-card" alt="{{ item.img-alt }}"  src="{{ site.baseurl }}/assets/images/blog/{{ post.image }}">
         <div class="usa-media-block__body">  
-            <h3 class="usa-graphic-list__heading text-base"><a class="eoc-link text-no-underline border-0" href="{{site.baseurl}}/2021-08-25-evaluation-gov/">Welcome to Evaluation.gov</a></h3>
-          <p class="text-italic margin-0">By Diana Epstein, Evidence Team Lead, OMB, August 26, 2021</p>
-          <p>Welcome to Evaluation.gov, the home for Federal program evaluation and the Evaluation Officer Council. </p>
+            <h3 class="usa-graphic-list__heading text-base"><a class="eoc-link text-no-underline border-0" href="{{site.baseurl}}{{ post.permalink }}">{{post.title}}</a></h3>
+          <p class="text-italic margin-0">By {{ post.author }} · {{ post.date |
+            date: '%B %d, %Y' }}</p>
+          <p>{{post.excerpt}}</p>
         </div>
       </div>
-      <div class="usa-media-block tablet:grid-col">
-        <img class="usa-media-block__img" src="{{site.baseurl}}/assets/images/highlight-images/Danny-post-circle.png" alt="Looking glass to signify a focus on priorities">
-        <div class="usa-media-block__body">
-            <h3 class="usa-graphic-list__heading text-base"><a class="eoc-link text-no-underline border-0" href="{{site.baseurl}}/2020-08-24-advance-our-priorities/">Using Evaluation to Advance Our Priorities</a></h3>
-          <p class="text-italic margin-0">By Danny Yagan, Associate Director for Economic Policy, OMB, August 25, 2021</p>
-          <p>As this Administration works to address complex and urgent challenges facing our country, evaluation is necessary for answering key questions about what works and how we can improve, and is critical to finding effective solutions.</p>
-        </div>
-      </div>
-    </div>
-    <div class="usa-graphic-list__row grid-row grid-gap">
-      <div class="usa-media-block tablet:grid-col">
-        <img class="usa-media-block__img" src="{{site.baseurl}}/assets/images/highlight-images/EO-post-circle.png" alt="Four hands linked to signify the work of the Evaluation Officers">
-        <div class="usa-media-block__body">
-            <h3 class="usa-graphic-list__heading text-base"><a class="eoc-link text-no-underline border-0" href="{{site.baseurl}}/2020-08-23-implementing-the-evidence-act/">An Insider’s View on Implementing the Evidence Act</a></h3>
-          <p class="text-italic margin-0">By Matt Soldner, Evaluation Officer, ED, August 24, 2021</p>
-          <p>As the Evaluation Officer for the Department of Education (ED) and member of the Evaluation Officer Council, I have been privileged to help make the vision of the Evidence Act a reality.</p>
-        </div>
-      </div>
-      <div class="usa-media-block tablet:grid-col">
-        <img class="usa-media-block__img" src="{{site.baseurl}}/assets/images/highlight-images/ICEP-post-JH.png" alt="People in a meeting to signify the Interagency Council on Evaluation Policy">
-        <div class="usa-media-block__body">
-            <h3 class="usa-graphic-list__heading text-base"><a class="eoc-link text-no-underline border-0" href="{{site.baseurl}}/2020-08-22-council-on-evaluation-policy/">Another Council? Why an Interagency Council on Evaluation Policy</a></h3>
-          <p class="text-italic margin-0">By Jeffrey Hemmeter, Acting Deputy Associate Commissioner for the Office of Research, Demonstration, and Employment Support, SSA, August 23, 2021</p>
-          <p>The Foundations for Evidence-Based Policymaking Act of 2018 (Evidence Act) was a culmination of years of efforts to set evaluation on par with statistics and data as necessary for ensuring federal policies are built on strong evidence.</p>
-        </div>
-      </div>
-    </div>
-
-    <div class="text-center"><a class="usa-button btn-primary border-0 padding-x-6"
-        href="{{site.baseurl}}/news/">See All</a>
-    </div>
+      {% endfor %}
   </div>
+  
+  <div class="text-center"><a class="usa-button btn-primary border-0 padding-x-6"
+    href="{{site.baseurl}}/news/">See All</a>
+</div>
 </section>
