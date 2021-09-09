@@ -16,10 +16,10 @@ eight.
       <div class="usa-media-block tablet:grid-col-6">
         <img class="usa-media-block__img circle-card" alt="{{ item.img-alt }}"  src="{{ site.baseurl }}/assets/images/blog/{{ post.image }}">
         <div class="usa-media-block__body">  
-            <h3 class="usa-graphic-list__heading text-base"><a class="eoc-link text-no-underline border-0" href="{{ site.baseurl }}{{ post.url }}">{{post.title}}</a></h3>
+            <h3 class="usa-graphic-list__heading text-base"><a class="eoc-link text-no-underline border-0" href="{{site.baseurl}}{{post.permalink}}">{{post.title}}</a></h3>
           <p class="text-italic margin-0 text-base">By <span class="text-bold">{{ post.author }}</span> · {{ post.date |
             date: '%B %d, %Y' }}</p>
-          <p>{{post.excerpt}}</p>
+          <p>{{post.excerpt}} <a href="{{site.baseurl}}{{post.permalink}}" aria-label="{{post.aria}}">Continue Reading</a></p>
         </div>
       </div>
       {% endfor %}
