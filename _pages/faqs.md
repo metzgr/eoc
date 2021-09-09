@@ -52,7 +52,7 @@ permalink: /faqs/
         </button>
       </h3>
       <div id="b-a5" class="usa-accordion__content">
-        <p>The full scope of responsibilities of Evaluation Officers are determined by each agency. Among other responsibilities, the Evaluation Officer coordinates activities with agency officials necessary to: (1) continually assess the coverage, quality, methods, consistency, effectiveness, independence, and balance of the portfolio of evaluations, policy research, and ongoing evaluation activities of the agency; (2) assess agency capacity to support the development and use of evaluation; (3) establish and implement an agency evaluation policy; and (4) coordinate, develop, and implement the agency evidence-building plan (Learning Agenda) and Annual Evaluation Plan. Appendix C of <a href="https://www.whitehouse.gov/wp-content/uploads/2019/07/M-19-23.pdf">OMB M-19-23</a> outlines the full scope of qualifications and responsibilities of Evaluation Officers.</p>
+        <p>The full scope of responsibilities of Evaluation Officers are determined by each agency. Among other responsibilities, the Evaluation Officer coordinates activities with agency officials necessary to: (1) continually assess the coverage, quality, methods, consistency, effectiveness, independence, and balance of the portfolio of evaluations, policy research, and ongoing evaluation activities of the agency; (2) assess agency capacity to support the development and use of evaluation; (3) establish and implement an agency evaluation policy; and (4) coordinate, develop, and implement the agency evidence-building plan (Learning Agenda) and Annual Evaluation Plan. Appendix C of <a href="https://www.whitehouse.gov/wp-content/uploads/2019/07/M-19-23.pdf" aria-label="Appendix C of OMB M-19-23 (opens in a new window)" target="_blank">OMB M-19-23</a> outlines the full scope of qualifications and responsibilities of Evaluation Officers.</p>
       </div>
       <br />
    <h2>Questions about the Evidence Act</h2>
@@ -63,7 +63,7 @@ permalink: /faqs/
         </button>
       </h3>
       <div id="b-a6" class="usa-accordion__content">
-        <p>The <a href="https://www.congress.gov/115/bills/hr4174/BILLS-115hr4174enr.pdf">Foundations for Evidence-Based Policymaking Act</a> ("Evidence Act") provides a statutory framework to advance a vision for a nation that relies on evidence and data to make decisions at all levels of government. To do so, it calls on agencies to strategically plan and organize evidence-building, data management, and data access functions to ensure an integrated and direct connection to evidence needs. It emphasizes collaboration and coordination to advance data and evidence-building in the Federal Government by establishing processes to modernize evidence-building functions, data management practices, and statistical efficiency to inform policy decisions. The Evidence Act establishes critical leadership positions and activities to facilitate a culture of evidence. Fundamental to this task are effective processes to strategically plan for evidence building, including using the Learning Agenda (evidence-building plan) and Annual Evaluation Plans as tools to do so.</p>
+        <p>The <a href="https://www.congress.gov/115/bills/hr4174/BILLS-115hr4174enr.pdf" aria-label="Foundations for Evidence-Based Policymaking Act (opens in a new window)" target="_blank">Foundations for Evidence-Based Policymaking Act</a> ("Evidence Act") provides a statutory framework to advance a vision for a nation that relies on evidence and data to make decisions at all levels of government. To do so, it calls on agencies to strategically plan and organize evidence-building, data management, and data access functions to ensure an integrated and direct connection to evidence needs. It emphasizes collaboration and coordination to advance data and evidence-building in the Federal Government by establishing processes to modernize evidence-building functions, data management practices, and statistical efficiency to inform policy decisions. The Evidence Act establishes critical leadership positions and activities to facilitate a culture of evidence. Fundamental to this task are effective processes to strategically plan for evidence building, including using the Learning Agenda (evidence-building plan) and Annual Evaluation Plans as tools to do so.</p>
       </div>
       <!-- Use the accurate heading level to maintain the document outline -->
       <h3 class="usa-accordion__heading">
@@ -126,7 +126,7 @@ permalink: /faqs/
         </button>
       </h3>
       <div id="b-a10" class="usa-accordion__content">
-        <p>You can learn more about the Evidence Act on our <a href="{{site.baseurl}}/resources/">resources</a> page.</p>
+        <p>You can learn more about the Evidence Act on our <a href="{{site.baseurl}}/resources/" aria-label="Learn more about the Evidence Act (opens in a new window)" target="_blank">resources</a> page.</p>
       </div>
       <br />
    <h2>Questions about the evidence planning documents required by the Evidence Act</h2>
@@ -166,7 +166,7 @@ permalink: /faqs/
         </button>
       </h3>
       <div id="b-a15" class="usa-accordion__content">
-        <p>Agencies must determine which types of evidence are needed to answer their specific questions, and use appropriate methodological approaches that match those questions. Evaluation is best suited to answer questions of effectiveness or efficiency. Existing OMB guidance (<a href="https://www.whitehouse.gov/wp-content/uploads/2020/03/M-20-12.pdf">OMB M-20-12</a> and <a href="https://www.whitehouse.gov/wp-content/uploads/2018/06/a11.pdf">OMB Circular No. A-11</a>) describes different types of evaluation (i.e., impact, outcome, process/implementation, and formative), discusses when they should be used, and provides potential research questions that each type of evaluation can answer.</p>
+        <p>Agencies must determine which types of evidence are needed to answer their specific questions, and use appropriate methodological approaches that match those questions. Evaluation is best suited to answer questions of effectiveness or efficiency. Existing OMB guidance (<a href="https://www.whitehouse.gov/wp-content/uploads/2020/03/M-20-12.pdf" aria-label="OMB M-20-12 guidance document (opens in a new window)" target="_blank">OMB M-20-12</a> and <a href="https://www.whitehouse.gov/wp-content/uploads/2018/06/a11.pdf" aria-label="OMB Circular No. A-11 guidance document (opens in a new window)" target="_blank">OMB Circular No. A-11</a>) describes different types of evaluation (i.e., impact, outcome, process/implementation, and formative), discusses when they should be used, and provides potential research questions that each type of evaluation can answer.</p>
       </div>
       <!-- Use the accurate heading level to maintain the document outline -->
       <h3 class="usa-accordion__heading">
@@ -175,13 +175,13 @@ permalink: /faqs/
         </button>
       </h3>
       <div id="b-a16" class="usa-accordion__content">
-        <p>Agencies should consider a range of evidence types. <a href="https://www.whitehouse.gov/wp-content/uploads/2019/07/M-19-23.pdf">OMB M-19-23</a> defines four different types of evidence:</p>
+        <p>Agencies should consider a range of evidence types. <a href="https://www.whitehouse.gov/wp-content/uploads/2019/07/M-19-23.pdf" aria-label="OMB M-19-23 four different types of evidence (opens in a new window)" target="_blank">OMB M-19-23</a> defines four different types of evidence:</p>
         <ul>
            <li><strong>Foundational Fact Finding:</strong> Foundational research and analysis such as aggregate indicators, exploratory studies, descriptive statistics, and basic research.</li>
            <li><strong>Performance Measurement:</strong> Ongoing, systematic tracking of information relevant to policies, strategies, programs, projects, goals/objectives, and/or activities.</li> 
            <li><strong>Policy Analysis:</strong> Analysis of data, such as general purpose survey or program-specific administrative data, to generate and inform policy, e.g., estimating regulatory impacts and other relevant effects.</li>
            <li><strong>Evaluation:</strong> Systematic analysis of a program, policy, organization, or component of these to assess effectiveness and efficiency.<br/>
-           Source: <a href="https://www.whitehouse.gov/wp-content/uploads/2019/07/M-19-23.pdf">OMB M-19-23</a></li>
+           Source: <a href="https://www.whitehouse.gov/wp-content/uploads/2019/07/M-19-23.pdf" aria-label="OMB M-19-23 (opens in a new window)" target="_blank">OMB M-19-23</a></li>
         </ul>
       </div>
  </div>     
