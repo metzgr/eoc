@@ -16,8 +16,7 @@ agency-offices:
       eval-plan: Study & Evaluation Plans
       eval-plan-link: https://www.fns.usda.gov/ops/study-evaluation-plans
     - name: National Institute of Food and Agriculture, Research & Evaluation
+      link: https://nifa.usda.gov/research-evaluation 
     - name: Office of Budget & Program Analysis
       link: https://www.usda.gov/obpa/home
-    - name: National Institute of Food and Agriculture
-      link: https://nifa.usda.gov/
 ---
