@@ -54,7 +54,7 @@ Social Security Administration</p>
 <blockquote class="padding-bottom-2"><p>“Jeff demonstrates excellence through his work within SSA and his efforts to support the Federal evaluation community. He oversees a portfolio of research projects and provides thorough guidance to staff developing and implement the projects to ensure they follow evaluation standards and practices, and produce high-quality studies… he frequently consults with others within SSA to advise on how to evaluate new initiatives, including recent efforts to improve program outreach during the COVID-19 pandemic… He champions evaluation training for himself and for staff, always seeking to expand his knowledge base with new skills and tools… He also contributes to the Federal evaluation community through his role in the Interagency Council on Evaluation Policy.”</p>
 </blockquote>
 <hr class="hr-color margin-top-5">
-<h3 class="awrd-title" style="color: #a72f10">Outstanding Evaluation Officer Council Mentor Award<br/><span class="awrd-sub-title"><i>For EOC members who go above and beyond to provide mentorship, support, and guidance to others in the evaluation community.</i></span></h3>
+<h3 class="awrd-title">Outstanding Evaluation Officer Council Mentor Award<br/><span class="awrd-sub-title"><i>For EOC members who go above and beyond to provide mentorship, support, and guidance to others in the evaluation community.</i></span></h3>
 <img src="{{site.baseurl}}/assets/images/blog/kelly-bidwell.png" alt="Kelly Bidwell headshot" class="awrd-img" style="float:left; margin-right:1rem; margin-top:0.4rem">
 <p><strong>Kelly Bidwell</strong>, Evaluation Officer and Director<br />
 Office of Evaluation Sciences<br/>
