@@ -62,8 +62,7 @@ General Services Administration</p>
 <p>Kelly Bidwell serves as GSA's Evaluation Officer and Statistical Official, leading Evidence Act Title 1 activities at GSA. Kelly also leads GSA's Office of Evaluation Sciences, an interdisciplinary team of experts who partner with Federal agencies to answer priority questions using rigorous evaluation methods. OES has completed over 80 impact evaluations since 2015.</p>
 <blockquote class="padding-bottom-2"><p>“Kelly represents the best qualities of an EOC mentor. She continuously makes time for her fellow EOC members to help solve programs great and small – from the strategic … to the tactical. She generously offers her superior knowledge of the challenges of standing up an evaluation function in Federal Government… Kelly welcomed me into the evaluation community when the only thing I knew was that I was not qualified to be part of it. Her sacrifice of her own time in a resource-constrained environment whenever I needed a sounding board made her a true mentor to me.”</p>
 </blockquote>
-<hr class="hr-color margin-top-5">
-<h3 class="awrd-title" style="color: #a72f10">Outstanding Evaluation Officer Council Mentor Award<br/><span class="awrd-sub-title"><i>For EOC members who go above and beyond to provide mentorship, support, and guidance to others in the evaluation community.</i></span></h3>
+<br/>
 <img src="{{site.baseurl}}/assets/images/blog/matt-soldner.jpg" alt="Dr. Matt Soldner headshot" class="awrd-img" style="float:left; margin-right:1rem; margin-top:0.4rem">
 <p><strong>Dr. Matt Soldner</strong>, Evaluation Officer and Commissioner<br/>
 National Center for Education Evaluation and Regional Assistance<br/>
