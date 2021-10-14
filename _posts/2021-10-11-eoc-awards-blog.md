@@ -8,11 +8,11 @@ aria: EOC Awards Blog Post
 tags: Evaluation-Officer-Council Evaluation
 filters: evaluation-officer-council evaluation
 permalink: /2021-10-11-eoc-awards-blog/
-image: team-celebration-1.png
+image: award-trophy-1.png
 img-alt: team celebration
 ---
 
-<img src="{{site.baseurl}}/assets/images/blog/team-celebration.png" alt="celebrations" style="float:left; width:36%; height:35%; margin-right:1rem; margin-top:0.4rem">
+<img src="{{site.baseurl}}/assets/images/blog/award-trophy.png" alt="celebrations" style="float:left; width:36%; height:35%; margin-right:1rem; margin-top:0.4rem">
 We are pleased to announce the winners of the Inaugural Evaluation Officer Council Recognition Program! These awards honor Federal civil service leaders committed to advancing evaluation and evidence-based policymaking across the Federal Government. The Evaluation Officer Council Recognition Program solicited nominations from both the Federal evaluation community and those who work with Federal evaluators. We received many strong nominations, and an inter-agency panel reviewed the submissions and provided recommendations. OMB presented the awards at the October Evaluation Officer Council meeting.  
 
 Below we profile the winners of the 2021 Evaluation Officer Council Recognition awards. The profiles here highlight just some of their noteworthy and leading work in the Federal evaluation community. Their stories show the breadth and depth of Federal evaluation expertise and powerfully illustrate how agencies are using evaluation to improve government. We hope that reading these profiles will leave you as inspired as we were by the dedication, expertise, and collaborative spirit of the Federal evaluation community!
@@ -46,7 +46,7 @@ National Science Foundation</p>
 </blockquote>
 <hr class="hr-color margin-top-5">
 <h3 class="awrd-title">Excellence in Program Evaluation Award (non-EOC)<br/><span class="awrd-sub-title"><i>For Federal staff who keep initiatives on track and deliver high quality evaluations that uphold the standards of relevance and utility; independence and objectivity; rigor; transparency, and ethics.</i></span></h3>
-<img src="{{site.baseurl}}/assets/images/blog/jeff-hemmeter.jpg" alt="Jeff Hemmeter headshot" class="awrd-img" style="float:left; margin-right:1rem; margin-top:0.4rem">
+<img src="{{site.baseurl}}/assets/images/blog/Hemmeter-Jeff.png" alt="Jeff Hemmeter headshot" class="awrd-img" style="float:left; margin-right:1rem; margin-top:0.4rem">
 <p><strong>Jeff Hemmeter</strong>, Acting Deputy Associate Commissioner
 Office of Research, Demonstration, and Employment Support<br />
 Social Security Administration</p>
@@ -62,8 +62,8 @@ General Services Administration</p>
 <p>Kelly Bidwell serves as GSA's Evaluation Officer and Statistical Official, leading Evidence Act Title 1 activities at GSA. Kelly also leads GSA's Office of Evaluation Sciences, an interdisciplinary team of experts who partner with Federal agencies to answer priority questions using rigorous evaluation methods. OES has completed over 80 impact evaluations since 2015.</p>
 <blockquote class="padding-bottom-2"><p>“Kelly represents the best qualities of an EOC mentor. She continuously makes time for her fellow EOC members to help solve programs great and small – from the strategic … to the tactical. She generously offers her superior knowledge of the challenges of standing up an evaluation function in Federal Government… Kelly welcomed me into the evaluation community when the only thing I knew was that I was not qualified to be part of it. Her sacrifice of her own time in a resource-constrained environment whenever I needed a sounding board made her a true mentor to me.”</p>
 </blockquote>
-<br/>
-<img src="{{site.baseurl}}/assets/images/blog/matt-soldner.jpg" alt="Dr. Matt Soldner headshot" class="awrd-img" style="float:left; margin-right:1rem; margin-top:0.4rem">
+
+<p><img src="{{site.baseurl}}/assets/images/blog/matt-soldner.png" alt="Dr. Matt Soldner headshot" class="awrd-img" style="float:left; margin-right:1rem; margin-top:0.4rem"></p>
 <p><strong>Dr. Matt Soldner</strong>, Evaluation Officer and Commissioner<br/>
 National Center for Education Evaluation and Regional Assistance<br/>
 Institute of Education Sciences<br/>
