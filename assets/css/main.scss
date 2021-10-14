@@ -269,6 +269,11 @@ blockquote p {
   font-weight: 500;
   font-size: .9rem;
 }
+.post-img {
+  width:200px;
+  height:120px;
+  object-fit:cover;
+}
 /* ---------------- IPAD CSS ----------------------- */
 @media (max-width: 768px) {
   .text-container {
@@ -311,6 +316,9 @@ blockquote p {
   .awrd-img {
     width: 20%;
   } 
+  .logic-img{
+    max-width:100%;
+ }
 }
 /* ---------------- MOBILE CSS ----------------------- */
 @media screen and (max-width: 640px) {
@@ -360,6 +368,9 @@ blockquote p {
     overflow: hidden;
     padding: 0;
 }
+  .logic-img{
+    max-width:100%;
+ }
 }
 
 @media screen and (max-width: 1025px) {

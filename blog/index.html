@@ -59,7 +59,7 @@ pagination:
 
             <div>
               {% if post.image %}
-              <img class="tablet:float-left width-15 padding-right-2 padding-top-1 padding-bottom-2" style="width:200px;height:120px;object-fit:cover;" src="{{ site.baseurl }}/assets/images/blog/{{ post.image }}" alt="{{ post.img-alt }}" />
+              <img class="tablet:float-left width-15 padding-right-2 padding-top-1 padding-bottom-2 post-img" src="{{ site.baseurl }}/assets/images/blog/{{ post.image }}" alt="{{ post.img-alt }}" />
               {% endif %}
               <p class="font-sans-sm text-ink">{{ post.excerpt }} <a href="{{site.baseurl}}{{post.permalink}}" aria-label="{{post.aria}}">Continue Reading</a></p>
               {% comment %}

@@ -46,12 +46,12 @@ National Science Foundation</p>
 </blockquote>
 <hr class="hr-color margin-top-5">
 <h3 class="awrd-title">Excellence in Program Evaluation Award (non-EOC)<br/><span class="awrd-sub-title"><i>For Federal staff who keep initiatives on track and deliver high quality evaluations that uphold the standards of relevance and utility; independence and objectivity; rigor; transparency, and ethics.</i></span></h3>
-<img src="{{site.baseurl}}/assets/images/blog/Hemmeter-Jeff.png" alt="Jeff Hemmeter headshot" class="awrd-img" style="float:left; margin-right:1rem; margin-top:0.4rem">
-<p><strong>Jeff Hemmeter</strong>, Acting Deputy Associate Commissioner
+<img src="{{site.baseurl}}/assets/images/blog/Hemmeter-Jeffrey.png" alt="Jeffrey Hemmeter headshot" class="awrd-img" style="float:left; margin-right:1rem; margin-top:0.4rem">
+<p><strong>Jeffrey Hemmeter</strong>, Acting Deputy Associate Commissioner
 Office of Research, Demonstration, and Employment Support<br />
 Social Security Administration</p>
 <p>Jeffrey Hemmeter helps design, conduct, and oversee evaluations, research, and policies related to disability and return to work. He has worked on numerous Social Security Administration demonstrations and studies, focusing on transition-age youth and the Supplemental Security Income program.<br/><br/></p>
-<blockquote class="padding-bottom-2"><p>“Jeff demonstrates excellence through his work within SSA and his efforts to support the Federal evaluation community. He oversees a portfolio of research projects and provides thorough guidance to staff developing and implement the projects to ensure they follow evaluation standards and practices, and produce high-quality studies… he frequently consults with others within SSA to advise on how to evaluate new initiatives, including recent efforts to improve program outreach during the COVID-19 pandemic… He champions evaluation training for himself and for staff, always seeking to expand his knowledge base with new skills and tools… He also contributes to the Federal evaluation community through his role in the Interagency Council on Evaluation Policy.”</p>
+<blockquote class="padding-bottom-2"><p>“Jeffrey demonstrates excellence through his work within SSA and his efforts to support the Federal evaluation community. He oversees a portfolio of research projects and provides thorough guidance to staff developing and implement the projects to ensure they follow evaluation standards and practices, and produce high-quality studies… he frequently consults with others within SSA to advise on how to evaluate new initiatives, including recent efforts to improve program outreach during the COVID-19 pandemic… He champions evaluation training for himself and for staff, always seeking to expand his knowledge base with new skills and tools… He also contributes to the Federal evaluation community through his role in the Interagency Council on Evaluation Policy.”</p>
 </blockquote>
 <hr class="hr-color margin-top-5">
 <h3 class="awrd-title">Outstanding Evaluation Officer Council Mentor Award<br/><span class="awrd-sub-title"><i>For EOC members who go above and beyond to provide mentorship, support, and guidance to others in the evaluation community.</i></span></h3>
@@ -62,6 +62,7 @@ General Services Administration</p>
 <p>Kelly Bidwell serves as GSA's Evaluation Officer and Statistical Official, leading Evidence Act Title 1 activities at GSA. Kelly also leads GSA's Office of Evaluation Sciences, an interdisciplinary team of experts who partner with Federal agencies to answer priority questions using rigorous evaluation methods. OES has completed over 80 impact evaluations since 2015.</p>
 <blockquote class="padding-bottom-2"><p>“Kelly represents the best qualities of an EOC mentor. She continuously makes time for her fellow EOC members to help solve programs great and small – from the strategic … to the tactical. She generously offers her superior knowledge of the challenges of standing up an evaluation function in Federal Government… Kelly welcomed me into the evaluation community when the only thing I knew was that I was not qualified to be part of it. Her sacrifice of her own time in a resource-constrained environment whenever I needed a sounding board made her a true mentor to me.”</p>
 </blockquote>
+
 
 <p><img src="{{site.baseurl}}/assets/images/blog/matt-soldner.png" alt="Dr. Matt Soldner headshot" class="awrd-img" style="float:left; margin-right:1rem; margin-top:0.4rem"></p>
 <p><strong>Dr. Matt Soldner</strong>, Evaluation Officer and Commissioner<br/>
