@@ -353,6 +353,13 @@ blockquote p {
   .awrd-img {
     width: 30%;
   } 
+  .tags {
+    list-style: none;
+    display: block;
+    margin: 0;
+    overflow: hidden;
+    padding: 0;
+}
 }
 
 @media screen and (max-width: 1025px) {
