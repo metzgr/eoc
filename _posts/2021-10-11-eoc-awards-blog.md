@@ -47,7 +47,7 @@ National Science Foundation</p>
 <hr class="hr-color margin-top-5">
 <h3 class="awrd-title">Excellence in Program Evaluation Award (non-EOC)<br/><span class="awrd-sub-title"><i>For Federal staff who keep initiatives on track and deliver high quality evaluations that uphold the standards of relevance and utility; independence and objectivity; rigor; transparency, and ethics.</i></span></h3>
 <img src="{{site.baseurl}}/assets/images/blog/Hemmeter-Jeffrey.png" alt="Jeffrey Hemmeter headshot" class="awrd-img" style="float:left; margin-right:1rem; margin-top:0.4rem">
-<p><strong>Jeffrey Hemmeter</strong>, Acting Deputy Associate Commissioner
+<p><strong>Jeffrey Hemmeter</strong>, Acting Deputy Associate Commissioner<br/>
 Office of Research, Demonstration, and Employment Support<br />
 Social Security Administration</p>
 <p>Jeffrey Hemmeter helps design, conduct, and oversee evaluations, research, and policies related to disability and return to work. He has worked on numerous Social Security Administration demonstrations and studies, focusing on transition-age youth and the Supplemental Security Income program.<br/><br/></p>
@@ -76,8 +76,8 @@ Department of Education</p>
 <h3 class="awrd-title">Evaluation Officer Go-Getter Award<br/><span class="awrd-sub-title"><i>For EOC members who approach their roles and responsibilities with tireless enthusiasm, persistence, and focus.</i></span></h3>
 <img src="{{site.baseurl}}/assets/images/blog/rebecca-kruse.jpg" alt="Rebecca Kruse headshot" class="awrd-img" style="float:left; margin-right:1rem; margin-top:0.4rem">
 <p><strong>Rebecca Kruse</strong>, Assistant Director for Evaluation<br/>
-Program Analysis & Evaluation | Office of the Chief Financial Officer<br/>
-Management Directorate | Department of Homeland Security</p>
+Program Analysis & Evaluation | Office of the Chief Financial Officer | Management Directorate<br/>
+Department of Homeland Security</p>
 <p>In collaboration with the DHS Evaluation Officer, Rebecca coordinates the Department's implementation of Title 1 of the Foundations for Evidence-Based Policymaking Act of 2018 ('Evidence Act'). She oversees the development and implementation of the evaluation function in DHS, including supporting Components' in their implementation of the DHS Program, Policy, and Organizational Evaluation policy and developing educational and other solutions to increase Department capacity for evaluation.</p>
 <blockquote class="padding-bottom-2"><p>Rebecca has “been a lightning rod to evaluation capacity at DHS. In the Department of 250,000 people, there is not another that has substantively furthered evaluation capacity and education, especially in so short a time. Rebecca started at DHS as an OES Fellow on detail from NSF… I will admit… I was skeptical that one Evidence Fellow could have so substantive an impact on the department [that’s] a behemoth that we at OMB are often trying to maneuver… I wish it was possible to do an impact evaluation of Rebecca’s efforts, for I am certain, it would highlight the herculean effort and splendid effect she, singlehandedly, has had for the benefit of DHS and the public.”</p>
 </blockquote>
