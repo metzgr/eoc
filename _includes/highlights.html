@@ -14,7 +14,7 @@ eight.
     <div class="usa-graphic-list__row grid-row grid-gap">
       {% for post in site.posts limit: 4 %}
       <div class="usa-media-block tablet:grid-col-6">
-        <img class="usa-media-block__img circle-card" alt="{{ item.img-alt }}"  src="{{ site.baseurl }}/assets/images/blog/{{ post.image }}">
+        <img class="usa-media-block__img circle-card" alt="{{ post.img-alt }}"  src="{{ site.baseurl }}/assets/images/blog/{{ post.image }}">
         <div class="usa-media-block__body">  
             <h3 class="usa-graphic-list__heading text-base"><a class="eoc-link text-no-underline border-0" href="{{site.baseurl}}{{post.permalink}}">{{post.title}}</a></h3>
           <p class="text-italic margin-0 text-base">By <span class="text-bold">{{ post.author }}</span> · {{ post.date |
