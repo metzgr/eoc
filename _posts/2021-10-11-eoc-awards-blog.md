@@ -9,10 +9,10 @@ tags: Evaluation-Officer-Council Evaluation
 filters: evaluation-officer-council evaluation
 permalink: /2021-10-11-eoc-awards-blog/
 image: award-trophy-1.png
-img-alt: team celebration
+img-alt: Golden trophy to symbolize awards
 ---
 
-<img src="{{site.baseurl}}/assets/images/blog/award-trophy.png" alt="celebrations" style="float:left; width:36%; height:35%; margin-right:1rem; margin-top:0.4rem">
+<img src="{{site.baseurl}}/assets/images/blog/award-trophy.png" alt="Golden trophy to symbolize awards" style="float:left; width:36%; height:35%; margin-right:1rem; margin-top:0.4rem">
 We are pleased to announce the winners of the Inaugural Evaluation Officer Council Recognition Program! These awards honor Federal civil service leaders committed to advancing evaluation and evidence-based policymaking across the Federal Government. The Evaluation Officer Council Recognition Program solicited nominations from both the Federal evaluation community and those who work with Federal evaluators. We received many strong nominations, and an inter-agency panel reviewed the submissions and provided recommendations. OMB presented the awards at the October Evaluation Officer Council meeting.  
 
 Below we profile the winners of the 2021 Evaluation Officer Council Recognition awards. The profiles here highlight just some of their noteworthy and leading work in the Federal evaluation community. Their stories show the breadth and depth of Federal evaluation expertise and powerfully illustrate how agencies are using evaluation to improve government. We hope that reading these profiles will leave you as inspired as we were by the dedication, expertise, and collaborative spirit of the Federal evaluation community!
