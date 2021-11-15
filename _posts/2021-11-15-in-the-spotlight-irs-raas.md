@@ -1,22 +1,22 @@
 ---
 title: In the Spotlight – IRS Office of Research, Applied Analytics, and Statistics
 layout: post
-date: November 09, 2021
-author: 
-excerpt: We are excited to kick off a new regular feature on Evaluation.gov – In the Spotlight! In these posts, we will introduce you to the people and offices across the Federal Government who are doing the hard work of undertaking program evaluation...
+date: November 15, 2021
+author: The Evidence Team, OMB
+excerpt: We are excited to kick off a new regular feature on Evaluation.gov – <em>In the Spotlight</em>! In these posts, we will introduce you to the people and offices across the Federal Government...
 aria: 
 tags: 
 filters: 
 permalink: /2021-11-09-in-the-spotlight-irs-raas/
 image: spotlight-1.png
-img-alt: 
+img-alt: spotlight
 ---
 
-<img src="{{site.baseurl}}/assets/images/blog/spotlight-1.png" alt="" style="float:left; width:25%; height:auto; margin-right:1rem; margin-top:0.4rem">
-We are excited to kick off a new regular feature on Evaluation.gov – *In the Spotlight*! In these posts, we will introduce you to the people and offices across the Federal Government who are doing the hard work of undertaking program evaluation and shine a light on their many notable accomplishments and activities. *In the Spotlight* will elevate the exciting research, evaluation, and analytic work that is happening in throughout agencies, with an emphasis on those offices and activities in sub-agencies and bureaus that often fly under the radar. These features will highlight how these evaluation activities and the staff that undertake them are critical to inform policies, program design, decision-making, and advance evidence-based policymaking. We can’t wait to share these features with you, and are delighted to highlight the innovative work underway in the Internal Revenue Service’s office of Research, Applied Analytics, and Statistics (RAAS) for our inaugural *In the Spotlight*.
+<img src="{{site.baseurl}}/assets/images/blog/spotlight-1.png" alt="spotlight" style="float:left; width:25%; height:auto; margin-right:1rem; margin-top:0.4rem">
+We are excited to kick off a new regular feature on Evaluation.gov – *In the Spotlight*! In these posts, we will introduce you to the people and offices across the Federal Government who are doing the hard work of undertaking program evaluation and shine a light on their many notable accomplishments and activities. *In the Spotlight* will elevate the exciting evaluation, research, and analytic work that is happening throughout agencies, with an emphasis on those offices and evaluation activities that often fly under the radar. These features will highlight how these activities and the staff that undertake them are critical to inform policies, program design, decision-making, and advance evidence-based policymaking. We can’t wait to share these features with you, and are delighted to highlight the innovative work underway in the Internal Revenue Service’s office of Research, Applied Analytics, and Statistics (RAAS) for our inaugural *In the Spotlight*.
 
 <hr class="hr-spt margin-top-4 margin-bottom-5">
-<center><img src="{{site.baseurl}}/assets/images/blog/RAAS_Branding_Master_301C_RAAS.png" alt="IRS Office of Research, Applied Analytics, and Statistics logo" class="spt-agny" style="box-shadow: 1px -1px 11px 4px rgb(0 0 0 / 47%);"></center>
+<center><img src="{{site.baseurl}}/assets/images/blog/RAAS_Branding_Master_301C_RAAS.png" alt="Logo for the IRS Office of Research, Applied Analytics & Statistics" class="spt-agny" style="box-shadow: 1px -1px 11px 4px rgb(0 0 0 / 47%);"></center>
 
 <strong>Describe your office and what it does in one sentence.</strong><br/>
 Research, Applied Analytics, and Statistics (RAAS) is the largest research organization within the Internal Revenue Service (IRS), has over $60 million of funding for research, and provides data driven and innovative services to support effective and efficient tax administration in partnership with internal and external stakeholders. 
@@ -26,7 +26,7 @@ The RAAS organization reports directly to one of the IRS Deputy Commissioners, t
 
 <strong>What is the mission of RAAS?</strong><br/>
 Official Mission Statement:  RAAS leads a data driven culture through innovative and strategic research, analytics, statistics, and technology services to support effective and efficient tax administration in partnership with internal and external stakeholders.
-RAAS partners with IRS business units and operational leadership to improve business performance by applying advanced analytics solutions and a test-and-learn approach that builds knowledge and insight. RAAS also provides value for business units by employing analytics and experimentation to investigate important questions facing the IRS and to identify improvements that guide innovation. <br/>
+RAAS partners with IRS business units and operational leadership to improve business performance by applying advanced analytics solutions and a test-and-learn approach that builds knowledge and insight. RAAS also provides value for business units by employing analytics and experimentation to investigate important questions facing the IRS and to identify improvements that guide innovation. <br/><br/>
 RAAS is the authoritative source of information for foundational tax statistics and other information on the tax system. We produce required legislative reports as well as analytical reports on new or critical issues such as changes in tax laws, the tax gap and improper payments.
 
 <strong>Can you describe a recent evaluation and how you or others in your agency used the results to inform programs, policies, operations, etc.?</strong><br/>
