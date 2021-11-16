@@ -3,10 +3,10 @@ title: In the Spotlight – IRS Office of Research, Applied Analytics, and Stati
 layout: post
 date: November 15, 2021
 author: The Evidence Team, OMB
-excerpt: We are excited to kick off a new regular feature on Evaluation.gov – <em>In the Spotlight</em>! In these posts, we will introduce you to the people and offices across the Federal Government...
+excerpt: We are excited to kick off a new regular feature on Evaluation.gov – <em>In the Spotlight</em>! In these posts, we will introduce you to the people and offices across the Federal Government who are doing the hard work of undertaking...
 aria: 
-tags: 
-filters: 
+tags: In-the-Spotlight
+filters: in-the-spotlight
 permalink: /2021-11-09-in-the-spotlight-irs-raas/
 image: spotlight-1.png
 img-alt: spotlight
