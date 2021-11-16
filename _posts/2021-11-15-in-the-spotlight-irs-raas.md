@@ -1,5 +1,5 @@
 ---
-title: In the Spotlight – IRS Office of Research, Applied Analytics, and Statistics
+title: <em>In the Spotlight</em> – IRS Office of Research, Applied Analytics, and Statistics
 layout: post
 date: November 15, 2021
 author: The Evidence Team, OMB
