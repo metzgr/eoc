@@ -18,7 +18,7 @@ img-alt: Christina Yancey Headshot
 In her role as the Department of Labor’s Chief Evaluation Officer, Christina champions the development and use of credible, scientific information for policy, program, and operational continuous improvement.
 
 <strong>What is one thing that makes you excited to come to work every day?</strong><br/>
-I am truly excited every day to work with my fellow research colleagues in the DOL Chief Evaluation Office and beyond, as we share in the passion of discovering and sharing new knowledge. While scientific methods may not yield perfect information, they do emphatically do improve how government impacts all of our lives. It’s really powerful and inspiring!
+I am truly excited every day – to work with my fellow research colleagues in the DOL Chief Evaluation Office and beyond, as we share in the passion of discovering and sharing new knowledge. While scientific methods may not yield perfect information, they do emphatically improve how government impacts all of our lives. It’s really powerful and inspiring!
 
 <strong>How did you get started in Federal evaluation?</strong><br/>
 With a background in evaluation outside of the Federal government, I was immediately drawn to the Department of Labor’s Chief Evaluation Office and its compelling positioning of a scientifically-principled practice so close to executive branch decision-makers. It is of no surprise to me that years later, this model has been embraced across the Federal government in the Evidence Act. 
