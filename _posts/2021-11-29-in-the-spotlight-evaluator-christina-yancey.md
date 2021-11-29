@@ -30,7 +30,7 @@ While impact evaluations are often cited as the most influential types of studie
 I wish that people understood that evaluation is a journey, not a destination. Conditions in the world are constantly changing, and we are continuously learning what is working in new and different contexts. 
 
 <strong>What’s a myth about evaluation in the government or more generally that you’d like to bust?</strong><br/>
-There’s a myth that evaluation in government is slower than outside government. The reality is that many of the outcomes that we study in an evaluation take time to be realized. We evaluators are waiting to observe real-time change, whether that’s observed from inside or outside of government or outside.
+There’s a myth that evaluation in government is slower than outside government. The reality is that many of the outcomes that we study in an evaluation take time to be realized. We evaluators are waiting to observe real-time change, whether that’s observed from inside or outside of government.
 
 <strong>What advice do you have for new Federal evaluators (or staff who are new to evaluation work)?</strong><br/>
 I would tell a new Federal evaluator to seek out fellow innovative, curious thinkers. We exist within government and buoy our community of passionate public servants.
