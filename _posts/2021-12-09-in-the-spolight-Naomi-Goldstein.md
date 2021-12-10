@@ -1,5 +1,5 @@
 ---
-title: <em>In the Spotlight</em> – Naomi Goldstein, Deputy Assistant Secretary for Planning, Research, and Evaluation, Office of Planning, Research, and Evaluation, ACF, Department of Health and Human Services
+title: <em>In the Spotlight</em> – Naomi Goldstein, Deputy Assistant Secretary for Planning, Research, and Evaluation, Administration for Children and Families (HHS)
 layout: post
 date: December 09, 2021
 author: The Evidence Team, OMB
@@ -32,7 +32,7 @@ I wish more people understood that evaluation can be used for supporting innovat
 <strong>What’s a myth about evaluation in the government or more generally that you’d like to bust?</strong><br/>
 I wish that people outside government were more aware of the dedication, creativity, talent, and integrity that I see in the federal evaluation workforce.
 
-<strong>What advice do you have for new Federal evaluators (or staff who are new to evaluation work)? (Or, what’s something you wished someone had told you as a new Federal evaluator?)</strong><br/>
+<strong>What advice do you have for new Federal evaluators?</strong><br/>
 Keep in mind that evaluation is a human enterprise. While it’s necessary to produce good quality work, it’s also critical to build relationships with the intended users of the work (program officials, service providers, policy-makers, and others), to understand the questions they want answered and what forms of information are most useful to them, and to collaborate in interpreting findings. 
 
 <strong>Where can readers find more information about your office?</strong><br/>
