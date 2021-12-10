@@ -153,8 +153,7 @@
   padding-top: 3rem;
 }
 .circle-card {
-  height: 10rem;
-  width: 10rem;
+  height: auto;
   border-radius: 50%;
 }
 .agency-border-top {
@@ -220,6 +219,77 @@
 .search-bx {
   margin-top: -55px;
 }
+blockquote {
+  /*background: #e5faff;*/
+  border-top: 1px solid #0d7ea2;
+  border-bottom: 1px solid #0d7ea2;
+  border-right: 1px solid #0d7ea2;
+  border-left: 10px solid #0d7ea2;
+  margin: 1em 10px;
+  padding: 1.3em;
+  padding-bottom: 0.3rem;
+  quotes: "\201C""\201D""\2018""\2019";
+  border-radius: 0.7rem;
+}
+blockquote:before {
+  color: #0d7ea2;
+  content: open-quote;
+  font-size: 4em;
+  line-height: 0.1em;
+  margin-right: 0.25em;
+  vertical-align: -0.4em;
+}
+blockquote:after {
+  content: no-close-quote;
+}
+blockquote p {
+  display: inline;
+  font-style: italic;
+}
+.quote-name {
+  display: flex;
+  justify-content: flex-end;
+}
+.awrd-img {
+  width: 13%;
+} 
+.awrd-img-1 {
+  width: 12%;
+} 
+.hr-color {
+  width: 100%;
+  height: 2px;
+  background-color: #c6cace;
+  border: none;
+}
+.awrd-title {
+  font-family: Merriweather Web, Georgia, Cambria, Times New Roman, Times, serif
+} 
+.awrd-sub-title {
+  font-weight: 500;
+  font-size: .9rem;
+}
+.post-img {
+  width: 200px;
+  height: 134px;
+  object-fit: cover;
+}
+.hr-spt {
+  width: 100%;
+  height: .2rem;
+  background-color: #0d7ea2;
+  border: none;
+}
+.spt-agny {
+  width: 65%; 
+  height: auto; 
+  border-radius: 0.3rem; 
+  margin-bottom: 1rem;
+}
+.spt-ppl {
+  border-radius: 0.3rem; 
+  margin-bottom: 1rem;
+}
 /* ---------------- IPAD CSS ----------------------- */
 @media (max-width: 768px) {
   .text-container {
@@ -259,6 +329,16 @@
   .search-bx {
     margin-top: 0px;
   } 
+  .awrd-img {
+    width: 20%;
+  } 
+  .logic-img{
+    max-width:100%;
+ }
+ .spt-agny {
+  max-width: 65%; 
+  height: auto;
+ }
 }
 /* ---------------- MOBILE CSS ----------------------- */
 @media screen and (max-width: 640px) {
@@ -298,6 +378,29 @@
   .search-bx {
     margin-top: 0px;
   }
+  .awrd-img {
+    width: 30%;
+  } 
+  .tags {
+    list-style: none;
+    display: block;
+    margin: 0;
+    overflow: hidden;
+    padding: 0;
+}
+  .logic-img{
+    max-width:100%;
+ }
+ .post-img {
+   max-width: 100%;
+   padding-top: 0px;
+   padding-right: 0px;
+   padding-bottom: 0px;
+ }
+ .spt-agny {
+  max-width: 65%; 
+  height: auto;
+ }
 }
 
 @media screen and (max-width: 1025px) {

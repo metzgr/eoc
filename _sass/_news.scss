@@ -17,7 +17,6 @@
   margin: 5px 10px 10px 5px;
   text-decoration: none;
   -webkit-transition: color 0.2s; 
-  text-transform: capitalize;
 }
 
 .tag a:link {
@@ -56,7 +55,7 @@
 }
 */
 .tag-spacing {
-  margin-top:21px;
+  margin-top: 2rem;
 }
 
 .card-tag-news {
@@ -65,3 +64,16 @@
   text-transform: uppercase;
   font-size:19px;
 }
+/* ---------------- IPAD CSS ----------------------- */
+@media (max-width: 768px) {
+  .tags {
+    list-style: none;
+    display: block;
+    margin: 0;
+    overflow: hidden;
+    padding: 0; }
+
+    .tag-spacing {
+      margin-top: 0px;
+    }
+  }  
