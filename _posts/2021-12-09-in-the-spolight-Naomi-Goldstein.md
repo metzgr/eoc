@@ -14,7 +14,7 @@ img-alt: Naomi Goldstein Headshot
 
 <center><img src="{{site.baseurl}}/assets/images/blog/naomi-goldstein.jpeg" alt="Naomi Goldstein Headshot" class="spt-ppl margin-top-4" style="box-shadow: 1px -1px 11px 4px rgb(0 0 0 / 47%);"></center>
 
-<strong>In one sentence, how would others describe your role?</strong><br/>
+<strong>In one sentence, describe your current role:</strong><br/>
 I am the Deputy Assistant Secretary for Planning, Research, and Evaluation and Chief Evaluation Officer for the Administration for Children and Families (ACF) in the U.S. Department of Health and Human Services.
 
 <strong>What is one thing that makes you excited to come to work every day?</strong><br/>
