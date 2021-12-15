@@ -1,7 +1,7 @@
 ---
 title: <em>In the Spotlight</em> – Naomi Goldstein, Deputy Assistant Secretary for Planning, Research, and Evaluation, Administration for Children and Families (HHS)
 layout: post
-date: December 09, 2021
+date: December 15, 2021
 author: The Evidence Team, OMB
 excerpt: <em>In the Spotlight</em> serves to introduce you to the people and offices across the Federal Government who are doing the hard work of undertaking program evaluation and shine a light on their many notable accomplishments and activities...
 aria: 
