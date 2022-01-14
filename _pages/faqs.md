@@ -72,7 +72,7 @@ permalink: /faqs/
         </button>
       </h3>
       <div id="b-a7" class="usa-accordion__content">
-        <p>In 2017, the U.S. Commission on Evidence-Based Policymaking issued a bipartisan report for ensuring that rigorous evidence is created efficiently and as a routine part of government operations that can, in turn, be used to construct effective public policy. As part of that report, the Commission unanimously approved 22 recommendations to improve data access, strengthen privacy protections, and enhance government’s capacity for evidence building.</p>
+        <p>In 2017, the <a href="https://bipartisanpolicy.org/commission-evidence-based-policymaking/">U.S. Commission on Evidence-Based Policymaking</a> issued a bipartisan report for ensuring that rigorous evidence is created efficiently and as a routine part of government operations that can, in turn, be used to construct effective public policy. As part of that report, the Commission unanimously approved 22 recommendations to improve data access, strengthen privacy protections, and enhance government’s capacity for evidence building.</p>
         <p>The Foundations for Evidence-Based Policymaking Act (the “Evidence Act”) was introduced by former House Speaker Paul Ryan of Wisconsin and Senator Patty Murray of Washington after the release of the Commission’s report in September 2017, and was signed into law on January 14, 2019. It addresses 11 of the Commission’s 22 recommendations.</p>
       </div>
       <!-- Use the accurate heading level to maintain the document outline -->
