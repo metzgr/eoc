@@ -14,6 +14,9 @@
                             {% if resource.filters contains 'guidance' %}
                             <div class="shadow-1 guidance-border">
                                 {% endif %}
+                                {% if resource.filters contains 'report' %}
+                                <div class="shadow-1 report-border">
+                                {% endif %}
                                 {% if resource.filters contains 'budget-discussions' %}
                                 <div class="shadow-1 budget-discussions-border">
                                     {% endif %}
@@ -39,6 +42,9 @@
                                                 {% endif %}
                                                 {% if resource.filters contains 'quick-reference' %}
                                                 <span class="card-tag">Quick Reference</span>
+                                                {% endif %}
+                                                {% if resource.filters contains 'report' %}
+                                                <span class="card-tag">Report</span>
                                                 {% endif %}
                                          
                                                 {% if resource.external_url %}
