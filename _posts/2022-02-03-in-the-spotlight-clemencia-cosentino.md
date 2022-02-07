@@ -3,7 +3,7 @@ title: <em>In the Spotlight</em> – Clemencia Cosentino, Chief Evaluation Offic
 layout: post
 date: February 3, 2022
 author: The Evidence Team, OMB
-excerpt: We are excited to kick off a new regular feature on Evaluation.gov – <em>In the Spotlight</em>! In these posts, we will introduce you to the people and offices across the Federal Government who are doing the hard work of undertaking...
+excerpt: <em>In the Spotlight</em> serves to introduce you to the people and offices across the Federal Government who are doing the hard work of undertaking program evaluation and shine a light on their many notable accomplishments and activities...
 aria: 
 tags: In-the-Spotlight
 filters: in-the-spotlight
