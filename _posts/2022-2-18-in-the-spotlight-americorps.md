@@ -1,9 +1,9 @@
 ---
 title: <em>In the Spotlight</em> – AmeriCorps Office of Research and Evaluation
 layout: post
-date: February 18, 2022
+date: February 23, 2022
 author: The Evidence Team, OMB
-excerpt: We are excited to kick off a new regular feature on Evaluation.gov – In the Spotlight! In these posts, we will introduce you to the people and offices across the Federal Government who are doing the hard work of undertaking...
+excerpt: The latest In the Spotlight highlights the innovative evaluation work underway in AmeriCorps’ Office of Research and Evaluation...
 aria: 
 tags: In-the-Spotlight
 filters: in-the-spotlight
@@ -29,7 +29,7 @@ The Office of Research and Evaluation is responsible for a portfolio of projects
 * Evidence dissemination and utilization (‘learning’) projects with a focus on replicating evidence-based programs and practices.
 
 **Can you describe a recent evaluation and how you or others in your agency used the results to inform programs, policies, operations, etc.?**  
-Example 1: A five-year research project focused on scaling evidence-based interventions concluded in 2021. The findings from this project were used to create an interactive, virtual tool to help anyone interested in replicating what works ([Scaling Checklists: Assessing Your Level of Evidence and Readiness (SCALER)|AmeriCorps](https://americorps.gov/grantees-sponsors/evaluation-resources/scaler "link to scaling checklists on amricorps.gov")).
+Example 1: A five-year research project focused on scaling evidence-based interventions concluded in 2021. The findings from this project were used to create an interactive, virtual tool to help anyone interested in replicating what works [Scaling Checklists: Assessing Your Level of Evidence and Readiness (SCALER)|AmeriCorps](https://americorps.gov/grantees-sponsors/evaluation-resources/scaler "link to scaling checklists on amricorps.gov"){:target="_blank"}.
 
 Example 2: The Office of Research and Evaluation sponsors a research grant program designed to improve national service and volunteering practice. Findings from two recent studies on why individuals decide to serve and best practices for managing volunteers will be used to inform the agency’s recruitment and training efforts.
 
@@ -44,4 +44,4 @@ We have found that the most effective way to share results and ensure their use 
 * Successful evaluation practice is dependent on leadership understanding its value and investing in the resources needed to ensure that it will flourish.
 
 **Where can readers find more information about your office?**  
-Please visit our agency’s impact page at [Our impact|AmeriCorps](https://americorps.gov/about/our-impact/ "Impact page on americorps.gov") and please sign up for our newsletter from this same page by clicking on “Get research and evaluation updates”.
+Please visit our agency’s impact page at [Our impact|AmeriCorps](https://americorps.gov/about/our-impact/ "Impact page on americorps.gov"){:target="_blank"} and please sign up for our newsletter from this same page by clicking on “Get research and evaluation updates”.
