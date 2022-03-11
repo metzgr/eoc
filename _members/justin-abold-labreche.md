@@ -2,7 +2,7 @@
 bio-image: veterans_affairs_department_seal.png
 bio-image-alt-text: Department of Veterans Affairs
 layout: bio
-name: John Medve
+name: Justin Abold-Labreche
 department: Department of Veterans Affairs
-job-title: Acting Evaluation Officer and Acting Deputy Assistant Secretary for Performance and Policy Management
+job-title: Evaluation Officer and Deputy Assistant Secretary for Performance and Policy Management
 ---
