@@ -5,11 +5,11 @@ agency-logo: assets/images/agency-seals/social_security_administration_seal.png
 layout: agency
 permalink: /agencies/social-security-administration/
 eval-plan:
-    - name: Fiscal Year 2022
-      link: https://www.ssa.gov/data/policy/FY2022_Evaluation_Plan.pdf
+    - name: Fiscal Year 2023
+      link: https://www.ssa.gov/data/
 eval-policy: https://www.ssa.gov/data/data_governance_board/Evidence%20Act%20Evaluation%20Policy%20-%20September%202020.pdf
-learning-agenda:
-capacity-assesment:
+learning-agenda: https://www.ssa.gov/data/
+capacity-assesment: https://www.ssa.gov/data/
 agency-offices:
     - name: Office of Research, Demonstration, and Employment Support
       link: https://www.ssa.gov/disabilityresearch/

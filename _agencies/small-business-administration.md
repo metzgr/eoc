@@ -8,8 +8,8 @@ eval-plan:
     - name: Fiscal Year 2022
       link: https://www.sba.gov/document/report-annual-evaluation-plan
 eval-policy: https://www.sba.gov/document/policy-guidance--framework-guidelines-program-evaluation-us-small-business-administration
-learning-agenda:
-capacity-assesment:
+learning-agenda: https://www.sba.gov/document/report-enterprise-learning-agenda
+capacity-assesment: https://www.sba.gov/about-sba/organization/performance#section-header-6
 agency-offices:
     - name: Office of Planning, Performance, and the Chief Financial Officer
       link: https://www.sba.gov/about-sba/organization/performance#section-header-6

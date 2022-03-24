@@ -5,11 +5,11 @@ agency-logo: assets/images/agency-seals/energy_department_seal.png
 layout: agency
 permalink: /agencies/department-of-energy/
 eval-plan:
-    - name: Fiscal Year 2022
-      link: https://www.energy.gov/sites/default/files/2021-05/doe-evaluation-evidence-building-activities-fy22.pdf
-eval-policy:
-learning-agenda:
-capacity-assesment:
+    - name: Fiscal Year 2023
+      link: https://www.energy.gov/sites/default/files/2022-02/doe-evaluation-evidence-building-activities-fy23-v3.pdf
+eval-policy: https://www.directives.doe.gov/directives-documents/400-series/0410.3-APolicy/@@images/file
+learning-agenda: https://www.energy.gov/sites/default/files/2022-02/doe-evaluation-evidence-building-activities-fy23-v3.pdf
+capacity-assesment: https://www.energy.gov/sites/default/files/2022-02/doe-evaluation-evidence-building-activities-fy23-v3.pdf
 agency-offices:
     - name: Office of Energy Efficiency & Renewable Energy Program Evaluation
       link: https://www.energy.gov/eere/analysis/eere-program-evaluation
