@@ -5,7 +5,9 @@ agency-logo: assets/images/agency-seals/labor_department_seal.png
 layout: agency
 permalink: /agencies/department-of-labor/
 eval-plan:
-    - name: Fiscal Year 2023
+    - name: FY 2022
+      link: https://www.dol.gov/evidence/building-plans-and-assessments
+    - name: FY 2023
       link: https://www.dol.gov/sites/dolgov/files/evidence/eval-plan-fy2022-2023.pdf 
 eval-policy: https://www.dol.gov/evidence/evaluation-policy
 learning-agenda: https://www.dol.gov/sites/dolgov/files/evidence/evidence-building-plan-fy2022-2023.pdf

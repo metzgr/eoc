@@ -5,7 +5,7 @@ agency-logo: assets/images/agency-seals/small_business_administration_seal.png
 layout: agency
 permalink: /agencies/small-business-administration/
 eval-plan:
-    - name: Fiscal Year 2022
+    - name: FY 2022
       link: https://www.sba.gov/document/report-annual-evaluation-plan
 eval-policy: https://www.sba.gov/document/policy-guidance--framework-guidelines-program-evaluation-us-small-business-administration
 learning-agenda: https://www.sba.gov/document/report-enterprise-learning-agenda
