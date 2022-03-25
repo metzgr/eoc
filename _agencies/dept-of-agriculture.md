@@ -5,7 +5,7 @@ agency-logo: assets/images/agency-seals/agriculture_department_seal.png
 layout: agency
 permalink: /agencies/department-of-agriculture/
 eval-plan:
-    - name: Fiscal Year 2022
+    - name: FY 2022
       link: https://www.usda.gov/sites/default/files/documents/fy22-usda-evaluation-plan.pdf
 eval-policy:
 learning-agenda:
