@@ -2,7 +2,7 @@
 title: Evidence Act Milestone!
 layout: post
 date: March 28, 2022
-author: The Evidence Team
+author: The Evidence Team, OMB
 excerpt: Today marks an important milestone in the implementation of the Foundations for Evidence-Based Policymaking Act of 2018 (“Evidence Act”) as Federal Agencies post their Learning Agendas, FY23 Annual Evaluation Plans, and Capacity Assessments. 
 aria: 
 tags: Evidence-Act
