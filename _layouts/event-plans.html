@@ -169,7 +169,20 @@ This is used in blog posts. The index page can be found at blog/index.html
 
                         </div>
                     </div>
-                </a>
+                </div>
+                {% else %}
+                <div class="tablet:grid-col-6 container margin-bottom-4">
+                    <div class="">
+                        <div class="grid-row">
+                            <div class="tablet:grid-col-4">
+                                <img class="usa-media_block-img agency-seal" src="{{site.baseurl}}/{{ evaluation-policy.agency-logo }}" alt="{{ evaluation-policy.agency-name }} logo"></div>
+                            <div class="tablet:grid-col-8 margin-top-neg-1">
+                                <p class="eval-pol-agcy-title">{{ evaluation-policy.agency-name }}</p>
+                                <p class="eval-pol-agcy-link">Comming Soon</p>
+                            </div>
+
+                        </div>
+                    </div>
                 </div>
                 {% endif %}
                 {% endfor %}
