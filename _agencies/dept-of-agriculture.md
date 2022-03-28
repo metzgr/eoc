@@ -5,11 +5,13 @@ agency-logo: assets/images/agency-seals/agriculture_department_seal.png
 layout: agency
 permalink: /agencies/department-of-agriculture/
 eval-plan:
-    - name: Fiscal Year 2022
+    - name: FY 2022
       link: https://www.usda.gov/sites/default/files/documents/fy22-usda-evaluation-plan.pdf
-eval-policy:
-learning-agenda:
-capacity-assesment:
+    - name: FY 2023
+      link: https://usda.gov/sites/default/files/documents/usda-fy-2023-evaluation-plan.pdf
+eval-policy: https://www.usda.gov/directives/dr-1230-001
+learning-agenda: https://usda.gov/sites/default/files/documents/usda-learning-agenda.pdf
+capacity-assesment: https://usda.gov/sites/default/files/documents/usda-capacity-assessment.pdf
 agency-offices:
     - name: Office of Policy Support (Food and Nutrition Service)
       link: https://www.fns.usda.gov/research-analysis

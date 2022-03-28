@@ -5,11 +5,13 @@ agency-logo: assets/images/agency-seals/veterans_affairs_department_seal.png
 layout: agency
 permalink: /agencies/department-of-veterans-affairs/
 eval-plan:
-    - name: Fiscal Year 2022
+    - name: FY 2022
       link: https://www.va.gov/oei/docs/va2022-annual-evaluation-plan.pdf
-eval-policy:
-learning-agenda:
-capacity-assesment:
+    - name: FY 2023
+      link: https://va.gov/performance
+eval-policy: https://va.gov/performance
+learning-agenda: https://va.gov/performance
+capacity-assesment: https://va.gov/performance
 agency-offices:
     - name: Quality Enhancement Research Initiative
       link: https://www.queri.research.va.gov/
