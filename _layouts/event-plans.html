@@ -26,6 +26,95 @@ This is used in blog posts. The index page can be found at blog/index.html
         <h2 class="title margin-top-neg-1 margin-bottom-neg-1">{{page.title}}</h2>
         {{ content }}
 
+        {% if page.title == 'Learning Agendas' %}
+        <h2>Learning Agendas by Agency</h2>
+
+        <div class="grid-container padding-left-0 padding-right-0">
+            <div class="usa-graphic-list__row grid-row grid-gap padding-top-0">
+                {% assign sorted_agencies = site.agencies| sort_natural: "agency-name" %}
+                {% for annual-learning-agenda in sorted_agencies %}
+                {% if annual-learning-agenda.learning-agenda %}
+                <div class="tablet:grid-col-6 container margin-bottom-4">
+                    <div class="">
+                        <div class="grid-row">
+                            <div class="tablet:grid-col-4">
+                                <img class="usa-media_block-img agency-seal" src="{{site.baseurl}}/{{ annual-learning-agenda.agency-logo }}" alt="{{ annual-learning-agenda.agency-name }} logo"></div>
+                            <div class="tablet:grid-col-8 margin-top-neg-1">
+                                <p class="eval-pol-agcy-title">{{ annual-learning-agenda.agency-name }}</p>
+                               
+                                <p class="eval-pol-agcy-link"><a href="{{ annual-learning-agenda.learning-agenda }}" aria-label="{{ annual-learning-agenda.agency-name }} Evaluation Plan (opens in a new window)" target="_blank">Learning Agenda</a></p>
+
+                            </div>
+
+                        </div>
+                    </div>
+                
+                </div>
+                {% else %}
+                <div class="tablet:grid-col-6 container margin-bottom-4">
+                    <div class="">
+                        <div class="grid-row">
+                            <div class="tablet:grid-col-4">
+                                <img class="usa-media_block-img agency-seal" src="{{site.baseurl}}/{{ annual-learning-agenda.agency-logo }}" alt="{{ annual-learning-agenda.agency-name }} logo"></div>
+                            <div class="tablet:grid-col-8 margin-top-neg-1">
+                                <p class="eval-pol-agcy-title">{{ annual-learning-agenda.agency-name }}</p>
+                                <p class="eval-pol-agcy-link">Comming Soon</p>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+                {% endif %}
+
+                
+                {% endfor %}
+            </div>
+        </div>
+
+        {% endif %}
+
+        {% if page.title == 'Capacity Assessments for Statistics, Research, Evaluation, and Other Analysis' %}
+        <h2>Capacity Assessments by Agency</h2>
+
+        <div class="grid-container padding-left-0 padding-right-0">
+            <div class="usa-graphic-list__row grid-row grid-gap padding-top-0">
+                {% assign sorted_agencies = site.agencies| sort_natural: "agency-name" %}
+                {% for annual-capacity-assesment in sorted_agencies %}
+                {% if annual-capacity-assesment.capacity-assesment %}
+                <div class="tablet:grid-col-6 container margin-bottom-4">
+                    <div class="">
+                        <div class="grid-row">
+                            <div class="tablet:grid-col-4">
+                                <img class="usa-media_block-img agency-seal" src="{{site.baseurl}}/{{ annual-capacity-assesment.agency-logo }}" alt="{{ annual-capacity-assesment.agency-name }} logo"></div>
+                            <div class="tablet:grid-col-8 margin-top-neg-1">
+                                <p class="eval-pol-agcy-title">{{ annual-capacity-assesment.agency-name }}</p>
+                                <p class="eval-pol-agcy-link"><a href="{{ annual-capacity-assesment.capacity-assesment }}" aria-label="{{ annual-capacity-assesment.agency-name }} Capacity Assessments (opens in a new window)" target="_blank">Capacity Assessment</a></p>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+                {% else %}
+                <div class="tablet:grid-col-6 container margin-bottom-4">
+                    <div class="">
+                        <div class="grid-row">
+                            <div class="tablet:grid-col-4">
+                                <img class="usa-media_block-img agency-seal" src="{{site.baseurl}}/{{ annual-capacity-assesment.agency-logo }}" alt="{{ annual-capacity-assesment.agency-name }} logo"></div>
+                            <div class="tablet:grid-col-8 margin-top-neg-1">
+                                <p class="eval-pol-agcy-title">{{ annual-capacity-assesment.agency-name }}</p>
+                                <p class="eval-pol-agcy-link">Comming Soon</p>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+                {% endif %}
+                
+                {% endfor %}
+            </div>
+        </div>
+
+        {% endif %}
 
         {% if page.title == 'Annual Evaluation Plans' %}
             <h2>Annual Evaluation Plans by Agency</h2>
