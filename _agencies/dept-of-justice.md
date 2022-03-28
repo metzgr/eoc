@@ -5,9 +5,13 @@ agency-logo: assets/images/agency-seals/justice_department_seal.png
 layout: agency
 permalink: /agencies/department-of-justice/
 eval-plan:
+    - name: FY 2022
+      link: https://www.justice.gov/file/1485851/download
+    - name: FY 2023
+      link: https://www.justice.gov/evidence-and-evaluation
 eval-policy:
-learning-agenda:
-capacity-assesment:
+learning-agenda: https://www.justice.gov/evidence-and-evaluation
+capacity-assesment: https://www.justice.gov/evidence-and-evaluation
 agency-offices:
     - name: Center for Research Partnerships and Program Evaluation
       link: https://bja.ojp.gov/program/crppe/overview

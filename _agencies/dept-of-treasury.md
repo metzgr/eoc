@@ -5,10 +5,12 @@ agency-logo: assets/images/agency-seals/treasury_department_seal.png
 layout: agency
 permalink: /agencies/department-of-treasury/
 eval-plan:
-    - name: Fiscal Year 2022
+    - name: FY 2022
       link: https://home.treasury.gov/system/files/266/Treasury-FY22-Annual-Evaluation-Plan.pdf
+    - name: FY 2023
+      link: https://home.treasury.gov/about/budget-financial-reporting-planning-and-performance/budget-requestannual-performance-plan-and-reports
 eval-policy: https://home.treasury.gov/system/files/266/Interim-Evaluation-Policy.pdf
-learning-agenda:
-capacity-assesment:
+learning-agenda: https://home.treasury.gov/about/budget-financial-reporting-planning-and-performance/budget-requestannual-performance-plan-and-reports
+capacity-assesment: https://home.treasury.gov/about/budget-financial-reporting-planning-and-performance/budget-requestannual-performance-plan-and-reports
 agency-offices:
 ---

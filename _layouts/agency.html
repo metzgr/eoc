@@ -43,9 +43,9 @@ This is used for Agency pages.
               </div>
               <div>
                 {% if page.learning-agenda %}
-                <center><p class="card-tag" style="margin-top:1rem;margin-bottom:30px;font-size:.7em;"><a class="pill-btn" href="{{ page.learning-agenda }}" aria-label="{{ page.agency-name }} Learning Agenda (opens in a new window)" target="_blank">Will be released Feb 2022 &#10095;</a></p></center>
+                <center><p class="card-tag" style="margin-top:1rem;margin-bottom:30px;font-size:.7em;"><a class="pill-btn" href="{{ page.learning-agenda }}" aria-label="{{ page.agency-name }} Learning Agenda (opens in a new window)" target="_blank">FY 2022 - 2026</a></p></center>
                 {% else %}
-                <center><p class="card-tag" style="margin-top:1rem;margin-bottom:30px;font-size:.7em;"><a class="pill-btn-1" href="#">Will be released Feb 2022</a></p></center>
+                <center><p class="card-tag" style="margin-top:1rem;margin-bottom:30px;font-size:.7em;"><a class="pill-btn-1" href="#">Coming Soon</a></p></center>
                 {% endif %}
               </div>
             </div>
@@ -56,9 +56,9 @@ This is used for Agency pages.
               </div>
               <div>
                 {% if page.capacity-assesment %}
-                <center><p class="card-tag" style="margin-top:1rem;margin-bottom:30px;font-size:.7em;"><a class="pill-btn" href="{{ page.capacity-assesment }}" aria-label="{{ page.agency-name }} Capacity Assesment (opens in a new window)" target="_blank">Will be released Feb 2022 &#10095;</a></p></center>
+                <center><p class="card-tag" style="margin-top:1rem;margin-bottom:30px;font-size:.7em;"><a class="pill-btn" href="{{ page.capacity-assesment }}" aria-label="{{ page.agency-name }} Capacity Assesment (opens in a new window)" target="_blank">FY 2022 - 2026</a></p></center>
                 {% else %}
-                <center><p class="card-tag" style="margin-top:1rem;margin-bottom:30px;font-size:.7em;"><a class="pill-btn-1" href="#">Will be released Feb 2022</a></p></center>
+                <center><p class="card-tag" style="margin-top:1rem;margin-bottom:30px;font-size:.7em;"><a class="pill-btn-1" href="#">Coming Soon</a></p></center>
                 {% endif %}
               </div>
             </div>
@@ -67,14 +67,14 @@ This is used for Agency pages.
               <div class="agency-link-banner margin-bottom-2">
                   <center><img src="{{ site.baseurl }}/assets/images/annual-evaluation-plan-circle-icon@2x.png" alt="Annual Evaluation Plan Image" width="120"></center>
               </div>
-              <div>
+              <div style="display: flex; margin: -1rem 0 -1.5rem; justify-content: center;">
                 {% if page.eval-plan %}
                 {% assign evaluation_plans = page.eval-plan | sort_natural: "name" | reverse %}
                 {% for bio in evaluation_plans limit:3 %}
-                <center><p class="card-tag" style="margin-top:1rem;margin-bottom:30px;font-size:.7em;"><a class="pill-btn" href="{{ bio.link }}" aria-label="{{ page.agency-name }} Evaluation Plan (opens in a new window)" target="_blank">{{ bio.name }} &#10095;</a></p></center>
+                <p class="card-tag" style="margin-top:1rem;margin-bottom:30px;font-size:.7em;"><a class="pill-btn" href="{{ bio.link }}" aria-label="{{ page.agency-name }} Evaluation Plan (opens in a new window)" target="_blank">{{ bio.name }} &#10095;</a></p>
                 {% endfor %}
                 {% else %}
-                <center><p class="card-tag" style="margin-top:1rem;margin-bottom:30px;font-size:.7em;"><a class="pill-btn-1" href="#">Will be released Feb 2022</a></p></center>
+                <center><p class="card-tag" style="margin-top:1rem;margin-bottom:30px;font-size:.7em;"><a class="pill-btn-1" href="#">Coming Soon</a></p></center>
                 {% endif %}
               </div>
             </div> 
