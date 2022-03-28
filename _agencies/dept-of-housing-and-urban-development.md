@@ -6,7 +6,7 @@ layout: agency
 permalink: /agencies/housing-and-urban-development/
 eval-plan: 
 eval-policy: https://www.govinfo.gov/content/pkg/FR-2021-08-13/pdf/2021-17339.pdf
-learning-agenda:
+learning-agenda: https://www.huduser.gov/portal/about/pdr_learningagenda.html
 capacity-assesment:
 agency-offices:
     - name: Office of Policy Development and Research
