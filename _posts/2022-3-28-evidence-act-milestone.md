@@ -24,4 +24,4 @@ Now that the plans are public, you may be wondering, what’s in them? Where is 
 
 Even as we celebrate the publication of these plans, OMB has been clear that this is an important step in a much longer process, and that these documents should be living, iterative, and put into action. Plans are of no use if they sit on shelves collecting dust. Now is the time for us to collectively pivot from planning to action, to begin building evidence where it is most needed and to ensure that the results from these efforts are used to inform policy and decision-making. 
 
-This is just the beginning.  Please dive in and explore, get in touch with us at [evidence@omb.eop.gov](mailto:evidence@omb.eop.gov), and [subscribe](https://public.govdelivery.com/accounts/USGSA/subscriber/new?topic_id=USGSA_1068) for more exciting updates to come!
+This is just the beginning.  Please dive in and explore, get in touch with us at [evidence@omb.eop.gov](mailto:evidence@omb.eop.gov), and <a href="https://public.govdelivery.com/accounts/USGSA/subscriber/new?topic_id=USGSA_1068" target="_blank">subscribe</a> for more exciting updates to come!
