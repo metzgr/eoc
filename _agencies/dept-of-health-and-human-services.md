@@ -8,10 +8,10 @@ eval-plan:
     - name: FY 2022
       link: https://aspe.hhs.gov/system/files/pdf/265541/final-fy-2022-evaluation-plan.pdf
     - name: FY 2023
-      link: https://aspe.hhs.gov/topics/data/evidence-act
+      link: https://aspe.hhs.gov/reports/fy-2023-hhs-evaluation-plan
 eval-policy: https://aspe.hhs.gov/pdf-report/hhs-evaluation-policy
-learning-agenda: https://aspe.hhs.gov/topics/data/evidence-act
-capacity-assesment: https://aspe.hhs.gov/topics/data/evidence-act
+learning-agenda: https://aspe.hhs.gov/reports/fy-2023-2026-hhs-evidence-building-plan
+capacity-assesment: https://aspe.hhs.gov/reports/fy-2023-2026-hhs-capacity-assessment
 agency-offices:
     - name: Office of Planning, Research and Evaluation (ACF)
       link: https://www.acf.hhs.gov/opre
