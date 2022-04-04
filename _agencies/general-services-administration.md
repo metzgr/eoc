@@ -8,7 +8,7 @@ eval-plan:
     - name: FY 2022
       link: https://www.gsa.gov/reference/evidence-and-evaluation/gsa-learning-agenda-and-evaluation-plans
 eval-policy: https://www.gsa.gov/directive/gsa-evaluation-policy
-learning-agenda: https://www.gsa.gov/cdnstatic/GSA%20FY%202022-2026%20Learning%20Agenda.pdf
+learning-agenda: https://www.gsa.gov/cdnstatic/GSA%20FY%2022-26%20Learning%20Agenda.pdf
 capacity-assesment: https://www.gsa.gov/cdnstatic/GSA%20Capacity%20Assessment%20for%20Evidence%20Building%20and%20Evaluation.pdf
 agency-offices:
     - name: Office of Evaluation Sciences
