@@ -10,7 +10,7 @@ eval-plan:
     - name: FY 2023
       link: https://home.treasury.gov/about/budget-financial-reporting-planning-and-performance/budget-requestannual-performance-plan-and-reports
 eval-policy: https://home.treasury.gov/system/files/266/Interim-Evaluation-Policy.pdf
-learning-agenda: https://home.treasury.gov/about/budget-financial-reporting-planning-and-performance/budget-requestannual-performance-plan-and-reports
-capacity-assesment: https://home.treasury.gov/about/budget-financial-reporting-planning-and-performance/budget-requestannual-performance-plan-and-reports
+learning-agenda: https://home.treasury.gov/system/files/266/Treasury-FY2022-2026-LearningAgenda.pdf
+capacity-assesment: https://home.treasury.gov/system/files/266/Treasury-FY2022-2026-CapacityAssessment.pdf
 agency-offices:
 ---
