@@ -8,7 +8,7 @@ eval-plan:
     - name: FY 2022
       link: https://www.va.gov/oei/docs/va2022-annual-evaluation-plan.pdf
     - name: FY 2023
-      link: https://va.gov/performance
+      link: https://www.va.gov/oei/docs/va2023-annual-evaluation-plan.pdf
 eval-policy: https://va.gov/performance
 learning-agenda: https://va.gov/performance
 capacity-assesment: https://va.gov/performance
