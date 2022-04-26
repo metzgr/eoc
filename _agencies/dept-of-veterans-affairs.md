@@ -10,8 +10,8 @@ eval-plan:
     - name: FY 2023
       link: https://www.va.gov/oei/docs/va2023-annual-evaluation-plan.pdf
 eval-policy: https://va.gov/performance
-learning-agenda: https://va.gov/performance
-capacity-assesment: https://va.gov/performance
+learning-agenda: https://www.va.gov/oei/docs/va-strategic-plan-2022-2028.pdf#page=133
+capacity-assesment: https://www.va.gov/oei/docs/va-strategic-plan-2022-2028.pdf#page=165
 agency-offices:
     - name: Quality Enhancement Research Initiative
       link: https://www.queri.research.va.gov/
