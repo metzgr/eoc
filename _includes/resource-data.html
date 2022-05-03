@@ -6,6 +6,16 @@
                {% assign resources = site.resources | sort: 'year' | reverse %}
                 {% for resource in resources %}
                         <div class="tablet:grid-col-4 grid-spacing policy {{ resource.filters }}" >
+                            
+                            <!-- adds star icon on new resources for 30 days -->
+                            <!-- {% if resource.post-date %}
+                                {% assign days = 30 | times: 24 | times: 60 | times: 60 %}
+                                {% assign end_date = resource.post-date | date: '%s' | plus: days %}
+                                {% assign today_date = 'now' | date: '%s' %}
+                                {% if today_date < end_date %}
+                                <img style="position:absolute; top: 7px; right: 12px; max-width: 15%;" src="{{ site.baseurl }}/assets/images/star.png">
+                                {% endif %}
+                            {% endif %} -->
 
                             <!--sets border logic statements for resources-->
                             {% if resource.filters contains 'legislation' %}
