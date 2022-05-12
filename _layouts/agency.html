@@ -89,12 +89,12 @@ This is used for Agency pages.
       
     {% if member-found.name or  page.eval-policy %}
     <div class="usa-graphic-list__row container shadow-5 white-background agency-border-top margin-top-3">
-        <div class="white-background padding-top-2 padding-bottom-3 padding-x-4">
-            <h2 class="margin-0">Agency Evaluation Information</h2>
-            <div class="grid-row">
-                <p class="desktop:grid-col-3 tablet:grid-col-3"><strong>Evaluation Officer</strong></p>
+        <div class="white-background padding-bottom-3 padding-x-4">
+            <h2>Agency Information</h2>
+            <div class="grid-row margin-bottom-1">
+                <div class="desktop:grid-col-3 tablet:grid-col-3"><strong>Evaluation Officer</strong></div>
                 
-                <p class="desktop:grid-col-9 tablet:grid-col-9">
+                <div class="desktop:grid-col-9 tablet:grid-col-9">
                     {% for member in site.members %}
                     {% if member.department == page.agency-name %}
                     {% assign member-found = member %}
@@ -102,15 +102,25 @@ This is used for Agency pages.
                     {% endif %}
                     {% endfor %}
                     {% if member-found.job-title %} {{ member-found.job-title }}{% endif %}
-                </p>
+                </div>
+            </div>
+
+            {% if page.eval-policy %}
+            <div class="grid-row margin-bottom-1">
+                <div class="desktop:grid-col-3 tablet:grid-col-3"><strong>Evaluation Policy</strong></div>
+                <div class="desktop:grid-col-9 tablet:grid-col-9"><a href="{{  page.eval-policy }}" aria-label="{{ page.agency-name }} Evaluation Policy (opens in a new window)" target="_blank">Evaluation Policy for {{ page.agency-name }}</a></div>
+            </div>
+            {% endif %}
+    
+            {% if page.landing-page %}
+            <div class="grid-row margin-bottom-1">
+                <div class="desktop:grid-col-3 tablet:grid-col-3"><strong>Evidence Building Plans</strong></div>
+                <div class="desktop:grid-col-9 tablet:grid-col-9"><a href="{{  page.landing-page }}" aria-label="{{ page.agency-name }} Home for Evidence Planning (opens in a new window)" target="_blank">{{ page.agency-name }} Home for Evidence Planning</a></div>
+            </div>
+            {% endif %}
         </div>
-        {% if page.eval-policy %}
-        <div class="grid-row">
-            <div class="desktop:grid-col-3 tablet:grid-col-3"><strong>Evaluation Policy</strong></div>
-            <div class="desktop:grid-col-9 tablet:grid-col-9"><a href="{{  page.eval-policy }}" aria-label="{{ page.agency-name }} Evaluation Policy (opens in a new window)" target="_blank">Evaluation Policy for {{ page.agency-name }}</a></div>
-        </div>
-        {% endif %}
-        </div>
+
+
     </div>
     {% endif %}
         
