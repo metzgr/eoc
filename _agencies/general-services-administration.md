@@ -15,4 +15,5 @@ capacity-assesment: https://www.gsa.gov/cdnstatic/GSA%20Capacity%20Assessment%20
 agency-offices:
     - name: Office of Evaluation Sciences
       link: https://oes.gsa.gov/
+landing-page: https://www.gsa.gov/reference/evidence-and-evaluation/gsa-learning-agenda-and-evaluation-plans
 ---

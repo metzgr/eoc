@@ -15,4 +15,5 @@ agency-offices:
       link: https://www.huduser.gov/portal/about/pdrabout.html
       eval-plan: Research Roadmap
       eval-plan-link: https://www.huduser.gov/portal/pdf/ResearchRoadmap-2017Update.pdf
+landing-page: https://www.huduser.gov/portal/about/pdr_learningagenda.html
 ---
