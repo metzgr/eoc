@@ -71,7 +71,7 @@ This is used for Agency pages.
                 {% if page.eval-plan %}
                 {% assign evaluation_plans = page.eval-plan | sort_natural: "name" | reverse %}
                 {% for bio in evaluation_plans limit:3 %}
-                <p class="card-tag" style="margin-top:1rem;margin-bottom:30px;font-size:.7em;"><a class="pill-btn" href="{{ bio.link }}" aria-label="{{ page.agency-name }} Evaluation Plan (opens in a new window)" target="_blank">{{ bio.name }} &#10095;</a></p>
+                <p class="card-tag" style="margin-top:1rem;margin-bottom:30px;font-size:.7em;"><a class="pill-btn" href="{{ bio.link }}" aria-label="{{ page.agency-name }} {{ bio.name }} Evaluation Plan (opens in a new window)" target="_blank">{{ bio.name }} &#10095;</a></p>
                 {% endfor %}
                 {% else %}
                 <center><p class="card-tag" style="margin-top:1rem;margin-bottom:30px;font-size:.7em;"><a class="pill-btn-1" href="#">Coming Soon</a></p></center>
