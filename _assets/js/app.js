@@ -1,2 +1,11 @@
 // Add your custom javascript here
 console.log("Hi from Federalist");
+
+// Add a new class for all of the external anchor tags
+$("a").each(function(index, element) {
+    if(!$(element).attr("href").startsWith('https://www.evaluation.gov') 
+        && !$(element).hasClass('usa-link--external')
+        && this.host !== location.host) {
+            $(element).addClass("usa-link--external");
+    }
+});
