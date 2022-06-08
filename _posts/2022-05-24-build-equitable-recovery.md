@@ -1,41 +1,37 @@
 ---
 title: Learning What Works to Build an Equitable Recovery
 layout: post
-date: May 24, 2022
+date: June 7, 2022
 author: Maia Jachimowicz, White House American Rescue Plan Implementation Team
 excerpt: What does it mean to recover equitably from the COVID-19 pandemic? What support is needed and how should resources be directed to ensure that the government’s pandemic relief efforts advance equitable outcomes?
 aria: 
 tags: Evaluation Equity
 filters: evaluation equity
-permalink: /2022-05-24-build-equitable-recovery/
+permalink: /build-equitable-recovery/
 image: open-sign.jpg
 img-alt: An open sign on the glass door of a shop.
 ---
 
-What does it mean to recover equitably from the COVID-19 pandemic? What support is needed and how should resources be directed to ensure that the government's pandemic relief efforts advance equitable outcomes? In particular, how does the country ensure an equitable recovery for underserved individuals and communities who have historically suffered disproportionate harm during times of economic instability? Federal policymakers, researchers and interested members of the public are grappling with these questions and more with the implementation of the $1.9 trillion American Rescue Plan Act of 2021 (ARP) signed into law by President Biden on March 11, 2021.
+The $1.9 trillion American Rescue Plan (ARP) pandemic relief bill, signed into law by President Biden on March 11, 2021, has fueled [the most equitable economic recovery in recent history.](https://www.whitehouse.gov/briefing-room/statements-releases/2022/05/24/fact-sheet-biden-harris-report-advancing-equity-through-the-american-rescue-plan/) This progress is the result of both the design and implementation of ARP to advance equity through a concerted, whole-of-government approach.
 
-To guide the Federal Government's learning and exploration of these questions, the White House American Rescue Plan Implementation Team is releasing an [**American Rescue Plan Equity Learning Agenda**](). The ARP Equity Learning Agenda, released as part of the [**Advancing Equity Through the American Rescue Plan**]() report, provides a framework for building evidence on ARP investments with respect to questions of equity and highlights efforts that are already underway.
+Thanks to the ARP, 2021 saw the [largest calendar year job growth](https://fred.stlouisfed.org/series/PAYEMS) on record. [Unemployment rates](https://fred.stlouisfed.org/series/UEMP27OV) among young workers, as well as Black and Hispanic workers, have experienced record declines and are roughly at pre-crisis rates. In comparison, it took over six years for Black and Hispanic unemployment to recover following the Great Recession. Long-term unemployment -- instead of lingering at high levels for years -- had a record drop in the twelve months after the Rescue Plan passed.
 
-[**GSA has awarded $13 million**](https://www.gsa.gov/blog/2021/12/15/gsa-to-build-evidence-to-advance-equitable-outcomes-through-the-american-rescue-plan) through the ARP-funded Federal Citizen Services Fund to conduct evaluations and other evidence-building activities to support federal government learning. These funds will support a national evaluation of equity in ARP as well as up to ten separate evaluations conducted by GSA's Office of Evaluation Sciences, in partnership with implementing agencies, on ARP-funded programs with equity goals. Further, multiple Federal agencies are prioritizing ARP Equity Learning Agenda questions through alignment with their [**agency learning agendas**](https://www.evaluation.gov/evidence-plans/learning-agenda/).
+This is a direct result of our commitment, through the implementation of the ARP, to understanding how and if pandemic relief efforts are having their intended impact and reaching communities and individuals in need. Of particular significance is understanding through the collection and analysis of data and evidence how to ensure an equitable recovery for all, including underserved individuals and communities who typically suffer disproportionate harm during times of economic instability.
 
-Ultimately the goal of these activities is to build evidence, and inspire others to build evidence, on what major ARP investments and key program features were used to help advance equitable outcomes and the extent to which they are achieving the intended goals. Of particular interest are those components of ARP that were explicitly designed and implemented to respond to the disproportionate negative impacts of the pandemic on underserved individuals and communities. This evidence will help the government as well as implementing partners understand what features and implementation efforts work to drive an equitable recovery. These learnings will also ensure the government is better prepared to respond to future recovery efforts.
+To guide the federal government's exploration of these questions, on May 24, the White House released an [**American Rescue Plan (ARP) Equity Learning Agenda**](https://www.whitehouse.gov/wp-content/uploads/2022/05/American-Rescue-Plan-Equity-Learning-Agenda.pdf), as part of the [***Advancing Equity Through the American Rescue Plan***](https://www.whitehouse.gov/wp-content/uploads/2022/05/ADVANCING-EQUITY-THROUGH-THE-AMERICAN-RESCUE-PLAN.pdf) report. The Equity Learning Agenda is designed to provide a framework for ensuring the federal government builds evidence about what works and what doesn't, to deliver an equitable recovery both now and in the future.
 
-**[INSERT LINK TO ARP EQUITY LEARNING AGENDA]**
+In support of the Equity Learning Agenda and agency evaluation efforts, [GSA will use a portion of ARP funding to conduct evaluations](https://www.gsa.gov/blog/2021/12/15/gsa-to-build-evidence-to-advance-equitable-outcomes-through-the-american-rescue-plan) and undertake other evidence-building activities to support federal government learning. Over $10 million dollars will support a national evaluation of equitable implementation of the ARP. This investment will also fund up to ten separate evaluations conducted by [GSA's Office of Evaluation Sciences](https://oes.gsa.gov/american-rescue-plan/), in partnership with agencies, on ARP-funded programs with equity goals. Furthermore, multiple federal agencies are prioritizing Equity Learning Agenda questions by aligning them with their own [agency learning agendas]({{ site.baseurl }}/evidence-plans/learning-agenda/).
 
-Building on the foundation of [**Executive Order 13985**](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/01/20/executive-order-advancing-racial-equity-and-support-for-underserved-communities-through-the-federal-government/), *Advancing Racial Equity and Support for Underserved Communities Through the Federal Government,* the ARP Equity Learning Agenda asks:
+Ultimately, the goal of these activities is to build a body of evidence on what key elements of the ARP helped advance equitable outcomes and to ensure the government can adopt lessons learned to prepare for future recovery efforts.
+
+<a href="https://www.whitehouse.gov/wp-content/uploads/2022/05/American-Rescue-Plan-Equity-Learning-Agenda.pdf" class="usa-button usa-button--outline border-0">ARP Equity Learning Agenda</a>
+
+Building on the [Executive Order](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/01/20/executive-order-advancing-racial-equity-and-support-for-underserved-communities-through-the-federal-government/) on *Advancing Racial Equity and Support for Underserved Communities Through the Federal Government,* the Equity Learning Agenda asks two overarching questions:
 
 - To what extent did ARP investments support equitable outcomes for those they were designed to serve?
 
 - What strategies contributed to equitable outcomes, and where are different strategies needed?
 
-The document prioritizes core questions of equity, including understanding the impact of interventions to increase awareness and access to ARP resources, and highlights selected program questions that are most closely related to the original goals of ARP investments.
+The Equity Learning Agenda also provides selected examples of how these overarching questions may be applied to various ARP investments and includes questions that focus on exploring which specific implementation strategies contributed to achieving equitable outcomes through ARP-funded programs. For example, questions explore the role of government efforts to increase awareness and access to various ARP-funded programs, including among underserved individuals and communities.
 
-For example:
-
-- How have states, localities, Tribal governments and territories used **U.S. Department of the Treasury** State & Local Fiscal Recovery Fundsto address disproportionately impacted individuals and communities, and what were the effects on targeted outcomes?
-
-- What effects did the **U.S. Small Business Administration's** ARP-funded recovery programs (COVID-Economic Injury Disaster Loan, Targeted EIDL Advance, Shuttered Venue Operators Grant, and Restaurant Revitalization Fund) have on small business outcomes and how did these vary by industry, geography, and owner demographics?
-
-- To what extent did pregnancy-related mortality and morbidity outcomes improve for underserved populations in states that opted into the **U.S. Department of Health and Human Services'** 12 months of continuous postpartum coverage in Medicaid and CHIP under ARP?
-
-While the ARP Equity Learning Agenda is intended to inform the direction of federally-funded ARP equity-related evaluation, research and analysis, we also hope that it serves as a call-to-action for the many external stakeholders who are interested in similar lines of inquiry. Our understanding of ARP-funded programs and the impact of implementation actions on building an equitable recovery can be further enhanced by participation of academic researchers, community organizations, state and local governments, philanthropy and others using this Learning Agenda to shape and inform relevant external evaluation and related evidence-building activities.
+While the Equity Learning Agenda is intended to inform the direction of federally funded ARP equity-related research and analysis, we also hope that it serves as an invitation to academics, researchers, community organizations, state and local governments, philanthropy, and others to generate evidence about how to build an equitable recovery.
