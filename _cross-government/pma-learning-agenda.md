@@ -1,6 +1,6 @@
 ---
 agency-name: PMA Learning Agenda
-agency-logo: assets/images/agency-seals/AmeriCorps_Logo.jpg
+agency-logo: assets/images/agency-seals/pma-seal-high-res.png
 alt: PMA Learning Agenda agency logo
 aria-label: PMA Learning Agenda
 learning-agenda: https://assets.performance.gov/PMA/DraftPMALearningAgenda.pdf
