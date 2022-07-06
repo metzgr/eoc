@@ -1,6 +1,6 @@
 ---
 agency-name: ARP Equity Learning Agenda
-agency-logo: assets/images/agency-seals/AmeriCorps_Logo.jpg
+agency-logo: assets/images/agency-seals/arp-equity-learning-agenda.png
 learning-agenda: https://www.whitehouse.gov/wp-content/uploads/2022/05/ADVANCING-EQUITY-THROUGH-THE-AMERICAN-RESCUE-PLAN.pdf
 alt: ARP Equity Learning Agenda logo
 aria-label: ARP Equity Learning Agenda
