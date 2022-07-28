@@ -10,8 +10,8 @@ eval-plan:
     - name: FY 2023
       link: https://www.ed.gov/sites/default/files/cdo/fy-2023-evaluation-plan.pdf
 eval-policy: https://www.ed.gov/sites/default/files/cdo/20-0177-evaluation-policy.pdf
-learning-agenda: https://www2.ed.gov/about/reports/strat/plan2022-26/strategic-plan.pdf#page=66
-capacity-assesment: https://www2.ed.gov/about/reports/strat/plan2022-26/strategic-plan.pdf#page=89
+learning-agenda: https://www2.ed.gov/about/reports/strat/plan2022-26/strategic-plan.pdf#page=101
+capacity-assesment: https://www2.ed.gov/about/reports/strat/plan2022-26/strategic-plan.pdf#page=129
 agency-offices:
     - name: Institute of Education Sciences
       link: https://ies.ed.gov/
