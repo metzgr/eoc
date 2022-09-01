@@ -47,3 +47,16 @@ We believe DIV offers an innovative, complementary model to help Agencies delive
 
 **Where can readers find more information about your office?**
 Please visit DIV’s Agency webpage at [www.usaid.gov/div](https://www.usaid.gov/div) and the [portfolio and impact site](https://divportal.usaid.gov/s/), where you can also sign up for [DIV’s newsletter](https://content.govdelivery.com/accounts/USAIDHQ/bulletins/324ae68).
+
+<hr class="hr-spt margin-top-4">
+<strong>About the Series:</strong> <em>In the Spotlight</em> serves to introduce you to the people and offices across the Federal Government who are doing the hard work of undertaking program evaluation and shine a light on their many notable accomplishments and activities. Through this series, you will get to know the individuals who are leading and conducting the critical evaluation, research, and analytic work happening throughout the government. You’ll also discover the many offices where this work takes place, especially those that may fly under the radar. <em>In the Spotlight</em> will highlight how evaluation and related activities, and the staff that undertake them, are critical to inform policies, program design, decision-making, and advance evidence-based policymaking.
+
+<hr>
+
+<div class="footnotes" role="doc-endnotes">
+  <ol>
+        <li id="fn:1" role="doc-endnote">
+            <p>Links indicated with this graphic notice<span class="usa-link--external"></span> , means that you are leaving this Federal Government Web site. These external links provide additional information and do not constitute an endorsement by the Federal Government. Additional information about the linking and disclaimer policies for Evaluation.gov is available <a href="https://www.gsa.gov/website-information/website-policies" target="_blank" class="usa-link--external">here</a>.</p>
+        </li>
+  </ol>
+</div>
