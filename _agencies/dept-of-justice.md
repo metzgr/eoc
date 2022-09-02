@@ -10,8 +10,8 @@ eval-plan:
     - name: FY 2023
       link: https://www.justice.gov/evidence-and-evaluation
 eval-policy:
-learning-agenda: https://www.justice.gov/evidence-and-evaluation
-capacity-assesment: https://www.justice.gov/evidence-and-evaluation
+learning-agenda: https://www.justice.gov/doj/doj-strategic-plan/learning-agenda
+capacity-assesment: https://www.justice.gov/doj/doj-strategic-plan/appendix-capacity-assessment-evaluation-statistics-research-and-analysis-fy2022
 agency-offices:
     - name: Center for Research Partnerships and Program Evaluation
       link: https://bja.ojp.gov/program/crppe/overview
