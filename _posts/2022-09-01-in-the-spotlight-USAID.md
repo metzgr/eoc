@@ -1,13 +1,13 @@
 ---
 title: <em>In the Spotlight</em> – USAID’s Development Innovation Ventures
 layout: post
-date: September 1, 2022
+date: September 8, 2022
 author: Sasha Gallant, USAID and The Evidence Team, OMB
 excerpt: In the Spotlight serves to introduce you to the people and offices across the Federal Government who are doing the hard work of undertaking program evaluation and shine a light on their many notable accomplishments and activities...
 aria: 
 tags: In-the-Spotlight
 filters: in-the-spotlight
-permalink: /2022-2-18-in-the-spotlight-usaid/
+permalink: /2022-09-08-in-the-spotlight-usaid/
 image: spotlight-1.png
 img-alt: spotlight
 ---
