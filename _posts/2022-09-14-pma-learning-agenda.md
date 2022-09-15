@@ -1,7 +1,7 @@
 ---
 title: Public Informs Final Government-Wide PMA Learning Agenda
 layout: post
-date: September 14, 2022
+date: September 15, 2022
 author: Nichelle Johnson Billips and Diana Epstein, Office of Management and Budget
 excerpt: Today, the Office of Management and Budget (OMB) released the President’s Management Agenda (PMA) Learning Agenda on Performance.gov...
 aria: 
@@ -12,7 +12,7 @@ image: pma-blog-thumbnail.png
 img-alt: PMA seal
 ---
 
-<i>The <span style="color: #0071bc;">President’s Management Agenda (PMA)</span> defines Government-wide management priorities for all Federal agencies to improve how Government operates and performs, toward the vision of an effective, equitable, and accountable Government that delivers results for all Americans. This announcement was originally shared on Performance.gov . Read on to learn more about the PMA Learning Agenda - and how you can contribute.</i>
+<i>The <span style="color: #0071bc; font-weight: bold;">President’s Management Agenda (PMA)</span> defines Government-wide management priorities for all Federal agencies to improve how Government operates and performs, toward the vision of an effective, equitable, and accountable Government that delivers results for all Americans. This announcement was originally shared on Performance.gov . Read on to learn more about the PMA Learning Agenda - and how you can contribute.</i>
 
 Today, the Office of Management and Budget (OMB) released the President's Management Agenda (PMA) Learning Agenda on Performance.gov.
 
