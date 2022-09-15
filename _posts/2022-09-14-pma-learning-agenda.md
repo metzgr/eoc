@@ -12,7 +12,7 @@ image: pma-blog-thumbnail.png
 img-alt: PMA seal
 ---
 
-<i>The <span style="color: #0071bc; font-weight: bold;">President’s Management Agenda (PMA)</span> defines Government-wide management priorities for all Federal agencies to improve how Government operates and performs, toward the vision of an effective, equitable, and accountable Government that delivers results for all Americans. This announcement was originally shared on Performance.gov . Read on to learn more about the PMA Learning Agenda - and how you can contribute.</i>
+<i>The <a href="https://www.performance.gov/pma/">President’s Management Agenda (PMA)</a> defines Government-wide management priorities for all Federal agencies to improve how Government operates and performs, toward the vision of an effective, equitable, and accountable Government that delivers results for all Americans. This announcement was originally shared on <a href="https://www.performance.gov/blog/final-pma-learning-agenda-released/">Performance.gov</a>. Read on to learn more about the PMA Learning Agenda - and how you can contribute.</i>
 
 Today, the Office of Management and Budget (OMB) released the President's Management Agenda (PMA) Learning Agenda on Performance.gov.
 
@@ -24,7 +24,7 @@ To solicit feedback on the draft PMA Learning Agenda, OMB issued a short survey 
 
 The PMA Learning Agenda supports PMA priorities across Federal agencies in three learning areas of focus: 1) How can the Federal Government strengthen and empower its workforce, so it can best serve the American people? 2) How can the Federal Government deliver programs and services effectively and build trust? and 3) How can the Federal Government advance equity and support underserved communities? It includes specific questions in each area of focus, as well as illustrative aligned questions from agency Learning Agendas.
 
-Engage with the PMA Learning Agenda
+**Engage with the PMA Learning Agenda**
 
 The public's role does not end here -- in fact, it's just beginning. OMB needs your help to answer these crucial questions, and is looking forward to engaging with researchers, public servants, community members, philanthropic organizations, and all those passionate about improving Government. Stay engaged with this effort in the following ways:
 
