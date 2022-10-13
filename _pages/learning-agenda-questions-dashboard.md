@@ -17,13 +17,13 @@ permalink: /learning-agenda-questions-dashboard/
     <div class="grid-container">
         <div class="grid-row grid-gap">
             <div>
-                <h2>Explore Agency Priority Evidence Needs</h2>
+                <h2 style="color: #005ea2">Explore Agency Priority Evidence Needs</h2>
                 <p>As required by the Evidence Act, Federal agencies recently published agency-wide Learning Agendas or evidence-building plans.  The plans include priority questions to address the most pressing evidence needs across agencies. This dashboard compiles those questions in one place so that you can easily explore where evidence is most needed.</p>
             </div>
         </div>
         <div class="grid-row grid-gap flex-justify flex-align-center">
-            <div><h2>Search Federal agencies' Learning Agenda Questions</h2></div>
-            <div><a href="#" class="usa-button usa-button--outline border-0">Download Data</a></div>
+            <div><p style="color: #71767A; font-size: 20px; font-weight: bold;">Search Federal agencies' Learning Agenda Questions</p></div>
+            <div><a href="{{site.baseurl}}/assets/resources/Learning Agenda Downloadable Data_Listed Tags.csv" download class="usa-button usa-button--outline border-0">Download Data</a></div>
         </div>
         <div>
             <div class='tableauPlaceholder' id='viz1664888225696' style='position: relative'>
@@ -43,8 +43,8 @@ permalink: /learning-agenda-questions-dashboard/
             <script type='text/javascript'>                    
                 var divElement = document.getElementById('viz1664888225696'); 
                 var vizElement = divElement.getElementsByTagName('object')[0];
-                if ( divElement.offsetWidth > 800 ) { vizElement.style.width='1260px';vizElement.style.height='2027px';}
-                else if ( divElement.offsetWidth > 500 ) { vizElement.style.width='1260px';vizElement.style.height='2027px';}
+                if ( divElement.offsetWidth > 800 ) { vizElement.style.width='1018px';vizElement.style.height='2027px';}
+                else if ( divElement.offsetWidth > 500 ) { vizElement.style.width='1018px';vizElement.style.height='2027px';}
                 else { vizElement.style.width='100%';vizElement.style.height='2127px';}
                 var scriptElement = document.createElement('script');
                 scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
