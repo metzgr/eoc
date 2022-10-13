@@ -172,7 +172,7 @@ primary_navigation:
   - name: Explore
     children:
       - name: Learning Agenda Questions Dashboard
-      - url: "/learning-agenda-questions-dashboard/"
+        url: "/learning-agenda-questions-dashboard/"
 
 
 # Search.gov configuration
