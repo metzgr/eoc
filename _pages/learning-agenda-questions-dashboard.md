@@ -9,7 +9,7 @@ permalink: /learning-agenda-questions-dashboard/
         <div class="grid-container">
             <div class="grid-row grid-gap">
             <div class="tablet:grid-col">
-                <div class="text-white font-ui-2xl margin-bottom-0 text-bold"> Learning Agenda Questions Dashboard </div>
+                <h1 class="text-white font-ui-2xl margin-bottom-0"> Learning Agenda Questions Dashboard </h1>
             </div>
             </div>
         </div>
@@ -25,7 +25,7 @@ permalink: /learning-agenda-questions-dashboard/
             <div><p class="dashboard-subheader">Search Federal agencies' Learning Agenda Questions</p></div>
             <div><a href="{{site.baseurl}}/assets/resources/Learning Agenda Downloadable Data_Listed Tags.csv" download class="usa-button usa-button--outline border-0">Download Data</a></div>
         </div>
-        <div>
+        <div class="margin-top-2">
             <div class='tableauPlaceholder' id='viz1664888225696' style='position: relative'>
                 <noscript><a href='#'><img alt='LA_Questions ' src='https://[public.tableau.com|http://public.tableau.com/]/static/images/Le/LearningAgendaDashboard/LA_Questions/1_rss.png' style='border: none' /></a></noscript>
                 <object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' />
