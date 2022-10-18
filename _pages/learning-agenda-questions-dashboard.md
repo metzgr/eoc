@@ -18,11 +18,11 @@ permalink: /learning-agenda-questions-dashboard/
         <div class="grid-row grid-gap">
             <div>
                 <h2 class="dashboard-header">Explore Agency Priority Evidence Needs</h2>
-                <p>As required by the Evidence Act, Federal agencies recently published agency-wide Learning Agendas or evidence-building plans.  The plans include priority questions to address the most pressing evidence needs across agencies. This dashboard compiles those questions in one place so that you can easily explore where evidence is most needed.</p>
+                <p>As required by the Evidence Act, Federal agencies recently published agency-wide Learning Agendas, or evidence-building plans.  The plans include priority questions to address the most pressing evidence needs across agencies. This dashboard compiles those questions in one place so that you can easily explore where evidence is most needed.</p>
             </div>
         </div>
         <div class="grid-row grid-gap flex-justify flex-align-center">
-            <div><p class="dashboard-subheader">Search Federal agencies' Learning Agenda Questions</p></div>
+            <div><p class="dashboard-subheader">Search Federal Agencies' Learning Agenda Questions</p></div>
             <div><a href="{{site.baseurl}}/assets/resources/Learning Agenda Downloadable Data_Listed Tags.csv" download class="usa-button usa-button--outline border-0">Download Data</a></div>
         </div>
         <div class="margin-top-2">
