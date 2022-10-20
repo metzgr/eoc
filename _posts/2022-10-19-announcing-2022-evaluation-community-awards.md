@@ -1,7 +1,7 @@
 ---
 title: Announcing the Recipients of the 2022 Evaluation Community Awards
 layout: post
-date: October 19, 2022
+date: October 20, 2022
 author: The Evidence Team, OMB
 excerpt: It is our honor to announce the winners of the Second Annual Evaluation Community Awards Program, sponsored by the Evaluation Officer Council...
 aria: EOC Awards Blog Post
