@@ -13,25 +13,25 @@ img-alt: Golden trophy with stars
 ---
 
 <img src="{{site.baseurl}}/assets/images/blog/trophy-stars.png" alt="Golden trophy with stars" style="float:left; width:36%; height:35%; margin-right:1rem; margin-top:0.4rem">
-It is our honor to announce the winners of the Second Annual Evaluation Community Awards Program, sponsored by the Evaluation Officer Council! These awards honor Federal civil service leaders committed to advancing evaluation and evidence-based policymaking across the Federal Government. We solicited nominations from across the Federal evaluation community, as well as those who work with Federal evaluators. We received over 30 strong nominations representing 16 different agencies. A cross-functional panel reviewed the submissions to provide recommendations and OMB presented the awards at the October Evaluation Officer Council meeting.
+It is our honor to announce the winners of the Second Annual Evaluation Community Awards Program, on behalf of the Evaluation Officer Council! These awards honor Federal civil service leaders committed to advancing evaluation and evidence-based policymaking across the Federal Government. We solicited nominations from across the Federal evaluation community, as well as those who work with Federal evaluators. We received over 30 strong nominations representing 16 different agencies. A cross-functional panel reviewed the submissions to provide recommendations and OMB presented the awards at the October Evaluation Officer Council meeting.
 
-The winners of the 2022 Evaluation Community Awards profiled below reflect the dedication and ingenuity of the Federal evaluation community. The profiles include excerpts from their nominations (kept anonymous), which tell the story of how Federal evaluators generate high-quality evidence that informs program leaders and contributes to positive change across Government. In sharing these profiles, we aim to recognize the exemplary work of the awardees and inspire others to engage with and support the Federal evaluation community in all they do to improve Federal programs and decision-making!
+The winners of the 2022 Evaluation Community Awards profiled below reflect the dedication and ingenuity of the Federal evaluation community. The profiles include excerpts from their nominations (kept anonymous), which tell the story of how Federal evaluators generate high-quality evidence that informs program and policy leaders and contributes to positive change across Government. In sharing these profiles, we aim to recognize the exemplary work of the awardees and inspire others to engage with and support the Federal evaluation community in all they do to improve Federal programs and decision-making!
 
 <div class="grid-row grid-gap">
     <div class="tablet:grid-col-6">
-        <h3 class="awrd-title"><a href="#distinguished">EOC Distinguished Contribution Award:</a><br/><span class="awrd-sub-title">Russ Burnett, DOJ</span></h3>
-        <h3 class="awrd-title"><a href="#team-of-year">Evaluation and Evidence Team of the Year Award:</a><br/><span class="awrd-sub-title"><a href="https://www.cdc.gov/hiv/research/demonstration/projectpride.html" target="_blank">PrIDE</a> Local Evaluation (LE) Team, HHS</span></h3>
-        <h3 class="awrd-title"><a href="#action-award">Evaluation in Action Award:</a><br/><span class="awrd-sub-title">Alan Gorowitz, DOD</span></h3>
+        <h3 class="awrd-title"><a href="#distinguished">Distinguished Contribution Award</a><br/><span class="awrd-sub-title">Russ Burnett, DOJ</span></h3>
+        <h3 class="awrd-title"><a href="#team-of-year">Evaluation and Evidence Team of the Year Award</a><br/><span class="awrd-sub-title"><a href="https://www.cdc.gov/hiv/research/demonstration/projectpride.html" target="_blank">PrIDE</a> Local Evaluation (LE) Team, HHS</span></h3>
+        <h3 class="awrd-title"><a href="#action-award">Evaluation in Action Award</a><br/><span class="awrd-sub-title">Alan Gorowitz, DOD</span></h3>
     </div>
     <div class="tablet:grid-col-6">
-        <h3 class="awrd-title"><a href="#excellence">Excellence in Program Evaluation Award:</a><br/><span class="awrd-sub-title">Kelley Scanlon, USDA<br/>Patricia Moore Shaffer, NEA</span></h3>
-        <h3 class="awrd-title"><a href="#innovator">Federal Evaluation Innovator Award:</a><br/><span class="awrd-sub-title">Brian Scholl, SEC</span></h3>
-        <h3 class="awrd-title"><a href="#mentor">Outstanding Evaluation Mentor Award:</a><br/><span class="awrd-sub-title">Anne Fletcher, HUD</span></h3>
+        <h3 class="awrd-title"><a href="#excellence">Excellence in Program Evaluation Award</a><br/><span class="awrd-sub-title">Kelley Scanlon, USDA<br/>Patricia Moore Shaffer, NEA</span></h3>
+        <h3 class="awrd-title"><a href="#innovator">Federal Evaluation Innovator Award</a><br/><span class="awrd-sub-title">Brian Scholl, SEC</span></h3>
+        <h3 class="awrd-title"><a href="#mentor">Outstanding Evaluation Mentor Award</a><br/><span class="awrd-sub-title">Anne Fletcher, HUD</span></h3>
     </div>
 </div>
 
 <hr class="hr-color margin-top-5">
-<h3 class="awrd-title" id="distinguished">EOC Distinguished Contribution Award<br/><span class="awrd-sub-title"><i>For EOC members who make exceptional contributions to the Federal evaluation community.</i></span></h3>
+<h3 class="awrd-title" id="distinguished">Evaluation Officer Council Distinguished Contribution Award<br/><span class="awrd-sub-title"><i>For Evaluation Officer Council members who make exceptional contributions to the Federal evaluation community.</i></span></h3>
 <div class="grid-row grid-gap">
     <div class="tablet:grid-col-2">
         <img src="{{site.baseurl}}/assets/images/blog/russ-burnett.png" alt="Russ Burnett Headshot" style="float:left; margin-right:1rem; margin-top:0.4rem">
@@ -155,7 +155,7 @@ The winners of the 2022 Evaluation Community Awards profiled below reflect the d
     <div class="tablet:grid-col-10">
         <p><strong>Brian Scholl</strong>, Chief Economist<br />
         The Office of the Investor Advocate<br />
-        US Securities and Exchange Commission</p>
+        US Securities and Exchange Commission (SEC)</p>
         <p>Brian is the founder and manager of the SEC’s POSITIER, a unique research lab in which an interdisciplinary team of researchers access best-in-class data collection tools for investor outreach and rapid cycle research generation in support of policymaking.  He advises the Commission and Investor Advocate on investor issues.</p>
     </div>
 </div>
@@ -176,7 +176,7 @@ The winners of the 2022 Evaluation Community Awards profiled below reflect the d
     <div class="tablet:grid-col-10">
         <p><strong>Anne Fletcher</strong>, Supervisory Social Science Analyst<br />
         Office of Policy Development and Research, Office of Research, Evaluation & Monitoring, Program Evaluation Division<br />
-        US Department of Housing and Urban Development</p>
+        U.S. Department of Housing and Urban Development</p>
         <p>Anne is currently a Supervisory Social Science Analyst within the Office of Research, Evaluation & Monitoring of the U.S. Department of Housing and Urban Development, Office of Policy Development and Research.  She has twenty years of research and evaluation experience working across various Federal agencies, including a detail to serve as staff to the Commission on Evidence-Based Policymaking, and in each position has had a special focus on program evaluation and research related to the issues of housing and homelessness.</p>
     </div>
 </div>
