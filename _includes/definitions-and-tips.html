@@ -1,0 +1,27 @@
+{% comment %}
+This appears at the bottom of the evidence-plans pages.
+{% endcomment %}
+
+{% assign def_and_tips_data = site.data.definitions-and-tips %}
+{% for def_and_tip in def_and_tips_data %}
+    <div class="usa-media-block tablet:grid-col-12 display-block">
+        <h2 class="dashboard-header text-center">{{def_and_tip.name}}</h2>
+    </div>
+    {% for each_tag in def_and_tip.tags %}
+        <div class="grid-row">
+            <div class="usa-media-block tablet:grid-col-3 display-block">
+                <p>{{each_tag.tag}}</p>
+            </div>
+            <div class="usa-media-block tablet:grid-col-9 display-block">
+                <p>{{each_tag.definition}}</p>
+                {% if each_tag.bullets %}
+                    <ul>
+                        {% for each_bullet in each_tag.bullets %}
+                            <li>{{each_bullet.bullet}}</li>
+                        {% endfor %}
+                    </ul>
+                {% endif %}
+            </div>
+        </div>
+    {% endfor %}
+{% endfor %}
