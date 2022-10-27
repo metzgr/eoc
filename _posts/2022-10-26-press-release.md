@@ -8,11 +8,11 @@ aria: EOC Awards Blog Post
 tags: General-Services-Administration
 filters: General-Services-Administration
 permalink: /2022-10-26-general-service-administration/
-image: general-services-administration.png
-img-alt: General-Services-Administration
+image: general-service-administration.png
+img-alt: General-Service-Administration
 ---
 
-<img src="{{site.baseurl}}/assets/images/blog/general-services-administration.png" alt="General-Services-Administration" style="float:left; width:36%; height:35%; margin-right:1rem; margin-top:0.4rem">
+<img src="{{site.baseurl}}/assets/images/blog/general-service-administration.png" alt="General-Services-Administration" style="float:left; width:36%; height:35%; margin-right:1rem; margin-top:0.4rem">
 
 The OMB Evidence Team is excited to share this U.S. General Services Administration [News Release](https://www.gsa.gov/about-us/newsroom/news-releases/gsa-to-build-evidence-on-advancing-equitable-outcomes-through-the-american-rescue-plan-10202022){:target="_blank"} about the award of a Multi-Year Evaluation Contract on Equity and the American Rescue Plan on October 20, 2022. 
 
