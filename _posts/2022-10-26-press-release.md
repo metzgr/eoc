@@ -8,7 +8,7 @@ aria: EOC Awards Blog Post
 tags: General-Services-Administration
 filters: General-Services-Administration
 permalink: /2022-10-26-general-service-administration/
-image: general-service-administration.jpg
+image: general-service-administration-thumbnail.jpg
 img-alt: General-Service-Administration
 ---
 
