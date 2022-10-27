@@ -3,7 +3,7 @@ title: Building Evidence to Advance Equitable Outcomes through the American Resc
 layout: post
 date: October 26, 2022
 author: General Services Administration (GSA)
-excerpt: The OMB Evidence Team is excited to share this U.S. General Services Administration...
+excerpt: The OMB Evidence Team is excited to share this U.S. General Services Administration [News Release](https://www.gsa.gov/about-us/newsroom/news-releases/gsa-to-build-evidence-on-advancing-equitable-outcomes-through-the-american-rescue-plan-10202022){:target="_blank"} about the award of a Multi-Year Evaluation...
 aria: EOC Awards Blog Post
 tags: General-Services-Administration
 filters: General-Services-Administration
