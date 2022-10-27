@@ -415,7 +415,7 @@ blockquote p {
   color: white;
   background-color: #1b1b1b;
   padding-bottom: 1rem;
-
+ }
 
 .usa-identifier__container {
   margin-left: auto;
@@ -596,4 +596,14 @@ blockquote p {
       display:inline-flex
   }
 }
+// Learning Agenda Questions Dashboard
+
+.dashboard-header {
+  color: #005ea2;
+}
+
+.dashboard-subheader {
+  color: #71767A;
+  font-size: 20px;
+  font-weight: bold;
 }
