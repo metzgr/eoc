@@ -112,10 +112,10 @@ The winners of the 2022 Evaluation Community Awards profiled below reflect the d
 <h3 class="awrd-title" id="excellence">Excellence in Program Evaluation Award<br/><span class="awrd-sub-title"><i>For evaluation leaders or staff who keep initiatives on track and deliver high quality evaluations that uphold the standards of relevance and utility; independence and objectivity; rigor, transparency, and ethics.</i></span></h3>
 <div class="grid-row grid-gap">
     <div class="tablet:grid-col-2">
-        <img src="{{site.baseurl}}/assets/images/blog/kelly-scanlon.png" alt="Kelly Scanlon Headshot" style="float:left; margin-right:1rem; margin-top:0.4rem">
+        <img src="{{site.baseurl}}/assets/images/blog/kelley-scanlon.png" alt="Kelley Scanlon Headshot" style="float:left; margin-right:1rem; margin-top:0.4rem">
     </div>
     <div class="tablet:grid-col-10">
-        <p><strong>Kelly Scanlon</strong>, Senior Analytical Advisor<br />
+        <p><strong>Kelley Scanlon</strong>, Senior Analytical Advisor<br />
         Center for Nutrition Policy and Promotion<br />
         Food and Nutrition Service, US Department of Agriculture</p>
         <p>Kelley joined the Food and Nutrition Service, USDA, in 2016 as Director of the Special Nutrition Research and Analysis Division in the Office of Policy Support. The division was responsible for the research and analysis to inform and evaluate fourteen of the Federal nutrition assistance programs, producing the body of research acknowledged by this award. In August 2022, she joined the Center for Nutrition Policy and Promotion (CNPP) as a Senior Analytical Advisor to work on scientific priorities across the Center. </p>
