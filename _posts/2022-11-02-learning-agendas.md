@@ -4,10 +4,10 @@ layout: post
 date: November 02, 2022
 author: The Evidence Team
 excerpt: Federal agencies recently published agency-wide <a href="https://www.evaluation.gov/evidence-plans/learning-agenda/" target="_blank">Learning Agendas</a> as required by the Evidence Act. Learning Agendas, or evidence-building plans, provide a roadmap to building the evidence that’s critical for effective, evidence-based decision-making across Government.
-aria: EOC Awards Blog Post
+aria: Evidence Act
 tags: Evidence Act
 filters: learning-agendas
-permalink: /2022-11-02-learning-agendas/
+permalink: 
 image: learning-agendas-thumbnail.jpg
 img-alt: learning-agendas
 ---
