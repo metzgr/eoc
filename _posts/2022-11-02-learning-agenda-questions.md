@@ -8,11 +8,11 @@ aria: Evidence Act
 tags: Evidence Act
 filters: learning-agendas
 permalink: /2022-11-02-learning-agenda-questions/
-image: learning-agendas-thumbnail.jpg
-img-alt: learning-agendas
+image: learning-agenda.jpg
+img-alt: learning-agenda
 ---
 
-<img src="{{site.baseurl}}/assets/images/blog/learning-agenda.jpg" alt="learning-agendas" style="float:left; width:36%; height:35%; margin-right:1rem; margin-top:0.4rem">
+<img src="{{site.baseurl}}/assets/images/blog/learning-agenda.jpg" alt="learning-agenda" style="float:left; width:36%; height:35%; margin-right:1rem; margin-top:0.4rem">
 
 Federal agencies recently published agency-wide [Learning Agendas](https://www.evaluation.gov/evidence-plans/learning-agenda/){:target="_blank"} as required by the Evidence Act. Learning Agendas, or evidence-building plans, provide a roadmap to building the evidence that's critical for effective, evidence-based decision-making across Government. The plans include priority questions to address Federal agencies' most pressing evidence needs and provide additional information about how agencies plan to build evidence to address each question.
 
