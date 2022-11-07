@@ -1,7 +1,7 @@
 ---
 layout: wide
-title: Definitions and Tips
-permalink: /definitions-and-tips/
+title: FAQs and Definitions
+permalink: /faqs-and-definitions/
 
 ---
 
@@ -10,12 +10,12 @@ permalink: /definitions-and-tips/
         <div class="grid-container">
             <div class="grid-row grid-gap">
                 <div class="tablet:grid-col">
-                    <h1 class="margin-0 text-white font-ui-2xl">Definition and Tips</h1>
+                    <h1 class="margin-0 text-white font-ui-2xl">FAQs and Definitions</h1>
                 </div>
             </div>
         </div>
     </section>
     <div class="grid-container">
-        {% include definitions-and-tips.html %}
+        {% include faqs-and-definitions.html %}
     </div>  
 </div>

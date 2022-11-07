@@ -24,7 +24,7 @@ permalink: /learning-agenda-questions-dashboard/
         <div class="grid-row grid-gap flex-justify flex-align-center">
             <div><p class="dashboard-subheader">Search Federal Agencies' Learning Agenda Questions</p></div>
             <div>
-                <a href="{{site.baseurl}}/definitions-and-tips/" target="_blank" aria-label="opens in a new window" class="usa-button usa-button--outline border-0">Definitions and Tips</a>
+                <a href="{{site.baseurl}}/faqs-and-definitions/" target="_blank" aria-label="opens in a new window" class="usa-button usa-button--outline border-0">FAQs and Definitions</a>
                 <a href="{{site.baseurl}}/assets/resources/Learning Agenda Downloadable Data_Listed Tags.csv" download class="usa-button usa-button--outline border-0">Download Data</a>
             </div>
         </div>

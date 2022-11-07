@@ -418,3 +418,25 @@ blockquote p {
   font-size: 20px;
   font-weight: bold;
 }
+
+.faqs-question{
+  color: #333;
+  font-size: 24px;
+}
+
+.ogp-accordion{
+  background-color: #e1f3f8;
+  display: flex;
+
+}
+
+.ogp-accordion:hover{
+  background-color: #c2dde4;
+}
+
+.usa-accordion--bordered .usa-accordion__content {
+  border-bottom: 0.25rem solid #c2dde4;
+  border-left: 0.25rem solid #c2dde4;
+  border-right: 0.25rem solid #c2dde4;
+  padding-bottom: 1rem;
+}
