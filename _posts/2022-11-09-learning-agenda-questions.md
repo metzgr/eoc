@@ -1,13 +1,13 @@
 ---
 title: New Tool to Explore Agency Learning Agenda Questions!
 layout: post
-date: November 03, 2022
+date: November 09, 2022
 author: The Evidence Team
-excerpt: Federal agencies recently published agency-wide <a href="https://www.evaluation.gov/evidence-plans/learning-agenda/" target="_blank">Learning Agendas</a> as required by the Evidence Act. Learning Agendas, or evidence-building plans, provide a roadmap to building the evidence that's critical for effective, evidence-based decision-making across Government.
+excerpt: Federal agencies recently published agency-wide <a href="https://www.evaluation.gov/evidence-plans/learning-agenda/">Learning Agendas</a> as required by the Evidence Act. Learning Agendas, or evidence-building plans, provide a roadmap to building the evidence that's critical for effective, evidence-based decision-making across Government.
 aria: Evidence Act
 tags: Evidence Act
 filters: learning-agendas
-permalink: /2022-11-03-learning-agenda-questions/
+permalink: /2022-11-09-learning-agenda-questions/
 image: learning-agenda.jpg
 img-alt: learning-agenda
 ---
