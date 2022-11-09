@@ -8,7 +8,7 @@ aria: Evidence Act
 tags: Evidence Act
 filters: learning-agendas
 permalink: /2022-11-09-learning-agenda-questions/
-image: learning-agenda.jpg
+image: learning-agendas-thumbnail.jpg
 img-alt: learning-agenda
 ---
 
