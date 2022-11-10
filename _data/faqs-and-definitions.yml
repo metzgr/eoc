@@ -4,7 +4,7 @@
       definition: Consistent with what OMB M-19-23 refers to as “mission strategic” questions, the question relates to how the agency meets, delivers services toward, measures success of, or otherwise executes their mission.
     - tag: Operationally-Focused
       definition: Consistent with what OMB M-19-23 refers to as “agency operational” questions, the question relates to how the agency conducts its internal operations as it works to deliver on mission, and may touch on topics like grant-making, HR, financial management systems, IT, remote/hybrid/telework, etc.
-- name: PMA-related Tags
+- name: PMA-related Topics
   tags:
     - tag: Business of Government
       definition: Question relates to the priorities of the President's Management Agenda related to Federal contracts and financial assistance, including but not limited to, Federal acquisition practices and requirements, and financial management systems.
@@ -14,7 +14,7 @@
       definition: Question relates to the Federal workforce broadly and/or the workforce within an agency specifically. Topics addressed within the workforce include, but are not limited to&#58; recruitment, hiring, and retention; employee engagement; DEIA in the Federal workforce; employee pay; workforce and succession planning; the future of work; skills needed by the Federal workforce.
     - tag: Equity
       definition: Question relates to the topic of equity as defined by EO 13985&#58; the consistent and systematic fair, just, and impartial treatment of all individuals, including individuals who belong to underserved communities that have been denied such treatment, such as Black, Latino, and Indigenous and Native American persons, Asian Americans and Pacific Islanders and other persons of color; members of religious minorities; lesbian, gay, bisexual, transgender, and queer (LGBTQ+) persons; persons with disabilities; persons who live in rural areas; and persons otherwise adversely affected by persistent poverty or inequality. Underserved communities refer to populations sharing a particular characteristic, as well as geographic communities, that have been systematically denied a full opportunity to participate in aspects of economic, social, and civic life. Questions can relate to the following topics, for example&#58; advancing equity in hiring, equitable delivery of services, equitable outcomes for program participants, etc.
-- name: Thematic Tags
+- name: Thematic Topics
   tags:
     - tag: Climate Change
       definition: Question relates to the area of climate change and/or environmental sustainability or resilience, including more specific areas like&#58; sustainable climate solutions, addressing the climate crisis, risks related to climate change, adapting programs/policies/etc. to account for climate risks or change, etc. Does not refer to general environmental questions, such as those related to habitat conservation or pollution.
