@@ -12,7 +12,7 @@ This appears when we click on "Definitions and Tips" button on the Learning agen
             {% assign faq_abt_learning = site.data.faq-about-the-learning-agenda %}
             {% for faq_item in faq_abt_learning %}
                 <div class="usa-media-block tablet:grid-col-12 display-block">
-                    <h2 class="faqs-question text-center">{{faq_item.faq}}</h2>
+                    <h2 class="faqs-question">{{faq_item.faq}}</h2>
                 </div>
                 <div class="usa-media-block tablet:grid-col-12 display-block">
                     <p class="text-left">{{faq_item.answer}}</p>
@@ -30,7 +30,7 @@ This appears when we click on "Definitions and Tips" button on the Learning agen
     <div class="usa-accordion padding-buttom-05">
         <div class="usa-accordion__heading">
           <button type="button" class="usa-accordion__button ogp-accordion" aria-expanded="false" aria-controls="a2">
-            Definitions of Topic and Focus areas
+            Definitions of Topic and Focus AREAS
           </button>
         </div>
         <div id="a2" class="usa-accordion__content usa-prose">
@@ -42,7 +42,7 @@ This appears when we click on "Definitions and Tips" button on the Learning agen
                 {% for each_tag in def_and_tip.tags %}
                     <div class="grid-row">
                         <div class="usa-media-block tablet:grid-col-3 display-block">
-                            <p>{{each_tag.tag}}</p>
+                            <p><b>{{each_tag.tag}}</b></p>
                         </div>
                         <div class="usa-media-block tablet:grid-col-9 display-block">
                             <p>{{each_tag.definition}}</p>
