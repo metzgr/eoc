@@ -2,7 +2,7 @@
 bio-image: small_business_administration_seal.png
 bio-image-alt-text: Small Business Administration
 layout: bio
-name: Jason Bossie
+name: Vacant
 department: Small Business Administration
-job-title: Director, Office of Performance Management, Analyis, and Evaluation
+job-title: 
 ---
