@@ -1,0 +1,71 @@
+- name: Question Focus
+  tags:
+    - tag: Mission-Focused
+      definition: Consistent with what OMB M-19-23 refers to as “mission strategic” questions, the question relates to how the agency meets, delivers services toward, measures success of, or otherwise executes their mission.
+    - tag: Operationally-Focused
+      definition: Consistent with what OMB M-19-23 refers to as “agency operational” questions, the question relates to how the agency conducts its internal operations as it works to deliver on mission, and may touch on topics like grant-making, HR, financial management systems, IT, remote/hybrid/telework, etc.
+- name: PMA-related Topics
+  tags:
+    - tag: Business of Government
+      definition: Question relates to the priorities of the President's Management Agenda related to Federal contracts and financial assistance, including but not limited to, Federal acquisition practices and requirements, and financial management systems.
+    - tag: Customer Experience & Service Delivery
+      definition: Question relates to customer experience and/or service delivery as defined by A-11, Section 280. - CX refers to the public's perceptions of and overall satisfaction with interactions with an agency, product, or service. The term refers to a combination of factors that result from touchpoints between an individual, business, or organization and the Federal Government over the duration of an interaction and relationship, including ease/simplicity, efficiency/speed, equity/transparency of the process, perceived value of the service itself, and interaction with employees. - Service delivery refers to the set of interactions between a customer and Federal Agency such as applying for a benefit or loan, requesting a document, etc. where the focus is on how services are delivered as opposed to the outcomes resulting from benefit receipt.
+    - tag: Federal Workforce
+      definition: Question relates to the Federal workforce broadly and/or the workforce within an agency specifically. Topics addressed within the workforce include, but are not limited to&#58; recruitment, hiring, and retention; employee engagement; DEIA in the Federal workforce; employee pay; workforce and succession planning; the future of work; skills needed by the Federal workforce.
+    - tag: Equity
+      definition: Question relates to the topic of equity as defined by EO 13985&#58; the consistent and systematic fair, just, and impartial treatment of all individuals, including individuals who belong to underserved communities that have been denied such treatment, such as Black, Latino, and Indigenous and Native American persons, Asian Americans and Pacific Islanders and other persons of color; members of religious minorities; lesbian, gay, bisexual, transgender, and queer (LGBTQ+) persons; persons with disabilities; persons who live in rural areas; and persons otherwise adversely affected by persistent poverty or inequality. Underserved communities refer to populations sharing a particular characteristic, as well as geographic communities, that have been systematically denied a full opportunity to participate in aspects of economic, social, and civic life. Questions can relate to the following topics, for example&#58; advancing equity in hiring, equitable delivery of services, equitable outcomes for program participants, etc.
+- name: Thematic Topics
+  tags:
+    - tag: Climate Change
+      definition: Question relates to the area of climate change and/or environmental sustainability or resilience, including more specific areas like&#58; sustainable climate solutions, addressing the climate crisis, risks related to climate change, adapting programs/policies/etc. to account for climate risks or change, etc. Does not refer to general environmental questions, such as those related to habitat conservation or pollution.
+    - tag: Criminal Justice
+      definition: Question relates to programs, policies, or other aspects of criminal justice, crime prevention and reduction, and law enforcement.
+    - tag: Cybersecurity
+      definition: Question relates to capacities, tools and practices, investments, and policies to support improved cybersecurity.
+    - tag: Data Related
+      definition: Question relates to the full range of issues associated with data, including but not limited to data availability, sharing, access, security, and the design and implementation of data systems and architecture.
+    - tag: DEIA (Diversity, Equity, Inclusion, and Accessibility)
+      definition: Question relates specifically to the topics of diversity, equity, inclusion, and accessibility in the Federal Workforce as defined by EO&#58;
+      bullets:
+        - bullet: Diversity means the practice of including the many communities, identifies, races, ethnicities, backgrounds, abilities, cultures, and beliefs of the American people, including underserved communities.
+        - bullet: Equity means the consistent and systematic fair, just, and impartial treatment of all individuals, including individuals who belong to underserved communities that have been denied such treatment.
+        - bullet: Inclusion means the recognition, appreciation, and use of the talents and skills of employees of all backgrounds.
+        - bullet: Accessibility means the design, construction, development, and maintenance of facilities, information and communication technology, programs, and services so that all people, including people with disabilities, can fully and independently use them.
+    - tag: Disaster Preparedness & Response
+      definition: Question relates to disaster preparedness and response generally, as well as specific programs or policies that address disasters. This does not include questions related to pandemic response. 
+    - tag: Economic development
+      definition: Question relates to programs or policies intended to support economic development as well as trends, drivers, or other factors associated with economic development at the local, regional, or national scale.
+    - tag: Education
+      definition: Question relates to K-12 education, as well as post-secondary education, including college, university, and career-technical education.
+    - tag: Energy
+      definition: Question relates to investments, programs, or policies related to the development or use of energy resources. Does not refer to questions about the environment or climate change.
+    - tag: Environmental Justice
+      definition: Question relates to evidence needs to inform, support, or further efforts to achieve environmental justice. Does not refer to general questions about the environment or climate change. Environmental justice is the fair treatment and meaningful involvement of all people regardless of race, color, national origin, or income, with respect to the development, implementation, and enforcement of environmental laws, regulations, and policies.
+    - tag: Future of Work
+      definition: Question relates to the future of the Federal workforce and workplaces building on lessons from the COVID-19 pandemic and workforce and workplace trends.
+    - tag: Grant Programs & Administration
+      definition: Question relates to all aspects of grant program design, administration, implementation, and/or evaluation.
+    - tag: Housing
+      definition: Question relates to housing policy, programs, and financing, or efforts to address homelessness.
+    - tag: Immigration
+      definition: Question relates to programs or policies affecting immigration patterns or the experiences of immigrant populations.
+    - tag: Individuals with Disabilities
+      definition: Question relates to programs or policies specific to individuals with disabilities.
+    - tag: Infrastructure
+      definition: Question relates to the full range of infrastructure investments and programs, including but not limited to transportation and communication systems. This also includes questions driven by implementation of the Bipartisan Infrastructure Law. 
+    - tag: National Security
+      definition: Question relates to the security or defense of the United States, including foreign policies or technological and other investments with national security implications.
+    - tag: Native American & Tribal Communities
+      definition: Question relates to programs, policies, or other actions that are related to, led by, or may affect Native populations or Tribal communities.
+    - tag: Natural Resources & Environment
+      definition: Question relates to broadly to natural resource management and environmental concerns, including topics such as pollution, habitat loss, environmental restoration, and protection of endangered ecosystems and species. Does not include questions related to climate change, energy resources, or environmental justice.
+    - tag: Pandemic Response
+      definition: Question relates to preparation for, response to, and recovery from pandemics, including COVID-19, as well as future pandemics, ensuring the Government is prepared to handle future public health emergencies. Potential topics may include, but not be limited to&#58; preparations for future pandemics, adaptations/changes in operations as a result of the pandemic, structural changes required by the pandemic, addressing future disruptions to the economy, returning to pre-COVID activities, etc.
+    - tag: Public Health
+      definition: Question relates to public health topics.
+    - tag: Social Services
+      definition: Question relates to the design or administration of social service or benefit programs, including but not limited to, unemployment insurance, housing programs, income supports, social security, early childhood programs, etc.
+    - tag: Veterans Benefits & Services
+      definition: Question relates to programs and policies affecting veterans, including the range of available benefits and services.
+    - tag: Workforce Development & Employment
+      definition: Question relates to programs, policies, or other actions aimed at supporting participation in the workforce. Does not include questions related to the Federal workforce.
