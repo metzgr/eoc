@@ -3,16 +3,16 @@ title: Progress on the White House Year of Evidence for Action
 layout: post
 date: January 13, 2023
 author: Christina Ciocca Eller (OSTP), Mariam Gulaid (OSTP), and Diana Epstein (OMB)
-excerpt: 
+excerpt:
 aria: 
 tags: Year-of-Evidence
 filters: year-of-evidence
 permalink: /2023-01-05-progress-on-year-of-evidence-for-action/
-image: light-bulb-thumbnail.jpg
-img-alt: light bulb that is made of gears
+image: lightbulb-stickers.jpg
+img-alt: light bulb with stickers
 ---
 
-*his post, authored by Christina Ciocca Eller, Assistant Director for Evidence and Policy, and Mariam Gulaid, Policy Advisor, Office of Science and Technology Policy (OSTP); and Diana Epstein, Evidence Team Lead, Office of Management and Budget, was originally shared on the OSTP [website](https://www.whitehouse.gov/ostp/news-updates/2022/12/30/progress-on-the-white-house-year-of-evidence-for-action/){:target="_blank"}. Read on to learn more about the White House Year of Evidence for Action.*
+*This post, authored by Christina Ciocca Eller, Assistant Director for Evidence and Policy, and Mariam Gulaid, Policy Advisor, Office of Science and Technology Policy (OSTP); and Diana Epstein, Evidence Team Lead, Office of Management and Budget, was originally shared on the OSTP [website](https://www.whitehouse.gov/ostp/news-updates/2022/12/30/progress-on-the-white-house-year-of-evidence-for-action/){:target="_blank"}. Read on to learn more about the White House Year of Evidence for Action.*
 
 During his first week in office, President Biden signed the [Memorandum on Restoring Trust in Government Through Scientific Integrity and Evidence-based Policymaking](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/01/27/memorandum-on-restoring-trust-in-government-through-scientific-integrity-and-evidence-based-policymaking/){:target="_blank"}, directing every part of his Administration to take bold and necessary steps to restore trust in government and in science. Driving this landmark directive was a central principle: in order to strengthen democracy and advance equity, the U.S. government must make evidence-based decisions guided by the best available science and data.
 
