@@ -8,10 +8,10 @@ eval-plan:
     - name: FY 2022
       link: https://pdf.usaid.gov/pdf_docs/PA00XBT7.pdf
     - name: FY 2023
-      link: https://www.usaid.gov/evaluation/evidence-act-annual-evaluation-plan
+      link: https://www.usaid.gov/sites/default/files/2022-12/USAID%20Annual%20Evaluation%20Plan%20FY%202023_Published%20March%202022.docx.pdf
 eval-policy: https://www.usaid.gov/evaluation/policy
 learning-agenda: https://www.usaid.gov/evaluation/evidence-act-agency-learning-agenda
-capacity-assesment: https://www.usaid.gov/evaluation/evidence-act-capacity-assessment
+capacity-assesment: https://www.usaid.gov/sites/default/files/2022-12/USAID%20Capacity%20Assessment%20-%20FY%202022%20for%20Publication_1.pdf
 agency-offices:
     - name: Bureau for Policy, Planning and Learning
       link: https://www.usaid.gov/who-we-are/organization/bureaus/bureau-policy-planning-and-learning
