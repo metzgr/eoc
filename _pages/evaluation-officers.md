@@ -14,9 +14,9 @@ permalink: /evaluation-officers/
     </div>
   </section>
   <div class="grid-container">
+    <h2>Evaluation Officers</h2>
     <div class="grid-row grid-gap">
-        {% include officer-list.html %}
+      {% include officer-list.html %}
     </div>
   </div>
 </div>
-
