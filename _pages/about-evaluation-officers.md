@@ -3,7 +3,6 @@ layout: wide
 title: About Evaluation officers
 permalink: /about-evaluation-officers/
 ---
-
 <div class="usa-layout-docs">
   <section class="usa-graphic-list usa-section sml-margin bg-gradient">
     <div class="grid-container">
@@ -25,7 +24,7 @@ permalink: /about-evaluation-officers/
           <li>coordinate and collaborate on areas of common interest (including development of deliverables required under Title I of the Evidence Act); and</li> 
           <li>serve in a leadership role for the broader Federal evaluation community.</li>
         </ul>
-        <h2>About Evaluation Officers
+        <h2>About Evaluation Officers</h2>
         <h3>Overview</h3>
         <p>
         The <a href="https://www.congress.gov/bill/115th-congress/house-bill/4174/text " target="_blank">Foundations for Evidence-Based Policymaking Act of 2018 (P.L. 115-435) 44 USC § 3520A</a> formally establishes the position of the Evaluation Officer (EO) at CFO Act agencies. The Evaluation Officer, through the roles and responsibilities described below, and in coordination with other agency leaders, ensures the successful execution of the agency's evidence planning and evaluation activities. Recent OMB guidance, <a href="https://www.whitehouse.gov/wp-content/uploads/2021/06/M-21-27.pdf" target="_blank">OMB M-21-27</a>, affirms that the Evaluation Officer should be a senior career employee in the agency with the skills and expertise needed to maintain principles of scientific integrity throughout the evaluation process, ensure adherence to the agency evaluation policy, and uphold the evaluation standards in <a href="https://www.whitehouse.gov/wp-content/uploads/2020/03/M-20-12.pdf" target="_blank">OMB M-20-12</a>. Critically, the Evaluation Officer must also have sufficient time and resources to lead and execute this work, which requires limiting, to the extent practicable, the number of other roles that the Evaluation Officer is tasked to fill. OMB encourages non-CFO Act agencies, sub-agencies, and operating divisions to name an Evaluation Officer as appropriate.
@@ -53,7 +52,6 @@ permalink: /about-evaluation-officers/
             Member of the interagency Evaluation Officer Council
             </li>
         </ul>
-            
         <h3>Responsibilities</h3>
         The Evaluation Officer also oversees or conducts:
         <ul class="margin-top-0">
@@ -87,7 +85,6 @@ permalink: /about-evaluation-officers/
           Use and dissemination of evaluation results throughout the agency and to the public, as appropriate.
           </li>
         </ul>
-          
         <h3>Qualifications</h3>
         <p>
         The role of Evaluation Officer is complex and requires a wide array of skills. The Evidence Act requires the appointment or designation of Evaluation Officers “based on demonstrated expertise in evaluation methodology and practices and appropriate expertise to the disciplines of the agency” 5 U.S.C. § 313. As described in <a href="https://www.whitehouse.gov/wp-content/uploads/2019/07/M-19-23.pdf" target="_blank">OMB M-19-23</a>, and reaffirmed in <a href="https://www.whitehouse.gov/wp-content/uploads/2021/06/M-21-27.pdf" target="_blank">OMB M-21-27</a>, they must be a senior agency official with demonstrated, senior-level technical expertise in evaluation methods and practices as well as documented expertise in the disciplines of agency.  This includes advanced education and training in an evaluation-related field, direct experience in applying evaluation methods to study Federal programs and/or policies, and knowledge of current analytic techniques. It is critical that Evaluation Officers have credibility in the range of relevant evaluation practices and methods, as well as appropriate expertise in the culture, disciplines, and policy areas of the agency.
