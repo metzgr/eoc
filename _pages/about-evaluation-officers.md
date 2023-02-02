@@ -9,7 +9,7 @@ permalink: /about-evaluation-officers/
     <div class="grid-container">
       <div class="grid-row grid-gap">
         <div class="tablet:grid-col">
-          <div class="text-white font-ui-2xl margin-bottom-0 text-bold"> About Evaluation Officers </div>
+          <div class="text-white font-ui-2xl margin-bottom-0 text-bold"> The Council </div>
         </div>
       </div>
     </div>
