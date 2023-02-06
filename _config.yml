@@ -78,12 +78,12 @@ primary_navigation:
   - name: Home
     url: /
   - name: The Council
-    url: /evaluation-officer-council/
+    url: /about-evaluation-officers/
     children:
       - name: Evaluation Officer Council
-        url: "/evaluation-officer-council#officer"
+        url: "/about-evaluation-officers"
       - name: Evaluation Officers
-        url: "/evaluation-officer-council#members"
+        url: "/evaluation-officers"
       - name: Interagency Council on Evaluation Policy
         url: "/evaluation-officer-council#policy"
   - name: Agencies
