@@ -2,17 +2,10 @@
 layout: wide
 title: About Evaluation officers
 permalink: /about-evaluation-officers/
+page_title: The Council
 ---
 <div class="usa-layout-docs">
-  <section class="usa-graphic-list usa-section sml-margin bg-gradient">
-    <div class="grid-container">
-      <div class="grid-row grid-gap">
-        <div class="tablet:grid-col">
-          <div class="text-white font-ui-2xl margin-bottom-0 text-bold"> The Council </div>
-        </div>
-      </div>
-    </div>
-  </section>
+  {% include eoc-header.html %}
   <div class="grid-container">
     <div class="grid-row grid-gap">
       <div>
