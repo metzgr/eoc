@@ -9,6 +9,24 @@ page_title: The Council
   {% include eoc-header.html %}
   <div class="grid-container">
     <div class="grid-row grid-gap">
+
+     {% for icep in site.data.icep %}
+        <div>
+          <h2>{{icep.header}}</h2>
+          <p>{{icep.body.contentText}}</p>
+          
+            <ul>
+              {% for eachList in icep.body.bullets %}
+                <li>{{eachList}} </li>
+              {%endfor%}
+            </ul>
+            {% if icep.key == 'icep' %}
+              <p>ICEP membership is limited to Federal staff who are technical experts in one or more aspects of evaluation, and serve time-limited terms. ICEP is led by a steering committee.</p>
+              <p> If you are interested in learning more, please contact <a href="mailto:evidence@omb.eop.gov">evidence@omb.eop.gov</a> </p>
+            {% endif %}
+        </div>    \
+        {%endfor%}
+    {{site.data.icep}}
       <div>
         <h2>Interagency Council on Evaluation Policy</h2>
         <p>
