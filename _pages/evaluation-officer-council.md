@@ -22,8 +22,16 @@ page_title: The Council
               {%endfor%}
             </ul>
             {% if icep.key == 'membership' %}
-              <p>ICEP membership is by application only. If you are interested in applying to serve or would like to learn more, please contact <a href="mailto:evidence@omb.eop.gov">evidence@omb.eop.gov</a>.</p>
-              <p> Federal employees can learn about upcoming ICEP events by visiting <a href="https://community.max.gov/x/wVkCgg" target="_blank">this</a> internal website (log-in required).</p>
+              <p>ICEP membership is by application only. If you are interested in applying to serve or would like to learn more, please contact 
+                <a href="mailto:evidence@omb.eop.gov" aria-label="Email Address (opens your default email application)">evidence@omb.eop.gov</a>
+              .</p>
+              <p> Federal employees can learn about upcoming ICEP events by visiting 
+                <a 
+                  href="https://community.max.gov/x/wVkCgg" 
+                  aria-label="Internal website (opens in a new window)"
+                  target="_blank">this
+                </a> 
+                internal website (log-in required).</p>
             {% endif %}
           {%endfor%}
         </div>
