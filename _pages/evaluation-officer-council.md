@@ -1,6 +1,6 @@
 ---
 layout: wide
-title: Evaluation officer council
+title: Interagency Council on Evaluation Policy (ICEP)
 permalink: /interagency-council-on-evaluation-policy/
 page_title: The Council
 ---
