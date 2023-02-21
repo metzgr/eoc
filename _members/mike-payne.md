@@ -4,5 +4,5 @@ bio-image-alt-text: U.S. Department of Defense
 layout: bio
 name: Mike Payne
 department: Department of Defense
-job-title: Principal Deputy Director, Cost Assessment and Program Evaluation
+job-title: Principal Deputy Director, Cost Assessment & Program Evaluation
 ---
