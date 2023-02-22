@@ -1,46 +1,39 @@
 ---
 layout: wide
-title: Evaluation officer council
-permalink: /evaluation-officer-council/
+title: Interagency Council on Evaluation Policy
+permalink: /interagency-council-on-evaluation-policy/
+page_title: The Council
 ---
 
 <div class="usa-layout-docs">
-  <section class="usa-graphic-list usa-section sml-margin bg-gradient">
-    <div class="grid-container">
-      <div class="grid-row grid-gap">
-        <div class="tablet:grid-col">
-          <div class="text-white font-ui-2xl margin-bottom-0 text-bold"> The Council </div>
-        </div>
-      </div>
-    </div>
-  </section>
+  {% include eoc-header.html %}
   <div class="grid-container">
     <div class="grid-row grid-gap">
         <div>
-            <h2 id="officer">Evaluation Officer Council</h2>
-            <p>The Evaluation Officer Council is comprised of the Evaluation Officers designated by the 24 CFO Act agencies (those identified in the Chief Financial Officers (CFO) Act of 1990). It serves as a forum to:</p>
+          {% for icep in site.data.icep %}
+            <h2>{{icep.header}}</h2>
+            {% for text in icep.body.contentText %}
+                <p>{{text}}</p>
+                {% if icep.body.contentText.length > 0 %}<br> {% endif %}
+            {%endfor%}
             <ul>
-            <li>exchange information;</li>
-            <li>consult with and advise OMB on issues that affect evaluation functions including evaluator competencies, program evaluation practices, and evaluation capacity building;</li>
-            <li>coordinate and collaborate on areas of common interest (including development of deliverables required under Title I of the Evidence Act); and</li> 
-            <li>serve in a leadership role for the broader Federal evaluation community.</li>
+              {% for eachList in icep.body.bullets %}
+                <li>{{eachList.bullet}} </li>
+              {%endfor%}
             </ul>
-        </div>
-        <div class="padding-top-2">
-            <h2 id="members">Evaluation Officers</h2>    
-            {% include officer-list.html %}
-        </div>
-        <div class="padding-top-6">
-            <h2 id="policy">Interagency Council on Evaluation Policy</h2>
-            <p>
-            The mission of ICEP is to enhance the value and contributions of Federal evaluations to improve government operations and delivery of government services, by identifying and exploring opportunities, including but not limited to:</p>
-            <ul>
-             <li>responding to calls from the Federal evaluation community, including OMB and the Evaluation Officers Council, including consultation requests for technical assistance and/or resources to support agencies in meeting their mandates under the Evidence Act; </li>
-             <li>papers and tools addressing methodological issues that affect Federal program evaluation; and</li>
-             <li>professional development opportunities for the Federal evaluation community.</li> 
-             </ul>
-             <p>ICEP membership is limited to Federal staff who are technical experts in one or more aspects of evaluation, and serve time-limited terms. ICEP is led by a steering committee.</p>
-            <p> If you are interested in learning more, please contact <a href="mailto:evidence@omb.eop.gov">evidence@omb.eop.gov</a> </p>
+            {% if icep.key == 'membership' %}
+              <p>ICEP membership is by application only. If you are interested in applying to serve or would like to learn more, please contact 
+                <a href="mailto:evidence@omb.eop.gov" aria-label="Email Address (opens your default email application)">evidence@omb.eop.gov</a>
+              .</p>
+              <p> Federal employees can learn about upcoming ICEP events by visiting 
+                <a 
+                  href="https://community.max.gov/x/wVkCgg" 
+                  aria-label="Internal website (opens in a new window)"
+                  target="_blank">this
+                </a> 
+                internal website (log-in required).</p>
+            {% endif %}
+          {%endfor%}
         </div>
     </div>
   </div>
