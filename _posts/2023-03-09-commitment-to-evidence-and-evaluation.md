@@ -1,5 +1,5 @@
 ---
-title: President’s Budget demonstrates commitment to evidence and evaluation
+title: President’s Budget Demonstrates Commitment to Evidence and Evaluation
 layout: post
 date: March 13, 2023
 author: The Evidence Team
@@ -7,7 +7,7 @@ excerpt: The <a href="https://www.whitehouse.gov/wp-content/uploads/2023/03/ap_1
 aria: 
 tags: Year-of-Evidence
 filters: year-of-evidence
-permalink: /2023-03-09-president-budget-demonstrates-commitment-to-evidence-and-evaluation/
+permalink: /2023-03-13-president-budget-demonstrates-commitment-to-evidence-and-evaluation/
 image: budget-report.jpg
 img-alt: budget report
 ---
