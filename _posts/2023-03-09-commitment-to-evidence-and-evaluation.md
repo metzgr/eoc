@@ -3,7 +3,7 @@ title: President’s Budget demonstrates commitment to evidence and evaluation
 layout: post
 date: March 13, 2023
 author: The Evidence Team
-excerpt: The <a href="https://www.whitehouse.gov/wp-content/uploads/2023/03/ap_12_evidence_fy2024.pdf" target="_blank">Evidence chapter</a> in the President’s Budget and <a href="/assets/resources/2024 Evidence Chapter in Brief.pdf">Chapter in Brief</a> highlight the Administration’s accomplishments and continued commitment to building and using evidence.
+excerpt: The <a href="https://www.whitehouse.gov/wp-content/uploads/2023/03/ap_12_evidence_fy2024.pdf" target="_blank">Evidence chapter</a> in the President’s Budget and <a href="/assets/resources/2024%20Evidence%20Chapter%20in%20Brief.pdf">Chapter in Brief</a> highlight the Administration’s accomplishments and continued commitment to building and using evidence.
 aria: 
 tags: Year-of-Evidence
 filters: year-of-evidence
