@@ -8,8 +8,8 @@ aria: Agencies publish their latest annual evaluation planes
 tags: Evaluation Evidence-Act
 filters: evaluation evidence-act
 permalink: /2024-04-03-agencies-publish-anual-evaluation-plans/
-image: trophy-stars-thumbnail.png
-img-alt: Golden trophy with stars
+image: notebook.jpg
+img-alt: Notebook with text "time to evaluate" on cover and a pen and glasses
 ---
 
 Agencies have now published their latest Annual Evaluation Plans, which describe the significant evaluation activities they will undertake during fiscal year 2024. The plans reflect the strengthening of a culture of evidence across the Federal Government as agencies identify where evaluation can help build evidence where it is most needed. The evaluations included in these plans cover a wide range of programs as well as operational practices, will generate evidence on processes, outcomes, and impacts, and reflect the full suite of evaluation methodologies. We encourage you to explore the documents linked [here]({{ site.baseurl }}/evidence-plans/annual-evaluation-plan/) or from the agency pages.
