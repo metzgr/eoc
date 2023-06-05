@@ -13,7 +13,7 @@ eval-plan:
     - name: FY 2024
       link: https://home.treasury.gov/system/files/266/Treasury-FY24-Annual-Evaluation-Plan.pdf
 eval-policy: https://home.treasury.gov/system/files/266/Interim-Evaluation-Policy.pdf
-learning-agenda: https://fiscal.treasury.gov/files/fY22-26-learning-agenda-fy22-23-annual-plan.pdf
+learning-agenda: https://home.treasury.gov/system/files/266/Treasury-FY2022-2026-LearningAgenda.pdf
 capacity-assesment: https://home.treasury.gov/system/files/266/Treasury-FY2022-2026-CapacityAssessment.pdf
 agency-offices:
     - name: Bureau of the Fiscal Service
