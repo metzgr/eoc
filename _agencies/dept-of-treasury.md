@@ -22,7 +22,7 @@ agency-offices:
       eval-learning-link: https://fiscal.treasury.gov/files/fY22-26-learning-agenda-fy22-23-annual-plan.pdf
     - name: Office of Recovery Programs
       link: https://home.treasury.gov/policy-issues/coronavirus
-      eval-plan: Learning Agenda
-      eval-plan-link: https://home.treasury.gov/system/files/136/ORP-Learning-Agenda-Draft-2023.pdf
+      eval-learning: Learning Agenda
+      eval-learning-link: https://home.treasury.gov/system/files/136/ORP-Learning-Agenda-Draft-2023.pdf
 landing-page: https://home.treasury.gov/about/budget-financial-reporting-planning-and-performance/budget-requestannual-performance-plan-and-reports
 ---
