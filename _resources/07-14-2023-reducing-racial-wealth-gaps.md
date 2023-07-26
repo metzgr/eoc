@@ -7,5 +7,5 @@ aria-label: 'YEA Evidence Forum: Reducing Racial Wealth Gaps through Effective S
 content_tags: 
 type: pdf
 filters: report 2022 year-of-evidence evidence-use
-post-date: July 21, 2023 # must add post date to show the "new" icon
+post-date: July 26, 2023 # must add post date to show the "new" icon
 ---
